@@ -1,0 +1,4 @@
+ssh -i C:\\Users\\Administrator\\Downloads\\AImodel.pem ec2-user@ec2-15-207-180-9.ap-south-1.compute.amazonaws.com 
+
+
+sftp -i C:\\Users\\Administrator\\Downloads\\AImodel.pem ec2-user@ec2-15-207-180-9.ap-south-1.compute.amazonaws.com
