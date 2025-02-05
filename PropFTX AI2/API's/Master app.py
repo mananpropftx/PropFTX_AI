@@ -43,12 +43,6 @@ re_locality_encoder = joblib.load('recommendation_location_encoder.pkl')
 
 merged_df = pd.read_csv("merged_recommendation_data_1.csv")
 
-#for geomap bnglr
-#property_data = pd.read_csv("/home/ec2-user/Bangalore_Geo_Map_Data.csv")  
-#property_data.columns = property_data.columns.str.strip()
-#property_data['Latitude'] = property_data['Latitude'].replace('Not found', pd.NA)
-#property_data['Longitude'] = property_data['Longitude'].replace('Not found', pd.NA)
-
 
 month_mapping = {
     'Jan-Mar': 1,
