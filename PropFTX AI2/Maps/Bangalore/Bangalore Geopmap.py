@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 city_data = {
     "Bangalore": {
-        "Geomap_data": pd.read_csv("C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Maps\\Bangalore\\Bangalore_Geo_Map_Data.csv")
+        "Geomap_data": pd.read_csv("C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\Bangalore_Geo_Map_Data2.csv")
     }
 }
 

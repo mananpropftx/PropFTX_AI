@@ -12,11 +12,11 @@ CORS(app2)
 
 city_data = {
     "Bangalore": {
-        "encoder": joblib.load('C:\\Users\\manan\\PropFTX AI2\\Prediction\\Bangalore\\Bangalore_locality_encoding.pkl'),
-        "scaler": joblib.load('C:\\Users\\manan\\PropFTX AI2\\Prediction\\Bangalore\\Bangalore_locality_scaling.pkl'),
-        "price_scaler": joblib.load('C:\\Users\\manan\\PropFTX AI2\\Prediction\\Bangalore\\Bangalore_price_scaling.pkl'),
-        "model": joblib.load('C:\\Users\\manan\\PropFTX AI2\\Prediction\\Bangalore\\Bangalore_Prediction_Model.pkl'),
-        "historical_data": pd.read_csv("C:\\Users\\manan\\PropFTX AI2\\Prediction\\Bangalore\\Bangalore Property Data.csv")
+        "encoder": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Bangalore\\Bangalore_locality_encoding.pkl'),
+        "scaler": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Bangalore\\Bangalore_locality_scaling.pkl'),
+        "price_scaler": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Bangalore\\Bangalore_price_scaling.pkl'),
+        "model": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Bangalore\\Bangalore_Prediction_Model.pkl'),
+        "historical_data": pd.read_csv("C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Bangalore\\Bangalore Property Data.csv")
     },
     "Mumbai": {
         "encoder": joblib.load('C:\\Users\\manan\\PropFTX AI2\\Prediction\\Mumbai\\Mumbai_locality_encoding.pkl'),

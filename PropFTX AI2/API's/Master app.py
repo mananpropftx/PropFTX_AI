@@ -345,8 +345,6 @@ def geomap():
     return jsonify(result)
 
 
-
-
 @app2.route('/predict_roi', methods=['POST'])
 def predict_roi():
     try:

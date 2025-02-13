@@ -15,7 +15,6 @@ city_data = {
 
 @app.route('/property_data', methods=['POST'])
 def get_property_data():
-    # Get the input JSON from the user
     input_data = request.get_json()
 
     city = input_data.get("city")
@@ -25,16 +24,13 @@ def get_property_data():
     if city not in city_data:
         return jsonify({"error": "City not found"}), 400
 
-    # Extract the historical data for the requested city
     historical_data = city_data[city]["historical_data"]
 
-    # Filter the data based on quarter and year
     filtered_data = historical_data[(historical_data['quarter'] == quarter) & (historical_data['year'] == year)]
 
     if filtered_data.empty:
         return jsonify({"error": "No data found for the given quarter and year"}), 400
 
-    # Group by location and aggregate the data
     filtered_data = filtered_data.groupby(['location']).agg({
         'avg_price': 'mean',
         'min_price': 'min',
@@ -43,7 +39,6 @@ def get_property_data():
         'Longitude': 'first'
     }).reset_index()
 
-    # Prepare the result with locality, avg_price, min_price, max_price, latitude, and longitude
     result = filtered_data[['location', 'avg_price', 'min_price', 'max_price', 'Latitude', 'Longitude']].to_dict(orient='records')
 
     return jsonify(result)
