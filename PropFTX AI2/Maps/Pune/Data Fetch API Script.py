@@ -2,94 +2,218 @@ import requests
 import csv
 import logging
 
-# Configure logging
 logging.basicConfig(level=logging.INFO, format='%(message)s')
 
-# List of locations (modify as needed)
-locations = ["Airport Road", "Akurdi", "Alandi", "Alandi Markal Road", "Alandi Road", 
-    "Amanora Park Town", "Ambegaon", "Ambegaon BK", "Anand Nagar", "Apte Road", 
-    "Ashok Nagar Tathawade", "Ashoka Nagar", "Aundh", "Aundh Baner Link Road", 
-    "Aundh Ravet BRTS Road", "Aundh Road", "Aundh Wakad Road", "Awhalwadi Road", 
-    "BMCC Road", "Balewadi", "Balewadi Gaon", "Balewadi Gaon Road", "Balewadi Phata", 
-    "Baner", "Baner Aundh Road", "Baner Balewadi Road", "Baner Gaon", "Baner Mahalunge Road", 
-    "Baner Pashan Link Road", "Baner Road", "Bavdhan", "Bhagwan Tatyasaheb Kawade Road", 
-    "Bhandarkar Road", "Bharati Vidyapeeth Road", "Bhosari", "Bhosari Alandi Road", 
-    "Bhugaon", "Bhukum", "Bhumkar Nagar Wakad", "Bhumkar Wasti Road", "Bibvewadi Road", 
-    "Bibwewadi", "Bibwewadi Kondhwa Road", "Blue Ridge Town Pune", "Boat Club Road", 
-    "Borhade Wadi", "Bund Garden", "Bund Garden Road", "Camp", "Chakan", "Chakan Alandi Road", 
-    "Charholi BK", "Chhatrapati Shivaji Maharaj Road", "Chikhali Pimpri Chinchwad", "Chinchwad", 
-    "Clover Village", "DP Road", "Dahanukar Colony", "Dange Chowk Road", "Datta Mandir Road", 
-    "Deccan Gymkhana", "Dehu Moshi Road", "Dehu Road", "Dhankawadi", "Dhanori", 
-    "Dhanori Lohegaon Road", "Dhanori Road", "Dhayari", "Dhayari Phata Road", "Dighi", 
-    "Dighi Alandi Road", "Domkhel Road", "EON Free Zone", "Erandwane", "Fatima Nagar Wanowrie", 
-    "Fursungi", "Gahunje", "Gahunje Road", "Ganeshkhind Road", "Ghole Road", "Ghorpadi", 
-    "Ghorpadi Road", "Gultekadi", "Hadapsar", "Hadapsar Industrial Estate", "Hadapsar Road", 
-    "Handewadi", "Handewadi Road", "Hills and Dales", "Hinjawadi", "Hinjawadi Wakad Road", 
-    "Hinjwadi Rajiv Gandhi Infotech Park", "ITI Road", "Joggers Park", "Kad Nagar", "Kalyani Nagar", 
-    "Karve Nagar", "Karve Road", "Kaspate Wasti", "Katraj", "Katraj Kondhwa Road", "Kavade Mala", 
-    "Keshav Nagar Mundhwa", "Kesnanad Road", "Kharadi", "Kharadi Gaon", "Kirkatwadi", "Kiwale", 
-    "Kondhwa", "Kondhwa BK", "Kondhwa Main Road", "Koregaon Park", "Koregaon Park Annexe", 
-    "Koregaon Park Road", "Kothrud", "Law College Road", "Laxmi Nagar Balewadi", "Lohegaon", 
-    "Lohegaon Wagholi Road", "Lokmanya Bal Gangadhar Tilak Road", "Loni Kalbhor", "Lullanagar", 
-    "MG Road", "Maan", "Magarpatta", "Magarpatta Road", "Mahalunge", "Maharshi Nagar", "Mamurdi", 
-    "Mangaldas Road", "Manjari BK", "Manjari Khurd", "Manjari Road", "Manjri", "Market Yard", 
-    "Marunji", "Marunji Road", "Mayur Colony Kothrud", "Model Colony", "Mohamadwadi Settlement", 
-    "Mohammed Wadi", "Mohan Nagar Co operative Society", "Moshi", "Moshi Alandi Road", 
-    "Mumbai Pune Expressway", "Mundhwa", "NDA Road", "NIBM Annexe Area", "NIBM Road", "Nagar Road", 
-    "Nanded", "Narhe", "New DP Road", "New Kalyani Nagar", "Nigdi", "Old Mumbai Pune Highway", 
-    "Padmavati Sahakar Nagar Road", "Pan Card Club Road", "Park Street", "Parvati Paytha", "Pashan", 
-    "Pashan Sus Road", "Patil Nagar Balewadi", "Patil Nagar Bavdhan", "Paud Road", 
-    "Phase 1 Hinjewadi Rajiv Gandhi Infotech Park", "Phase 2 Hinjewadi Rajiv Gandhi Infotech Park", 
-    "Phase 3 Hinjewadi Rajiv Gandhi Infotech Park", "Pimple Gurav", "Pimple Nilakh", "Pimple Saudagar", 
-    "Pimpri", "Pimpri Chinchwad", "Pirangut", "Pisoli", "Pisoli Road", "Porwal Road", "Prabhat Road", 
-    "Punawale", "Pune Bengaluru Highway", "Pune Nashik Highway", "Pune Solapur Highway", 
-    "Pune University Road", "Punvale Bazar", "Rahatani", "Rambaug Colony", "Ravet", "Ravet Road", 
-    "Sadashiv Peth", "Sadhu Vaswani Road", "Salisbury Park", "Salunkhe Vihar Society", "Sangamvadi", 
-    "Saswad Road", "Satara Road", "Senapati Bapat Road", "Shankar Kalat Nagar", "Shankar Sheth Road", 
-    "Shewalewadi", "Shirole Road", "Shivajinagar", "Shivane", "Sinhgad Road", "Solapur Road", 
-    "Sopan Baug", "Sopan Baug Society", "Spine Road", "Sun City Road", "Sus", "Talegaon Dabhade", 
-    "Tathawade Pimpri Chinchwad", "Tathawade Road", "Temghar Lavasa Road", "Thergaon", "Thite Nagar", 
-    "Tingre Nagar", "Tulaja Bhawani Nagar", "Ubale Nagar", "Undri", "Vadgaon BK", "Viman Nagar", 
-    "Vishal Nagar", "Vishrantwadi", "Wadgaon Sheri", "Wagholi", "Wagholi Road", "Wakad", "Wanowrie", 
-    "Wanwadi", "Warje", "Yerawada","oshi Alandi Road"] # Add more locations as needed
-
-# Define the quarters
+locations = [
+    "100 Feet Ring Road",
+    "Aga Abbas Ali Road",
+    "Akshayanagar",
+    "Amrutahalli",
+    "Amruthahalli Main Road",
+    "Anekal Main Road",
+    "AnjanaPura",
+    "Arekere",
+    "Attibele",
+    "Avalahalli",
+    "Banashankari",
+    "Banaswadi",
+    "Bangalore University Road",
+    "Bannerghatta Main Road",
+    "Bannerughatta",
+    "Basavanagudi",
+    "Begur Koppa Road",
+    "Begur Road",
+    "Belathur Main Road",
+    "Bellandur",
+    "Bellary Road",
+    "Benson Town",
+    "Binny Pete",
+    "Block 1st Koramangala",
+    "Bommanahalli",
+    "Bommasandra Jigani Link Road",
+    "Borewell Road",
+    "Brookefield",
+    "BTM Layout",
+    "Budigere",
+    "Byatarayanapura",
+    "Cambridge Road",
+    "Carmelaram",
+    "Chandapura",
+    "Chandapura Anekal Road",
+    "Channasandra",
+    "Channasandra Main road",
+    "Chokkanahalli",
+    "Chunchgatta Main Road",
+    "Church Street",
+    "Coles Road",
+    "Commissariat Road",
+    "Cooke Town",
+    "Cunningham Road",
+    "CV Raman Nagar",
+    "Devanahalli",
+    "Doddaballapur Main Road",
+    "Doddakannelli",
+    "Doddakannelli Chikkanayakana Halli Road",
+    "Dr Rajkumar Road",
+    "ECC Road",
+    "Electronic City",
+    "Gear School Road",
+    "GKVK Road",
+    "Gottigere",
+    "Gubbalala",
+    "Gubbalala Main Road",
+    "Gunjur",
+    "Hadosiddapura",
+    "Hagadur Main Road",
+    "HAL Old Airport Road",
+    "Halasuru",
+    "Haralur Main Road",
+    "Hebbal",
+    "Hebbal Kempapura",
+    "Hennur Gardens",
+    "Hennur Main Road",
+    "Hoodi",
+    "Horamavu",
+    "Horamavu Agara",
+    "Hormavu Agara",
+    "Hosa Road",
+    "Hosabasavanapura",
+    "Hoskote Chintamani Road",
+    "Hosur Road",
+    "HSR Layout",
+    "Hulimavu",
+    "Huskur Road",
+    "Hutchins Road",
+    "Indiranagar",
+    "ITPL",
+    "Jakkur",
+    "Jakkur Road",
+    "Jalahalli",
+    "Jayanagar",
+    "JCR Layout",
+    "JP Nagar",
+    "Kadubeesanahalli Road",
+    "Kaggadasapura",
+    "Kannamangala Main Road",
+    "Kasavanahalli",
+    "Kathriguppe Main Road",
+    "Kempapura Main Road",
+    "Kempegowda International Airport Road",
+    "Kengeri",
+    "Kengeri Satellite Town",
+    "Kogilu",
+    "Konanakunte",
+    "Koramangala",
+    "Kothanur",
+    "Krishnarajapura",
+    "Kudlu Gate",
+    "Kumaraswamy Layout",
+    "Kundalahalli",
+    "Lalbagh Main Road",
+    "Magadi Main Road",
+    "Mahadevapura",
+    "Malleshwaram",
+    "Marathahalli",
+    "Marathahalli Sarjapur Outer Ring Road",
+    "Medahalli Kadugodi Road",
+    "Medahalli Main Road",
+    "MSR College Road",
+    "Mysore Road",
+    "Naagarabhaavi",
+    "Nagavara",
+    "Neotown Road",
+    "Nice Ring Road",
+    "NRI Layout Main Road",
+    "Old Madras Road",
+    "OMBR Layout",
+    "Outer Ring Road",
+    "Panathur",
+    "Phase 1 Electronics City",
+    "Phase 2 Electronic City",
+    "Phase 6 JP nagar",
+    "Phase 7 JP Nagar",
+    "Phase 8th JP Nagar",
+    "Pulikeshi Nagar",
+    "Queens Road",
+    "Rachenahalli",
+    "Rajajinagar",
+    "Ramagondanahalli Whitefield",
+    "Ramamurthy Nagar",
+    "Rashtriya Vidyalaya Road",
+    "RK Hegde Nagar",
+    "RR Nagar",
+    "RT Nagar",
+    "Sadarmangala Main Road",
+    "Sahakar Nagar",
+    "Sampige Road",
+    "Sanjay Nagar Main Road",
+    "Sanjayanagara",
+    "Sankey Road",
+    "Sarjapur Road",
+    "Sarjapura",
+    "Sarjapura Attibele Road",
+    "Seegehalli Krishnarajapura",
+    "Seegehalli Road",
+    "Silver County Road",
+    "Singasandra",
+    "Somasundarapalya Main Road",
+    "Spencer Road",
+    "Stage 2 RMV",
+    "Stage 3rd Banashankari",
+    "State Highway 35",
+    "Subramanyapura",
+    "Thalaghattapura Main Road",
+    "Thanisandra",
+    "Thanisandra Main Road",
+    "Thimmaiah Road",
+    "Thurahalli",
+    "Tumkur Road",
+    "Uttarahalli Hobli",
+    "Uttarahalli Main Road",
+    "Vajarahalli",
+    "Varthur",
+    "Varthur Road",
+    "Vidyaranyapura",
+    "Vidyaranyapura Main Road",
+    "Vijaynagar",
+    "Vijaynagar Main Road",
+    "Vittal Mallya Road",
+    "Viviani Road",
+    "Whitefield",
+    "Whitefield Main Road",
+    "Yelahanka",
+    "Yelahanka Airforce Base",
+    "Yelahanka New Town",
+    "Yeswanthpur"
+]
+ 
 quarters = ["Jan-Mar", "Apr-Jun", "Jul-Sep", "Oct-Dec"]
 
-# Define the range of years (from Jan-Mar 2024 to Oct 2030)
 years = list(range(2024, 2031))
 
-# CSV file header
 csv_header = ["location", "year", "quarter", "avg_price", "max_price", "min_price"]
 
-# Initialize CSV file
-with open('price_predictions.csv', mode='w', newline='') as file:
+with open('Bangalore_recommedation_price_predictions1.csv', mode='w', newline='') as file:
     writer = csv.writer(file)
-    writer.writerow(csv_header)  # Write header row
+    writer.writerow(csv_header)
 
-    # Iterate through locations
     for location in locations:
-        # Iterate through years
         for year in years:
-            # Build the payload to include all quarters for a specific location and year
             predictions = [{"location": location, "quarter": quarter, "year": year} for quarter in quarters]
             
             payload = {
                 "predictions": predictions,
-                "city": "Pune",
+                "city": "Bangalore",
                 "priceType": "all"
             }
 
             try:
-                # Send request to the API
                 logging.info(f"Fetching data for {location} - {year}")
                 response = requests.post("https://ai-ml-propftx.letsphoenix.com/predict", json=payload)
                 
-                # Check for successful response
                 if response.status_code == 200:
                     data = response.json()
 
-                    # Extract and store prices for each quarter in the year
                     for entry in data:
                         row = [
                             entry["location"],
@@ -99,7 +223,7 @@ with open('price_predictions.csv', mode='w', newline='') as file:
                             entry["max_price"],
                             entry["min_price"]
                         ]
-                        writer.writerow(row)  # Write data to CSV
+                        writer.writerow(row)  
                         logging.info(f"Data saved for {location} - {year} - {entry['quarter']}")
 
                 else:

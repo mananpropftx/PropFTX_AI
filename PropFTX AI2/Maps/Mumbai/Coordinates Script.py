@@ -38,31 +38,23 @@ locations = [
 
 
 
-# Prepare a list to store the geocoded information
 location_data = []
 
-# Open a CSV file to write the data
 with open('geocoded_locations.csv', mode='w', newline='') as file:
     writer = csv.writer(file)
-    # Write the header row
     writer.writerow(['Location', 'Latitude', 'Longitude'])
     
-    # Loop through the array and geocode each location
     for location in locations:
         print(f"Geocoding location: {location}...")
         location_info = geolocator.geocode(location)
         
         if location_info:
             print(f"Found coordinates for {location}: Latitude = {location_info.latitude}, Longitude = {location_info.longitude}")
-            # Save the geocoded data in the location_data list
             location_data.append((location, location_info.latitude, location_info.longitude))
-            # Write the data to the CSV
             writer.writerow([location, location_info.latitude, location_info.longitude])
         else:
             print(f"Could not find coordinates for {location}")
-            # Save a None value for unavailable coordinates
             location_data.append((location, None, None))
-            # Write the data with None values to the CSV
             writer.writerow([location, None, None])
 
 print("\nGeocoding completed. Data saved to 'geocoded_locations.csv'.")
