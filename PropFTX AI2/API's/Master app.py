@@ -65,7 +65,6 @@ city_data = {
 }
 
 
-
 month_mapping = {
     'Jan-Mar': 1,
     'Apr-Jun': 2,
@@ -84,75 +83,10 @@ def compute_year_sin_cos(year):
     return year_sin, year_cos
 
 
-def get_lat_lon(location_name):
-    """
-    Fetch latitude and longitude for a given location name.
-    """
-    try:
-        location = geolocator.geocode(location_name + ", Bangalore, India")
-        if location:
-            return location.latitude, location.longitude
-        return None, None
-    except Exception as e:
-        print(f"Error fetching coordinates for {location_name}: {e}")
-        return None, None
-
-
 @app2.route('/')
 def home():
     return "Welcome to the Property Price Prediction API"
 
-
-def calculate_roi_for_locality(amount_to_invest, risk_capacity, time_period, merged_df):
-    # Calculate ROI for a given locality based on investment amount, risk capacity, and time period.
-    if risk_capacity == "Low":
-        suitable_localities = merged_df[merged_df['mapped_risk'] == 0]
-    elif risk_capacity == "Moderate":
-        suitable_localities = merged_df[merged_df['mapped_risk'] == 1]
-    elif risk_capacity == "High":
-        suitable_localities = merged_df[merged_df['mapped_risk'] == 2]
-    else:
-        raise ValueError("Invalid risk capacity. Please select 'Low', 'Moderate', or 'High'.")
-
-    best_locality = None
-    best_roi = float('-inf')
-
-    for locality in suitable_localities['encoded_location'].unique():
-        locality_data = suitable_localities[suitable_localities['encoded_location'] == locality]
-
-        current_price = locality_data[locality_data['mapped_year'] == 6]['scaled_predicted_price'].mean()
-        # Inverse transform single value
-        current_price_original = re_price_scaler.inverse_transform([[current_price, 0, 0]])[0][0]
-        area_to_buy = amount_to_invest / current_price_original
-
-        future_year = 2024 + time_period
-        future_locality_data = locality_data[locality_data['mapped_year'] == (2024 - future_year + 6)]
-        if future_locality_data.empty:
-            continue
-
-        future_price = future_locality_data['scaled_predicted_price'].mean()
-        future_price_original = re_price_scaler.inverse_transform([[future_price, 0, 0]])[0][0]
-
-        future_value = area_to_buy * future_price_original
-        roi = ((future_value - amount_to_invest) / amount_to_invest) * 100
-
-        if roi > best_roi:
-            best_roi = roi
-            best_locality = {
-                'locality': re_locality_encoder.inverse_transform([locality])[0],  # Updated line to use re_locality_encoder
-                'area_to_buy': area_to_buy,
-                'roi': roi
-            }
-
-    if best_locality is None:
-        raise ValueError("No suitable locality found for the given criteria.")
-
-    latitude, longitude = get_lat_lon(best_locality['locality'])
-    best_locality['latitude'] = latitude
-    best_locality['longitude'] = longitude
-
-    total_amount = amount_to_invest * (1 + best_locality['roi'] / 100)
-    return best_locality, total_amount
 
 @app2.route('/predict', methods=['POST'])
 def predict():
@@ -246,6 +180,7 @@ def predict():
     return jsonify(results)
 
 
+
 @app2.route('/test', methods=['POST'])
 def filter_localities_by_risk_and_sentiment():
     data = request.get_json()
@@ -276,9 +211,40 @@ def filter_localities_by_risk_and_sentiment():
     return jsonify(result)
 
 
+
+@app2.route('/predict_roi', methods=['POST'])
+def filter_localities():
+    data = request.get_json()
+
+    year = data.get("year")
+    risk_factor = data.get("risk")
+    quarter = data.get("quarter")
+    price = data.get("price")
+    city = data.get("city")
+    
+    
+    if city not in city_data:
+        return jsonify({'error' : f"Unsupported city: {city}. Supported cities are: {','.join(city_data.keys())}"}),400
+    
+    future_data = city_data[city]["Recommendation_data"]
+
+    filtered_df = future_data[
+        (future_data['Risk'] == risk_factor) & 
+        (future_data['Year'] == year) & 
+        (future_data['Quarter Period'] == quarter) & 
+        (future_data['min_price'] <= price) & 
+        (future_data['max_price'] >= price)
+    ]
+    sorted_df = filtered_df.sort_values(by='Sentiment Score', ascending=False)
+    top_localities = sorted_df.head(3)
+    result = top_localities[['Locality', 'Average Price', 'min_price', 'max_price', 'Economic  Factor']].to_dict(orient='records')
+
+    return jsonify(result)
+
+
+
 @app2.route('/geomap', methods=['POST'])
 def geomap():
-    # Get the input JSON from the user
     input_data = request.get_json()
 
     city = input_data.get("city")
@@ -288,48 +254,16 @@ def geomap():
     if city not in city_data:
         return jsonify({"error": "City not found"}), 400
 
-    # Extract the historical data for the requested city
     Geomap_data = city_data[city]["Geomap_data"]
 
-    # Filter the data based on quarter and year
     filtered_data = Geomap_data[(Geomap_data['quarter'] == quarter) & (Geomap_data['year'] == year)]
 
     if filtered_data.empty:
         return jsonify({"error": "No data found for the given quarter and year"}), 400
 
-    # Prepare the result with locality, avg_price, min_price, max_price, latitude, and longitude
     result = filtered_data[['location', 'avg_price', 'min_price', 'max_price', 'latitude', 'longitude','Risk']].to_dict(orient='records')
 
     return jsonify(result)
-
-
-
-
-@app2.route('/predict_roi', methods=['POST'])
-def predict_roi():
-    try:
-        data = request.get_json()
-        amount_to_invest = data.get('amount_to_invest', 0)
-        risk_capacity = data.get('risk_capacity', 'Low')
-        time_period = data.get('time_period', 1)
-
-        if amount_to_invest <= 0:
-            return jsonify({'error': 'Investment amount must be greater than 0.'}), 400
-        if risk_capacity not in ['Low', 'Moderate', 'High']:
-            return jsonify({'error': "Risk capacity must be 'Low', 'Moderate', or 'High'."}), 400
-        if time_period <= 0:
-            return jsonify({'error': 'Time period must be greater than 0.'}), 400
-
-        best_locality, total_amount = calculate_roi_for_locality(amount_to_invest, risk_capacity, time_period, merged_df)
-
-        response = {
-            'best_locality': best_locality,
-            'total_amount': total_amount
-        }
-        return jsonify(response), 200
-
-    except Exception as e:
-        return jsonify({'error': str(e)}), 500
 
 
 if __name__ == '__main__':
