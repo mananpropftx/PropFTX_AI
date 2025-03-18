@@ -1,5 +1,3 @@
-#prediction model api
-
 import joblib
 import numpy as np
 import pandas as pd
@@ -12,20 +10,17 @@ CORS(app2)
 
 city_data = {
     "Bangalore": {
-        "encoder": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Bangalore\\Bangalore_locality_encoding.pkl'),
-        "scaler": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Bangalore\\Bangalore_locality_scaling.pkl'),
-        "price_scaler": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Bangalore\\Bangalore_price_scaling.pkl'),
-        "model": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Bangalore\\Bangalore_Prediction_Model.pkl'),
-        "historical_data": pd.read_csv("C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Bangalore\\Bangalore Property Data.csv")
-    },
-    "Mumbai": {
-        "encoder": joblib.load('C:\\Users\\manan\\PropFTX AI2\\Prediction\\Mumbai\\Mumbai_locality_encoding.pkl'),
-        "scaler": joblib.load('C:\\Users\\manan\\PropFTX AI2\\Prediction\\Mumbai\\Mumbai_locality_scaling.pkl'),
-        "price_scaler": joblib.load('C:\\Users\\manan\\PropFTX AI2\\Prediction\\Mumbai\\Mumbai_price_scaling.pkl'),
-        "model": joblib.load('C:\\Users\\manan\\PropFTX AI2\\Prediction\\Mumbai\\Mumbai_Prediction_Model.pkl'),
-        "historical_data": pd.read_csv("C:\\Users\\manan\\PropFTX AI2\\Prediction\\Mumbai\\Mumbai Property Data.csv")
+        "encoder": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Hyderabad\\Hyderabad_locality_encoding.pkl'),
+        "scaler": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Hyderabad\\Hyderabad_locality_scaling.pkl'),
+        "price_scaler": joblib.load('/home/ec2-user/Bangalore_price_scaling.pkl'),
+        "model": joblib.load('/home/ec2-user/Bangalore_Prediction_Model.pkl'),
+        "historical_data": pd.read_csv("/home/ec2-user/Bangalore Property Data.csv"),
+        "Geomap_data": pd.read_csv("/home/ec2-user/Bangalore_Geo_Map_Data.csv"),
+        "Recommendation_data" : pd.read_csv("/home/ec2-user/Bangalore_recommendation_data.csv")
+
     }
 }
+
 
 month_mapping = {
     'Jan-Mar': 1,
@@ -34,6 +29,8 @@ month_mapping = {
     'Oct-Dec': 4
 }
 
+geolocator = Nominatim(user_agent="geoapi")
+
 def compute_year_sin_cos(year):
     base_year = 2019
     period = 6  
@@ -41,6 +38,13 @@ def compute_year_sin_cos(year):
     year_sin = np.sin(2 * np.pi * year_index / period)
     year_cos = np.cos(2 * np.pi * year_index / period)
     return year_sin, year_cos
+
+
+
+@app2.route('/')
+def home():
+    return "Welcome to the Property Price Prediction API"
+
 
 @app2.route('/predict', methods=['POST'])
 def predict():
@@ -134,4 +138,6 @@ def predict():
     return jsonify(results)
 
 if __name__ == '__main__':
-    app2.run(debug=True, port=5000) 
+    app2.run(port=5000) 
+
+
