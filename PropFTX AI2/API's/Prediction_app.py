@@ -6,7 +6,6 @@ from flask_cors import CORS
 from geopy.geocoders import Nominatim
 from sklearn.preprocessing import PolynomialFeatures
 
-
 app2 = Flask(__name__)
 CORS(app2)
 
@@ -22,11 +21,18 @@ city_data = {
     },
     "Residential": {
         "Hyderabad": {
-        "encoder": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Hyderabad\\Hyderabad_locality_encoding.pkl'),
-        "scaler": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Hyderabad\\Hyderabad_locality_scaling.pkl'),
-        "price_scaler": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Hyderabad\\Hyderabad_price_scaling.pkl'),
-        "model": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Hyderabad\\Hyderabad_Prediction_Model.pkl'),
-        "historical_data": pd.read_csv("C:\\Users\\Administrator\\Downloads\\Hyderabad_Data_Refilled (2)(New_Data_4years).csv")        
+            "encoder": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Hyderabad\\Hyderabad_locality_encoding.pkl'),
+            "scaler": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Hyderabad\\Hyderabad_locality_scaling.pkl'),
+            "price_scaler": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Hyderabad\\Hyderabad_price_scaling.pkl'),
+            "model": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Hyderabad\\Hyderabad_Prediction_Model.pkl'),
+            "historical_data": pd.read_csv("C:\\Users\\Administrator\\Downloads\\Hyderabad_Data_Refilled (2)(New_Data_4years).csv")
+        },
+        "Noida": {
+            "encoder": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Noida\\Noida_locality_encoding.pkl'),
+            "scaler": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Noida\\Noida_locality_scaling.pkl'),
+            "price_scaler": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Noida\\Noida_price_scaling.pkl'),
+            "model": joblib.load('C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Noida\\Noida_Prediction_Model.pkl'),
+            "historical_data": pd.read_csv("C:\\Users\\Administrator\\Downloads\\PropFTX AI2\\PropFTX AI2\\Prediction\\Noida\\Noida Property Data.csv")
         }
     }
 }
@@ -41,15 +47,13 @@ month_mapping = {
 geolocator = Nominatim(user_agent="geoapi")
 
 def compute_year_sin_cos(year_normalized):
-    year_sin = np.sin(2 * np.pi * year_normalized)  # No flip, just normalized year
+    year_sin = np.sin(2 * np.pi * year_normalized)
     year_cos = np.cos(2 * np.pi * year_normalized)
     return year_sin, year_cos
-
 
 @app2.route('/')
 def home():
     return "Welcome to the Property Price Prediction API"
-
 
 @app2.route('/predict', methods=['POST'])
 def predict():
@@ -57,9 +61,6 @@ def predict():
     predictions = data.get("predictions")
     price_type = data.get("priceType", "avg")
     city = data.get("city")
-
-    if city not in city_data and city != 'Hyderabad':  
-        return jsonify({'error': f"Unsupported city for {city}. Supported cities are: {', '.join(city_data.keys())}, Hyderabad"}), 400
 
     results = []
 
@@ -74,7 +75,7 @@ def predict():
 
         try:
             if city == 'Hyderabad':
-                predicted_price = predict_price_for_hyderabad(locality, year, quarter) 
+                predicted_price = predict_price_for_hyderabad(locality, int(year), quarter)
                 results.append({
                     'location': locality,
                     'quarter': quarter,
@@ -82,7 +83,9 @@ def predict():
                     'predicted_price': predicted_price
                 })
             else:
-                city_models = city_data[city]
+                city_type = 'Commercial' if city in city_data['Commercial'] else 'Residential'
+                city_models = city_data[city_type][city]
+
                 encoder = city_models['encoder']
                 scaler = city_models['scaler']
                 price_scaler = city_models['price_scaler']
@@ -91,9 +94,9 @@ def predict():
 
                 location_encoded = encoder.transform([locality])[0]
                 location_scaled = scaler.transform([[location_encoded]])[0][0]
-                month_encoded = month_mapping.get(quarter, None)
-                if month_encoded is None:
-                    results.append({'error': "Invalid quarter provided. Must be 'Jan-Mar', 'Apr-Jun', 'Jul-Sep', or 'Oct-Dec'."})
+                month_encoded = month_mapping.get(quarter)
+                if not month_encoded:
+                    results.append({'error': "Invalid quarter format"})
                     continue
 
                 year = int(year)
@@ -103,27 +106,26 @@ def predict():
                                           columns=['Locality', 'Month_Encoded', 'Year_sin', 'Year_cos'])
 
                 predicted_price_scaled = model.predict(input_data)[0]
-                temp_data = [[predicted_price_scaled, None, None]]  
-                avg_price = price_scaler.inverse_transform(temp_data)[0][0]
+                avg_price = price_scaler.inverse_transform([[predicted_price_scaled]])[0][0]
 
-                # Handling min and max price calculations
-                locality_data = historical_data[historical_data['Locality'] == locality]
+                locality_data = historical_data[historical_data['Locality'] == locality].copy()
                 if locality_data.empty:
-                    results.append({'error': f'No historical data available for locality: {locality}'})
+                    results.append({'error': f'No historical data for {locality}'})
                     continue
 
-                locality_data['Price Range'] = locality_data['Price Range'].str.replace(',', '', regex=False)
+                locality_data['Price Range'] = locality_data['Price Range'].str.replace(',', '')
                 locality_data[['Min Price', 'Max Price']] = locality_data['Price Range'].str.split('-', expand=True).astype(float)
-                locality_data['Average Price'] = locality_data['Average Price'].str.replace(',', '', regex=False).astype(float)
+                locality_data['Average Price'] = locality_data['Average Price'].str.replace(',', '').astype(float)
 
-                min_price_factor = locality_data['Min Price'].mean() / locality_data['Average Price'].mean()
-                max_price_factor = locality_data['Max Price'].mean() / locality_data['Average Price'].mean()
-                predicted_min_price = avg_price * min_price_factor
-                predicted_max_price = avg_price * max_price_factor
+                min_factor = locality_data['Min Price'].mean() / locality_data['Average Price'].mean()
+                max_factor = locality_data['Max Price'].mean() / locality_data['Average Price'].mean()
+
+                predicted_min_price = avg_price * min_factor
+                predicted_max_price = avg_price * max_factor
 
                 min_price = predicted_min_price if price_type in ["min", "all"] else None
                 max_price = predicted_max_price if price_type in ["max", "all"] else None
-                avg_price = avg_price if price_type in ["avg", "all"] else None
+                avg_result = avg_price if price_type in ["avg", "all"] else None
 
                 results.append({
                     'location': locality,
@@ -131,33 +133,27 @@ def predict():
                     'year': year,
                     'min_price': min_price,
                     'max_price': max_price,
-                    'avg_price': avg_price
+                    'avg_price': avg_result
                 })
+
         except ValueError as e:
-            results.append({'error': f'Encoding error: {str(e)}'})
-            continue
+            results.append({'error': str(e)})
         except Exception as e:
             results.append({'error': f'Prediction error: {str(e)}'})
-            continue
 
     return jsonify(results)
 
 def predict_price_for_hyderabad(location, year, quarter):
-    quarter_mapping = {
-        'Jan-Mar': 1,
-        'Apr-Jun': 2,
-        'Jul-Sep': 3,
-        'Oct-Dec': 4
-    }
-    month_encoded = quarter_mapping.get(quarter)
-    if month_encoded is None:
-        raise ValueError("Invalid quarter provided. Must be 'Jan-Mar', 'Apr-Jun', 'Jul-Sep', or 'Oct-Dec'.")
+    month_encoded = month_mapping.get(quarter)
+    if not month_encoded:
+        raise ValueError("Invalid quarter")
 
-    location_encoded = city_data['Hyderabad']['encoder'].transform([location])[0]
-    location_scaled = city_data['Hyderabad']['scaler'].transform([[location_encoded]])[0][0]
+    hyderabad_data = city_data['Residential']['Hyderabad']
+    location_encoded = hyderabad_data['encoder'].transform([location])[0]
+    location_scaled = hyderabad_data['scaler'].transform([[location_encoded]])[0][0]
 
     poly = PolynomialFeatures(degree=2, include_bias=False)
-    year_poly = poly.fit_transform([[year]])[0][1]  
+    year_poly = poly.fit_transform([[year]])[0][1]
 
     input_data = pd.DataFrame({
         'Locality': [location_scaled],
@@ -165,11 +161,9 @@ def predict_price_for_hyderabad(location, year, quarter):
         'Year_poly': [year_poly]
     })
 
-    model = city_data['Hyderabad']['model']
+    model = hyderabad_data['model']
     predicted_price_scaled = model.predict(input_data)[0]
-    temp_data = [[1, predicted_price_scaled, 10]]
-    price_scaler = city_data['Hyderabad']['price_scaler']
-    predicted_price = price_scaler.inverse_transform(temp_data)[0][1]
+    predicted_price = hyderabad_data['price_scaler'].inverse_transform([[1, predicted_price_scaled, 1]])[0][1]
 
     return predicted_price
 

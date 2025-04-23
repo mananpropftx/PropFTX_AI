@@ -158,7 +158,7 @@ def predict():
         return jsonify({'error': f"Unsupported property type: {property_type}. Supported types are: 'Commercial', 'Residential'"}), 400
     
     if not isinstance(predictions, list):
-        return jsonify({'error': 'Data should be a list of predictions.'}), 400
+        return jsonify({'error': 'Data should    be a list of predictions.'}), 400
 
     if city not in city_data[property_type]:
         return jsonify({'error': f"Unsupported city for {property_type} property type: {city}. Supported cities are: {', '.join(city_data[property_type].keys())}"}), 400

@@ -1,0 +1,3625 @@
+,location,year,quarter,predicted_price
+1,100 feet ring road,2025,Apr-Jun,9942.09
+0,100 feet ring road,2025,Jan-Mar,9942.09
+2,100 feet ring road,2025,Jul-Sep,9942.09
+3,100 feet ring road,2025,Oct-Dec,9942.09
+5,100 feet ring road,2026,Apr-Jun,10086.25
+4,100 feet ring road,2026,Jan-Mar,10086.25
+6,100 feet ring road,2026,Jul-Sep,10086.25
+7,100 feet ring road,2026,Oct-Dec,10086.25
+9,100 feet ring road,2027,Apr-Jun,10232.5
+8,100 feet ring road,2027,Jan-Mar,10232.5
+10,100 feet ring road,2027,Jul-Sep,10232.5
+11,100 feet ring road,2027,Oct-Dec,10232.5
+13,100 feet ring road,2028,Apr-Jun,10380.87
+12,100 feet ring road,2028,Jan-Mar,10380.87
+14,100 feet ring road,2028,Jul-Sep,10380.87
+15,100 feet ring road,2028,Oct-Dec,10380.87
+17,100 feet ring road,2029,Apr-Jun,10531.39
+16,100 feet ring road,2029,Jan-Mar,10531.39
+18,100 feet ring road,2029,Jul-Sep,10531.39
+19,100 feet ring road,2029,Oct-Dec,10531.39
+21,100 feet ring road,2030,Apr-Jun,10684.1
+20,100 feet ring road,2030,Jan-Mar,10684.1
+22,100 feet ring road,2030,Jul-Sep,10684.1
+23,100 feet ring road,2030,Oct-Dec,10684.1
+25,11th main road malleshwaram,2025,Apr-Jun,9719.98
+24,11th main road malleshwaram,2025,Jan-Mar,9719.98
+26,11th main road malleshwaram,2025,Jul-Sep,9719.98
+27,11th main road malleshwaram,2025,Oct-Dec,9719.98
+29,11th main road malleshwaram,2026,Apr-Jun,10600.96
+28,11th main road malleshwaram,2026,Jan-Mar,10600.96
+30,11th main road malleshwaram,2026,Jul-Sep,10600.96
+31,11th main road malleshwaram,2026,Oct-Dec,10600.96
+33,11th main road malleshwaram,2027,Apr-Jun,11561.79
+32,11th main road malleshwaram,2027,Jan-Mar,11561.79
+34,11th main road malleshwaram,2027,Jul-Sep,11561.79
+35,11th main road malleshwaram,2027,Oct-Dec,11561.79
+37,11th main road malleshwaram,2028,Apr-Jun,12609.71
+36,11th main road malleshwaram,2028,Jan-Mar,12609.71
+38,11th main road malleshwaram,2028,Jul-Sep,12609.71
+39,11th main road malleshwaram,2028,Oct-Dec,12609.71
+41,11th main road malleshwaram,2029,Apr-Jun,13752.61
+40,11th main road malleshwaram,2029,Jan-Mar,13752.61
+42,11th main road malleshwaram,2029,Jul-Sep,13752.61
+43,11th main road malleshwaram,2029,Oct-Dec,13752.61
+45,11th main road malleshwaram,2030,Apr-Jun,14999.09
+44,11th main road malleshwaram,2030,Jan-Mar,14999.09
+46,11th main road malleshwaram,2030,Jul-Sep,14999.09
+47,11th main road malleshwaram,2030,Oct-Dec,14999.09
+49,aga abbas ali road,2025,Apr-Jun,13863.93
+48,aga abbas ali road,2025,Jan-Mar,13863.93
+50,aga abbas ali road,2025,Jul-Sep,13863.93
+51,aga abbas ali road,2025,Oct-Dec,13863.93
+53,aga abbas ali road,2026,Apr-Jun,15038.45
+52,aga abbas ali road,2026,Jan-Mar,15038.45
+54,aga abbas ali road,2026,Jul-Sep,15038.45
+55,aga abbas ali road,2026,Oct-Dec,15038.45
+57,aga abbas ali road,2027,Apr-Jun,16312.48
+56,aga abbas ali road,2027,Jan-Mar,16312.48
+58,aga abbas ali road,2027,Jul-Sep,16312.48
+59,aga abbas ali road,2027,Oct-Dec,16312.48
+61,aga abbas ali road,2028,Apr-Jun,17694.43
+60,aga abbas ali road,2028,Jan-Mar,17694.43
+62,aga abbas ali road,2028,Jul-Sep,17694.43
+63,aga abbas ali road,2028,Oct-Dec,17694.43
+65,aga abbas ali road,2029,Apr-Jun,19193.47
+64,aga abbas ali road,2029,Jan-Mar,19193.47
+66,aga abbas ali road,2029,Jul-Sep,19193.47
+67,aga abbas ali road,2029,Oct-Dec,19193.47
+69,aga abbas ali road,2030,Apr-Jun,20819.49
+68,aga abbas ali road,2030,Jan-Mar,20819.49
+70,aga abbas ali road,2030,Jul-Sep,20819.49
+71,aga abbas ali road,2030,Oct-Dec,20819.49
+73,akshayanagar,2025,Apr-Jun,10601.74
+72,akshayanagar,2025,Jan-Mar,10601.74
+74,akshayanagar,2025,Jul-Sep,10601.74
+75,akshayanagar,2025,Oct-Dec,10601.74
+77,akshayanagar,2026,Apr-Jun,11689.23
+76,akshayanagar,2026,Jan-Mar,11689.23
+78,akshayanagar,2026,Jul-Sep,11689.23
+79,akshayanagar,2026,Oct-Dec,11689.23
+81,akshayanagar,2027,Apr-Jun,12888.27
+80,akshayanagar,2027,Jan-Mar,12888.27
+82,akshayanagar,2027,Jul-Sep,12888.27
+83,akshayanagar,2027,Oct-Dec,12888.27
+85,akshayanagar,2028,Apr-Jun,14210.31
+84,akshayanagar,2028,Jan-Mar,14210.31
+86,akshayanagar,2028,Jul-Sep,14210.31
+87,akshayanagar,2028,Oct-Dec,14210.31
+89,akshayanagar,2029,Apr-Jun,15667.96
+88,akshayanagar,2029,Jan-Mar,15667.96
+90,akshayanagar,2029,Jul-Sep,15667.96
+91,akshayanagar,2029,Oct-Dec,15667.96
+93,akshayanagar,2030,Apr-Jun,17275.13
+92,akshayanagar,2030,Jan-Mar,17275.13
+94,akshayanagar,2030,Jul-Sep,17275.13
+95,akshayanagar,2030,Oct-Dec,17275.13
+97,amrutahalli,2025,Apr-Jun,7856.21
+96,amrutahalli,2025,Jan-Mar,7856.21
+98,amrutahalli,2025,Jul-Sep,7856.21
+99,amrutahalli,2025,Oct-Dec,7856.21
+101,amrutahalli,2026,Apr-Jun,8381.57
+100,amrutahalli,2026,Jan-Mar,8381.57
+102,amrutahalli,2026,Jul-Sep,8381.57
+103,amrutahalli,2026,Oct-Dec,8381.57
+105,amrutahalli,2027,Apr-Jun,8942.06
+104,amrutahalli,2027,Jan-Mar,8942.06
+106,amrutahalli,2027,Jul-Sep,8942.06
+107,amrutahalli,2027,Oct-Dec,8942.06
+109,amrutahalli,2028,Apr-Jun,9540.04
+108,amrutahalli,2028,Jan-Mar,9540.04
+110,amrutahalli,2028,Jul-Sep,9540.04
+111,amrutahalli,2028,Oct-Dec,9540.04
+113,amrutahalli,2029,Apr-Jun,10178.0
+112,amrutahalli,2029,Jan-Mar,10178.0
+114,amrutahalli,2029,Jul-Sep,10178.0
+115,amrutahalli,2029,Oct-Dec,10178.0
+117,amrutahalli,2030,Apr-Jun,10858.62
+116,amrutahalli,2030,Jan-Mar,10858.62
+118,amrutahalli,2030,Jul-Sep,10858.62
+119,amrutahalli,2030,Oct-Dec,10858.62
+121,anjanapura,2025,Apr-Jun,6170.14
+120,anjanapura,2025,Jan-Mar,6170.14
+122,anjanapura,2025,Jul-Sep,6170.14
+123,anjanapura,2025,Oct-Dec,6170.14
+125,anjanapura,2026,Apr-Jun,6634.98
+124,anjanapura,2026,Jan-Mar,6634.98
+126,anjanapura,2026,Jul-Sep,6634.98
+127,anjanapura,2026,Oct-Dec,6634.98
+129,anjanapura,2027,Apr-Jun,7134.84
+128,anjanapura,2027,Jan-Mar,7134.84
+130,anjanapura,2027,Jul-Sep,7134.84
+131,anjanapura,2027,Oct-Dec,7134.84
+133,anjanapura,2028,Apr-Jun,7672.35
+132,anjanapura,2028,Jan-Mar,7672.35
+134,anjanapura,2028,Jul-Sep,7672.35
+135,anjanapura,2028,Oct-Dec,7672.35
+137,anjanapura,2029,Apr-Jun,8250.36
+136,anjanapura,2029,Jan-Mar,8250.36
+138,anjanapura,2029,Jul-Sep,8250.36
+139,anjanapura,2029,Oct-Dec,8250.36
+141,anjanapura,2030,Apr-Jun,8871.92
+140,anjanapura,2030,Jan-Mar,8871.92
+142,anjanapura,2030,Jul-Sep,8871.92
+143,anjanapura,2030,Oct-Dec,8871.92
+145,arekere,2025,Apr-Jun,6115.47
+144,arekere,2025,Jan-Mar,6115.47
+146,arekere,2025,Jul-Sep,6115.47
+147,arekere,2025,Oct-Dec,6115.47
+149,arekere,2026,Apr-Jun,6584.44
+148,arekere,2026,Jan-Mar,6584.44
+150,arekere,2026,Jul-Sep,6584.44
+151,arekere,2026,Oct-Dec,6584.44
+153,arekere,2027,Apr-Jun,7089.39
+152,arekere,2027,Jan-Mar,7089.39
+154,arekere,2027,Jul-Sep,7089.39
+155,arekere,2027,Oct-Dec,7089.39
+157,arekere,2028,Apr-Jun,7633.05
+156,arekere,2028,Jan-Mar,7633.05
+158,arekere,2028,Jul-Sep,7633.05
+159,arekere,2028,Oct-Dec,7633.05
+161,arekere,2029,Apr-Jun,8218.41
+160,arekere,2029,Jan-Mar,8218.41
+162,arekere,2029,Jul-Sep,8218.41
+163,arekere,2029,Oct-Dec,8218.41
+165,arekere,2030,Apr-Jun,8848.66
+164,arekere,2030,Jan-Mar,8848.66
+166,arekere,2030,Jul-Sep,8848.66
+167,arekere,2030,Oct-Dec,8848.66
+169,attibele,2025,Apr-Jun,4772.56
+168,attibele,2025,Jan-Mar,4772.56
+170,attibele,2025,Jul-Sep,4772.56
+171,attibele,2025,Oct-Dec,4772.56
+173,attibele,2026,Apr-Jun,5178.21
+172,attibele,2026,Jan-Mar,5178.21
+174,attibele,2026,Jul-Sep,5178.21
+175,attibele,2026,Oct-Dec,5178.21
+177,attibele,2027,Apr-Jun,5618.32
+176,attibele,2027,Jan-Mar,5618.32
+178,attibele,2027,Jul-Sep,5618.32
+179,attibele,2027,Oct-Dec,5618.32
+181,attibele,2028,Apr-Jun,6095.85
+180,attibele,2028,Jan-Mar,6095.85
+182,attibele,2028,Jul-Sep,6095.85
+183,attibele,2028,Oct-Dec,6095.85
+185,attibele,2029,Apr-Jun,6613.96
+184,attibele,2029,Jan-Mar,6613.96
+186,attibele,2029,Jul-Sep,6613.96
+187,attibele,2029,Oct-Dec,6613.96
+189,attibele,2030,Apr-Jun,7176.11
+188,attibele,2030,Jan-Mar,7176.11
+190,attibele,2030,Jul-Sep,7176.11
+191,attibele,2030,Oct-Dec,7176.11
+193,avalahalli,2025,Apr-Jun,5688.59
+192,avalahalli,2025,Jan-Mar,5688.59
+194,avalahalli,2025,Jul-Sep,5688.59
+195,avalahalli,2025,Oct-Dec,5688.59
+197,avalahalli,2026,Apr-Jun,6405.65
+196,avalahalli,2026,Jan-Mar,6405.65
+198,avalahalli,2026,Jul-Sep,6405.65
+199,avalahalli,2026,Oct-Dec,6405.65
+201,avalahalli,2027,Apr-Jun,7213.09
+200,avalahalli,2027,Jan-Mar,7213.09
+202,avalahalli,2027,Jul-Sep,7213.09
+203,avalahalli,2027,Oct-Dec,7213.09
+205,avalahalli,2028,Apr-Jun,8122.31
+204,avalahalli,2028,Jan-Mar,8122.31
+206,avalahalli,2028,Jul-Sep,8122.31
+207,avalahalli,2028,Oct-Dec,8122.31
+209,avalahalli,2029,Apr-Jun,9146.14
+208,avalahalli,2029,Jan-Mar,9146.14
+210,avalahalli,2029,Jul-Sep,9146.14
+211,avalahalli,2029,Oct-Dec,9146.14
+213,avalahalli,2030,Apr-Jun,10299.03
+212,avalahalli,2030,Jan-Mar,10299.03
+214,avalahalli,2030,Jul-Sep,10299.03
+215,avalahalli,2030,Oct-Dec,10299.03
+241,banashankari,2025,Apr-Jun,9828.17
+240,banashankari,2025,Jan-Mar,9828.17
+242,banashankari,2025,Jul-Sep,9828.17
+243,banashankari,2025,Oct-Dec,9828.17
+245,banashankari,2026,Apr-Jun,10567.54
+244,banashankari,2026,Jan-Mar,10567.54
+246,banashankari,2026,Jul-Sep,10567.54
+247,banashankari,2026,Oct-Dec,10567.54
+249,banashankari,2027,Apr-Jun,11362.53
+248,banashankari,2027,Jan-Mar,11362.53
+250,banashankari,2027,Jul-Sep,11362.53
+251,banashankari,2027,Oct-Dec,11362.53
+253,banashankari,2028,Apr-Jun,12217.32
+252,banashankari,2028,Jan-Mar,12217.32
+254,banashankari,2028,Jul-Sep,12217.32
+255,banashankari,2028,Oct-Dec,12217.32
+257,banashankari,2029,Apr-Jun,13136.43
+256,banashankari,2029,Jan-Mar,13136.43
+258,banashankari,2029,Jul-Sep,13136.43
+259,banashankari,2029,Oct-Dec,13136.43
+261,banashankari,2030,Apr-Jun,14124.68
+260,banashankari,2030,Jan-Mar,14124.68
+262,banashankari,2030,Jul-Sep,14124.68
+263,banashankari,2030,Oct-Dec,14124.68
+265,banaswadi,2025,Apr-Jun,9189.53
+264,banaswadi,2025,Jan-Mar,9189.53
+266,banaswadi,2025,Jul-Sep,9189.53
+267,banaswadi,2025,Oct-Dec,9189.53
+269,banaswadi,2026,Apr-Jun,9873.54
+268,banaswadi,2026,Jan-Mar,9873.54
+270,banaswadi,2026,Jul-Sep,9873.54
+271,banaswadi,2026,Oct-Dec,9873.54
+273,banaswadi,2027,Apr-Jun,10608.47
+272,banaswadi,2027,Jan-Mar,10608.47
+274,banaswadi,2027,Jul-Sep,10608.47
+275,banaswadi,2027,Oct-Dec,10608.47
+277,banaswadi,2028,Apr-Jun,11398.1
+276,banaswadi,2028,Jan-Mar,11398.1
+278,banaswadi,2028,Jul-Sep,11398.1
+279,banaswadi,2028,Oct-Dec,11398.1
+281,banaswadi,2029,Apr-Jun,12246.5
+280,banaswadi,2029,Jan-Mar,12246.5
+282,banaswadi,2029,Jul-Sep,12246.5
+283,banaswadi,2029,Oct-Dec,12246.5
+285,banaswadi,2030,Apr-Jun,13158.06
+284,banaswadi,2030,Jan-Mar,13158.06
+286,banaswadi,2030,Jul-Sep,13158.06
+287,banaswadi,2030,Oct-Dec,13158.06
+289,bangalore university road,2025,Apr-Jun,8806.07
+288,bangalore university road,2025,Jan-Mar,8806.07
+290,bangalore university road,2025,Jul-Sep,8806.07
+291,bangalore university road,2025,Oct-Dec,8806.07
+293,bangalore university road,2026,Apr-Jun,9195.49
+292,bangalore university road,2026,Jan-Mar,9195.49
+294,bangalore university road,2026,Jul-Sep,9195.49
+295,bangalore university road,2026,Oct-Dec,9195.49
+297,bangalore university road,2027,Apr-Jun,9602.12
+296,bangalore university road,2027,Jan-Mar,9602.12
+298,bangalore university road,2027,Jul-Sep,9602.12
+299,bangalore university road,2027,Oct-Dec,9602.12
+301,bangalore university road,2028,Apr-Jun,10026.74
+300,bangalore university road,2028,Jan-Mar,10026.74
+302,bangalore university road,2028,Jul-Sep,10026.74
+303,bangalore university road,2028,Oct-Dec,10026.74
+305,bangalore university road,2029,Apr-Jun,10470.13
+304,bangalore university road,2029,Jan-Mar,10470.13
+306,bangalore university road,2029,Jul-Sep,10470.13
+307,bangalore university road,2029,Oct-Dec,10470.13
+309,bangalore university road,2030,Apr-Jun,10933.13
+308,bangalore university road,2030,Jan-Mar,10933.13
+310,bangalore university road,2030,Jul-Sep,10933.13
+311,bangalore university road,2030,Oct-Dec,10933.13
+313,bannerghatta main road,2025,Apr-Jun,8640.15
+312,bannerghatta main road,2025,Jan-Mar,8640.15
+314,bannerghatta main road,2025,Jul-Sep,8640.15
+315,bannerghatta main road,2025,Oct-Dec,8640.15
+317,bannerghatta main road,2026,Apr-Jun,9562.35
+316,bannerghatta main road,2026,Jan-Mar,9562.35
+318,bannerghatta main road,2026,Jul-Sep,9562.35
+319,bannerghatta main road,2026,Oct-Dec,9562.35
+321,bannerghatta main road,2027,Apr-Jun,10582.97
+320,bannerghatta main road,2027,Jan-Mar,10582.97
+322,bannerghatta main road,2027,Jul-Sep,10582.97
+323,bannerghatta main road,2027,Oct-Dec,10582.97
+325,bannerghatta main road,2028,Apr-Jun,11712.54
+324,bannerghatta main road,2028,Jan-Mar,11712.54
+326,bannerghatta main road,2028,Jul-Sep,11712.54
+327,bannerghatta main road,2028,Oct-Dec,11712.54
+329,bannerghatta main road,2029,Apr-Jun,12962.66
+328,bannerghatta main road,2029,Jan-Mar,12962.66
+330,bannerghatta main road,2029,Jul-Sep,12962.66
+331,bannerghatta main road,2029,Oct-Dec,12962.66
+333,bannerghatta main road,2030,Apr-Jun,14346.22
+332,bannerghatta main road,2030,Jan-Mar,14346.22
+334,bannerghatta main road,2030,Jul-Sep,14346.22
+335,bannerghatta main road,2030,Oct-Dec,14346.22
+337,bannerughatta,2025,Apr-Jun,9331.43
+336,bannerughatta,2025,Jan-Mar,9331.43
+338,bannerughatta,2025,Jul-Sep,9331.43
+339,bannerughatta,2025,Oct-Dec,9331.43
+341,bannerughatta,2026,Apr-Jun,10375.7
+340,bannerughatta,2026,Jan-Mar,10375.7
+342,bannerughatta,2026,Jul-Sep,10375.7
+343,bannerughatta,2026,Oct-Dec,10375.7
+345,bannerughatta,2027,Apr-Jun,11536.83
+344,bannerughatta,2027,Jan-Mar,11536.83
+346,bannerughatta,2027,Jul-Sep,11536.83
+347,bannerughatta,2027,Oct-Dec,11536.83
+349,bannerughatta,2028,Apr-Jun,12827.91
+348,bannerughatta,2028,Jan-Mar,12827.91
+350,bannerughatta,2028,Jul-Sep,12827.91
+351,bannerughatta,2028,Oct-Dec,12827.91
+353,bannerughatta,2029,Apr-Jun,14263.47
+352,bannerughatta,2029,Jan-Mar,14263.47
+354,bannerughatta,2029,Jul-Sep,14263.47
+355,bannerughatta,2029,Oct-Dec,14263.47
+357,bannerughatta,2030,Apr-Jun,15859.68
+356,bannerughatta,2030,Jan-Mar,15859.68
+358,bannerughatta,2030,Jul-Sep,15859.68
+359,bannerughatta,2030,Oct-Dec,15859.68
+361,basavanagudi,2025,Apr-Jun,10776.36
+360,basavanagudi,2025,Jan-Mar,10776.36
+362,basavanagudi,2025,Jul-Sep,10776.36
+363,basavanagudi,2025,Oct-Dec,10776.36
+365,basavanagudi,2026,Apr-Jun,11026.32
+364,basavanagudi,2026,Jan-Mar,11026.32
+366,basavanagudi,2026,Jul-Sep,11026.32
+367,basavanagudi,2026,Oct-Dec,11026.32
+369,basavanagudi,2027,Apr-Jun,11282.09
+368,basavanagudi,2027,Jan-Mar,11282.09
+370,basavanagudi,2027,Jul-Sep,11282.09
+371,basavanagudi,2027,Oct-Dec,11282.09
+373,basavanagudi,2028,Apr-Jun,11543.78
+372,basavanagudi,2028,Jan-Mar,11543.78
+374,basavanagudi,2028,Jul-Sep,11543.78
+375,basavanagudi,2028,Oct-Dec,11543.78
+377,basavanagudi,2029,Apr-Jun,11811.55
+376,basavanagudi,2029,Jan-Mar,11811.55
+378,basavanagudi,2029,Jul-Sep,11811.55
+379,basavanagudi,2029,Oct-Dec,11811.55
+381,basavanagudi,2030,Apr-Jun,12085.52
+380,basavanagudi,2030,Jan-Mar,12085.52
+382,basavanagudi,2030,Jul-Sep,12085.52
+383,basavanagudi,2030,Oct-Dec,12085.52
+385,begur road,2025,Apr-Jun,7706.27
+384,begur road,2025,Jan-Mar,7706.27
+386,begur road,2025,Jul-Sep,7706.27
+387,begur road,2025,Oct-Dec,7706.27
+389,begur road,2026,Apr-Jun,8442.53
+388,begur road,2026,Jan-Mar,8442.53
+390,begur road,2026,Jul-Sep,8442.53
+391,begur road,2026,Oct-Dec,8442.53
+393,begur road,2027,Apr-Jun,9249.14
+392,begur road,2027,Jan-Mar,9249.14
+394,begur road,2027,Jul-Sep,9249.14
+395,begur road,2027,Oct-Dec,9249.14
+397,begur road,2028,Apr-Jun,10132.82
+396,begur road,2028,Jan-Mar,10132.82
+398,begur road,2028,Jul-Sep,10132.82
+399,begur road,2028,Oct-Dec,10132.82
+401,begur road,2029,Apr-Jun,11100.92
+400,begur road,2029,Jan-Mar,11100.92
+402,begur road,2029,Jul-Sep,11100.92
+403,begur road,2029,Oct-Dec,11100.92
+405,begur road,2030,Apr-Jun,12161.51
+404,begur road,2030,Jan-Mar,12161.51
+406,begur road,2030,Jul-Sep,12161.51
+407,begur road,2030,Oct-Dec,12161.51
+409,bellandur,2025,Apr-Jun,10981.6
+408,bellandur,2025,Jan-Mar,10981.6
+410,bellandur,2025,Jul-Sep,10981.6
+411,bellandur,2025,Oct-Dec,10981.6
+413,bellandur,2026,Apr-Jun,12300.06
+412,bellandur,2026,Jan-Mar,12300.06
+414,bellandur,2026,Jul-Sep,12300.06
+415,bellandur,2026,Oct-Dec,12300.06
+417,bellandur,2027,Apr-Jun,13776.83
+416,bellandur,2027,Jan-Mar,13776.83
+418,bellandur,2027,Jul-Sep,13776.83
+419,bellandur,2027,Oct-Dec,13776.83
+421,bellandur,2028,Apr-Jun,15430.89
+420,bellandur,2028,Jan-Mar,15430.89
+422,bellandur,2028,Jul-Sep,15430.89
+423,bellandur,2028,Oct-Dec,15430.89
+425,bellandur,2029,Apr-Jun,17283.55
+424,bellandur,2029,Jan-Mar,17283.55
+426,bellandur,2029,Jul-Sep,17283.55
+427,bellandur,2029,Oct-Dec,17283.55
+429,bellandur,2030,Apr-Jun,19358.63
+428,bellandur,2030,Jan-Mar,19358.63
+430,bellandur,2030,Jul-Sep,19358.63
+431,bellandur,2030,Oct-Dec,19358.63
+433,bellary road,2025,Apr-Jun,9386.97
+432,bellary road,2025,Jan-Mar,9386.97
+434,bellary road,2025,Jul-Sep,9386.97
+435,bellary road,2025,Oct-Dec,9386.97
+437,bellary road,2026,Apr-Jun,10163.84
+436,bellary road,2026,Jan-Mar,10163.84
+438,bellary road,2026,Jul-Sep,10163.84
+439,bellary road,2026,Oct-Dec,10163.84
+441,bellary road,2027,Apr-Jun,11005.01
+440,bellary road,2027,Jan-Mar,11005.01
+442,bellary road,2027,Jul-Sep,11005.01
+443,bellary road,2027,Oct-Dec,11005.01
+445,bellary road,2028,Apr-Jun,11915.79
+444,bellary road,2028,Jan-Mar,11915.79
+446,bellary road,2028,Jul-Sep,11915.79
+447,bellary road,2028,Oct-Dec,11915.79
+449,bellary road,2029,Apr-Jun,12901.94
+448,bellary road,2029,Jan-Mar,12901.94
+450,bellary road,2029,Jul-Sep,12901.94
+451,bellary road,2029,Oct-Dec,12901.94
+453,bellary road,2030,Apr-Jun,13969.71
+452,bellary road,2030,Jan-Mar,13969.71
+454,bellary road,2030,Jul-Sep,13969.71
+455,bellary road,2030,Oct-Dec,13969.71
+457,benson town,2025,Apr-Jun,11606.51
+456,benson town,2025,Jan-Mar,11606.51
+458,benson town,2025,Jul-Sep,11606.51
+459,benson town,2025,Oct-Dec,11606.51
+461,benson town,2026,Apr-Jun,12145.68
+460,benson town,2026,Jan-Mar,12145.68
+462,benson town,2026,Jul-Sep,12145.68
+463,benson town,2026,Oct-Dec,12145.68
+465,benson town,2027,Apr-Jun,12709.89
+464,benson town,2027,Jan-Mar,12709.89
+466,benson town,2027,Jul-Sep,12709.89
+467,benson town,2027,Oct-Dec,12709.89
+469,benson town,2028,Apr-Jun,13300.31
+468,benson town,2028,Jan-Mar,13300.31
+470,benson town,2028,Jul-Sep,13300.31
+471,benson town,2028,Oct-Dec,13300.31
+473,benson town,2029,Apr-Jun,13918.16
+472,benson town,2029,Jan-Mar,13918.16
+474,benson town,2029,Jul-Sep,13918.16
+475,benson town,2029,Oct-Dec,13918.16
+477,benson town,2030,Apr-Jun,14564.71
+476,benson town,2030,Jan-Mar,14564.71
+478,benson town,2030,Jul-Sep,14564.71
+479,benson town,2030,Oct-Dec,14564.71
+481,binny pete,2025,Apr-Jun,10088.28
+480,binny pete,2025,Jan-Mar,10088.28
+482,binny pete,2025,Jul-Sep,10088.28
+483,binny pete,2025,Oct-Dec,10088.28
+485,binny pete,2026,Apr-Jun,10806.29
+484,binny pete,2026,Jan-Mar,10806.29
+486,binny pete,2026,Jul-Sep,10806.29
+487,binny pete,2026,Oct-Dec,10806.29
+489,binny pete,2027,Apr-Jun,11575.39
+488,binny pete,2027,Jan-Mar,11575.39
+490,binny pete,2027,Jul-Sep,11575.39
+491,binny pete,2027,Oct-Dec,11575.39
+493,binny pete,2028,Apr-Jun,12399.24
+492,binny pete,2028,Jan-Mar,12399.24
+494,binny pete,2028,Jul-Sep,12399.24
+495,binny pete,2028,Oct-Dec,12399.24
+497,binny pete,2029,Apr-Jun,13281.72
+496,binny pete,2029,Jan-Mar,13281.72
+498,binny pete,2029,Jul-Sep,13281.72
+499,binny pete,2029,Oct-Dec,13281.72
+501,binny pete,2030,Apr-Jun,14227.0
+500,binny pete,2030,Jan-Mar,14227.0
+502,binny pete,2030,Jul-Sep,14227.0
+503,binny pete,2030,Oct-Dec,14227.0
+505,bommanahalli,2025,Apr-Jun,6318.22
+504,bommanahalli,2025,Jan-Mar,6318.22
+506,bommanahalli,2025,Jul-Sep,6318.22
+507,bommanahalli,2025,Oct-Dec,6318.22
+509,bommanahalli,2026,Apr-Jun,6639.97
+508,bommanahalli,2026,Jan-Mar,6639.97
+510,bommanahalli,2026,Jul-Sep,6639.97
+511,bommanahalli,2026,Oct-Dec,6639.97
+513,bommanahalli,2027,Apr-Jun,6978.1
+512,bommanahalli,2027,Jan-Mar,6978.1
+514,bommanahalli,2027,Jul-Sep,6978.1
+515,bommanahalli,2027,Oct-Dec,6978.1
+517,bommanahalli,2028,Apr-Jun,7333.44
+516,bommanahalli,2028,Jan-Mar,7333.44
+518,bommanahalli,2028,Jul-Sep,7333.44
+519,bommanahalli,2028,Oct-Dec,7333.44
+521,bommanahalli,2029,Apr-Jun,7706.89
+520,bommanahalli,2029,Jan-Mar,7706.89
+522,bommanahalli,2029,Jul-Sep,7706.89
+523,bommanahalli,2029,Oct-Dec,7706.89
+525,bommanahalli,2030,Apr-Jun,8099.35
+524,bommanahalli,2030,Jan-Mar,8099.35
+526,bommanahalli,2030,Jul-Sep,8099.35
+527,bommanahalli,2030,Oct-Dec,8099.35
+529,brookefield,2025,Apr-Jun,9586.78
+528,brookefield,2025,Jan-Mar,9586.78
+530,brookefield,2025,Jul-Sep,9586.78
+531,brookefield,2025,Oct-Dec,9586.78
+533,brookefield,2026,Apr-Jun,10694.17
+532,brookefield,2026,Jan-Mar,10694.17
+534,brookefield,2026,Jul-Sep,10694.17
+535,brookefield,2026,Oct-Dec,10694.17
+537,brookefield,2027,Apr-Jun,11929.47
+536,brookefield,2027,Jan-Mar,11929.47
+538,brookefield,2027,Jul-Sep,11929.47
+539,brookefield,2027,Oct-Dec,11929.47
+541,brookefield,2028,Apr-Jun,13307.45
+540,brookefield,2028,Jan-Mar,13307.45
+542,brookefield,2028,Jul-Sep,13307.45
+543,brookefield,2028,Oct-Dec,13307.45
+545,brookefield,2029,Apr-Jun,14844.62
+544,brookefield,2029,Jan-Mar,14844.62
+546,brookefield,2029,Jul-Sep,14844.62
+547,brookefield,2029,Oct-Dec,14844.62
+549,brookefield,2030,Apr-Jun,16559.34
+548,brookefield,2030,Jan-Mar,16559.34
+550,brookefield,2030,Jul-Sep,16559.34
+551,brookefield,2030,Oct-Dec,16559.34
+217,btm layout,2025,Apr-Jun,8897.64
+216,btm layout,2025,Jan-Mar,8897.64
+218,btm layout,2025,Jul-Sep,8897.64
+219,btm layout,2025,Oct-Dec,8897.64
+221,btm layout,2026,Apr-Jun,9841.66
+220,btm layout,2026,Jan-Mar,9841.66
+222,btm layout,2026,Jul-Sep,9841.66
+223,btm layout,2026,Oct-Dec,9841.66
+225,btm layout,2027,Apr-Jun,10885.85
+224,btm layout,2027,Jan-Mar,10885.85
+226,btm layout,2027,Jul-Sep,10885.85
+227,btm layout,2027,Oct-Dec,10885.85
+229,btm layout,2028,Apr-Jun,12040.83
+228,btm layout,2028,Jan-Mar,12040.83
+230,btm layout,2028,Jul-Sep,12040.83
+231,btm layout,2028,Oct-Dec,12040.83
+233,btm layout,2029,Apr-Jun,13318.34
+232,btm layout,2029,Jan-Mar,13318.34
+234,btm layout,2029,Jul-Sep,13318.34
+235,btm layout,2029,Oct-Dec,13318.34
+237,btm layout,2030,Apr-Jun,14731.4
+236,btm layout,2030,Jan-Mar,14731.4
+238,btm layout,2030,Jul-Sep,14731.4
+239,btm layout,2030,Oct-Dec,14731.4
+553,budigere,2025,Apr-Jun,9202.16
+552,budigere,2025,Jan-Mar,9202.16
+554,budigere,2025,Jul-Sep,9202.16
+555,budigere,2025,Oct-Dec,9202.16
+557,budigere,2026,Apr-Jun,10223.63
+556,budigere,2026,Jan-Mar,10223.63
+558,budigere,2026,Jul-Sep,10223.63
+559,budigere,2026,Oct-Dec,10223.63
+561,budigere,2027,Apr-Jun,11358.5
+560,budigere,2027,Jan-Mar,11358.5
+562,budigere,2027,Jul-Sep,11358.5
+563,budigere,2027,Oct-Dec,11358.5
+565,budigere,2028,Apr-Jun,12619.34
+564,budigere,2028,Jan-Mar,12619.34
+566,budigere,2028,Jul-Sep,12619.34
+567,budigere,2028,Oct-Dec,12619.34
+569,budigere,2029,Apr-Jun,14020.13
+568,budigere,2029,Jan-Mar,14020.13
+570,budigere,2029,Jul-Sep,14020.13
+571,budigere,2029,Oct-Dec,14020.13
+573,budigere,2030,Apr-Jun,15576.42
+572,budigere,2030,Jan-Mar,15576.42
+574,budigere,2030,Jul-Sep,15576.42
+575,budigere,2030,Oct-Dec,15576.42
+577,byatarayanapura,2025,Apr-Jun,10063.92
+576,byatarayanapura,2025,Jan-Mar,10063.92
+578,byatarayanapura,2025,Jul-Sep,10063.92
+579,byatarayanapura,2025,Oct-Dec,10063.92
+581,byatarayanapura,2026,Apr-Jun,10896.58
+580,byatarayanapura,2026,Jan-Mar,10896.58
+582,byatarayanapura,2026,Jul-Sep,10896.58
+583,byatarayanapura,2026,Oct-Dec,10896.58
+585,byatarayanapura,2027,Apr-Jun,11798.14
+584,byatarayanapura,2027,Jan-Mar,11798.14
+586,byatarayanapura,2027,Jul-Sep,11798.14
+587,byatarayanapura,2027,Oct-Dec,11798.14
+589,byatarayanapura,2028,Apr-Jun,12774.29
+588,byatarayanapura,2028,Jan-Mar,12774.29
+590,byatarayanapura,2028,Jul-Sep,12774.29
+591,byatarayanapura,2028,Oct-Dec,12774.29
+593,byatarayanapura,2029,Apr-Jun,13831.2
+592,byatarayanapura,2029,Jan-Mar,13831.2
+594,byatarayanapura,2029,Jul-Sep,13831.2
+595,byatarayanapura,2029,Oct-Dec,13831.2
+597,byatarayanapura,2030,Apr-Jun,14975.56
+596,byatarayanapura,2030,Jan-Mar,14975.56
+598,byatarayanapura,2030,Jul-Sep,14975.56
+599,byatarayanapura,2030,Oct-Dec,14975.56
+625,cambridge road,2025,Apr-Jun,9065.86
+624,cambridge road,2025,Jan-Mar,9065.86
+626,cambridge road,2025,Jul-Sep,9065.86
+627,cambridge road,2025,Oct-Dec,9065.86
+629,cambridge road,2026,Apr-Jun,9747.8
+628,cambridge road,2026,Jan-Mar,9747.8
+630,cambridge road,2026,Jul-Sep,9747.8
+631,cambridge road,2026,Oct-Dec,9747.8
+633,cambridge road,2027,Apr-Jun,10481.04
+632,cambridge road,2027,Jan-Mar,10481.04
+634,cambridge road,2027,Jul-Sep,10481.04
+635,cambridge road,2027,Oct-Dec,10481.04
+637,cambridge road,2028,Apr-Jun,11269.42
+636,cambridge road,2028,Jan-Mar,11269.42
+638,cambridge road,2028,Jul-Sep,11269.42
+639,cambridge road,2028,Oct-Dec,11269.42
+641,cambridge road,2029,Apr-Jun,12117.12
+640,cambridge road,2029,Jan-Mar,12117.12
+642,cambridge road,2029,Jul-Sep,12117.12
+643,cambridge road,2029,Oct-Dec,12117.12
+645,cambridge road,2030,Apr-Jun,13028.57
+644,cambridge road,2030,Jan-Mar,13028.57
+646,cambridge road,2030,Jul-Sep,13028.57
+647,cambridge road,2030,Oct-Dec,13028.57
+649,chandapura,2025,Apr-Jun,5819.24
+648,chandapura,2025,Jan-Mar,5819.24
+650,chandapura,2025,Jul-Sep,5819.24
+651,chandapura,2025,Oct-Dec,5819.24
+653,chandapura,2026,Apr-Jun,6023.46
+652,chandapura,2026,Jan-Mar,6023.46
+654,chandapura,2026,Jul-Sep,6023.46
+655,chandapura,2026,Oct-Dec,6023.46
+657,chandapura,2027,Apr-Jun,6234.84
+656,chandapura,2027,Jan-Mar,6234.84
+658,chandapura,2027,Jul-Sep,6234.84
+659,chandapura,2027,Oct-Dec,6234.84
+661,chandapura,2028,Apr-Jun,6453.65
+660,chandapura,2028,Jan-Mar,6453.65
+662,chandapura,2028,Jul-Sep,6453.65
+663,chandapura,2028,Oct-Dec,6453.65
+665,chandapura,2029,Apr-Jun,6680.13
+664,chandapura,2029,Jan-Mar,6680.13
+666,chandapura,2029,Jul-Sep,6680.13
+667,chandapura,2029,Oct-Dec,6680.13
+669,chandapura,2030,Apr-Jun,6914.57
+668,chandapura,2030,Jan-Mar,6914.57
+670,chandapura,2030,Jul-Sep,6914.57
+671,chandapura,2030,Oct-Dec,6914.57
+673,chandapura anekal road,2025,Apr-Jun,5859.95
+672,chandapura anekal road,2025,Jan-Mar,5859.95
+674,chandapura anekal road,2025,Jul-Sep,5859.95
+675,chandapura anekal road,2025,Oct-Dec,5859.95
+677,chandapura anekal road,2026,Apr-Jun,6047.41
+676,chandapura anekal road,2026,Jan-Mar,6047.41
+678,chandapura anekal road,2026,Jul-Sep,6047.41
+679,chandapura anekal road,2026,Oct-Dec,6047.41
+681,chandapura anekal road,2027,Apr-Jun,6240.86
+680,chandapura anekal road,2027,Jan-Mar,6240.86
+682,chandapura anekal road,2027,Jul-Sep,6240.86
+683,chandapura anekal road,2027,Oct-Dec,6240.86
+685,chandapura anekal road,2028,Apr-Jun,6440.51
+684,chandapura anekal road,2028,Jan-Mar,6440.51
+686,chandapura anekal road,2028,Jul-Sep,6440.51
+687,chandapura anekal road,2028,Oct-Dec,6440.51
+689,chandapura anekal road,2029,Apr-Jun,6646.54
+688,chandapura anekal road,2029,Jan-Mar,6646.54
+690,chandapura anekal road,2029,Jul-Sep,6646.54
+691,chandapura anekal road,2029,Oct-Dec,6646.54
+693,chandapura anekal road,2030,Apr-Jun,6859.16
+692,chandapura anekal road,2030,Jan-Mar,6859.16
+694,chandapura anekal road,2030,Jul-Sep,6859.16
+695,chandapura anekal road,2030,Oct-Dec,6859.16
+697,channasandra,2025,Apr-Jun,9239.57
+696,channasandra,2025,Jan-Mar,9239.57
+698,channasandra,2025,Jul-Sep,9239.57
+699,channasandra,2025,Oct-Dec,9239.57
+701,channasandra,2026,Apr-Jun,9783.25
+700,channasandra,2026,Jan-Mar,9783.25
+702,channasandra,2026,Jul-Sep,9783.25
+703,channasandra,2026,Oct-Dec,9783.25
+705,channasandra,2027,Apr-Jun,10358.92
+704,channasandra,2027,Jan-Mar,10358.92
+706,channasandra,2027,Jul-Sep,10358.92
+707,channasandra,2027,Oct-Dec,10358.92
+709,channasandra,2028,Apr-Jun,10968.47
+708,channasandra,2028,Jan-Mar,10968.47
+710,channasandra,2028,Jul-Sep,10968.47
+711,channasandra,2028,Oct-Dec,10968.47
+713,channasandra,2029,Apr-Jun,11613.89
+712,channasandra,2029,Jan-Mar,11613.89
+714,channasandra,2029,Jul-Sep,11613.89
+715,channasandra,2029,Oct-Dec,11613.89
+717,channasandra,2030,Apr-Jun,12297.28
+716,channasandra,2030,Jan-Mar,12297.28
+718,channasandra,2030,Jul-Sep,12297.28
+719,channasandra,2030,Oct-Dec,12297.28
+721,chunchgatta main road,2025,Apr-Jun,9874.89
+720,chunchgatta main road,2025,Jan-Mar,9874.89
+722,chunchgatta main road,2025,Jul-Sep,9874.89
+723,chunchgatta main road,2025,Oct-Dec,9874.89
+725,chunchgatta main road,2026,Apr-Jun,10496.82
+724,chunchgatta main road,2026,Jan-Mar,10496.82
+726,chunchgatta main road,2026,Jul-Sep,10496.82
+727,chunchgatta main road,2026,Oct-Dec,10496.82
+729,chunchgatta main road,2027,Apr-Jun,11157.92
+728,chunchgatta main road,2027,Jan-Mar,11157.92
+730,chunchgatta main road,2027,Jul-Sep,11157.92
+731,chunchgatta main road,2027,Oct-Dec,11157.92
+733,chunchgatta main road,2028,Apr-Jun,11860.66
+732,chunchgatta main road,2028,Jan-Mar,11860.66
+734,chunchgatta main road,2028,Jul-Sep,11860.66
+735,chunchgatta main road,2028,Oct-Dec,11860.66
+737,chunchgatta main road,2029,Apr-Jun,12607.65
+736,chunchgatta main road,2029,Jan-Mar,12607.65
+738,chunchgatta main road,2029,Jul-Sep,12607.65
+739,chunchgatta main road,2029,Oct-Dec,12607.65
+741,chunchgatta main road,2030,Apr-Jun,13401.69
+740,chunchgatta main road,2030,Jan-Mar,13401.69
+742,chunchgatta main road,2030,Jul-Sep,13401.69
+743,chunchgatta main road,2030,Oct-Dec,13401.69
+745,church street,2025,Apr-Jun,14031.42
+744,church street,2025,Jan-Mar,14031.42
+746,church street,2025,Jul-Sep,14031.42
+747,church street,2025,Oct-Dec,14031.42
+749,church street,2026,Apr-Jun,14665.64
+748,church street,2026,Jan-Mar,14665.64
+750,church street,2026,Jul-Sep,14665.64
+751,church street,2026,Oct-Dec,14665.64
+753,church street,2027,Apr-Jun,15328.52
+752,church street,2027,Jan-Mar,15328.52
+754,church street,2027,Jul-Sep,15328.52
+755,church street,2027,Oct-Dec,15328.52
+757,church street,2028,Apr-Jun,16021.36
+756,church street,2028,Jan-Mar,16021.36
+758,church street,2028,Jul-Sep,16021.36
+759,church street,2028,Oct-Dec,16021.36
+761,church street,2029,Apr-Jun,16745.53
+760,church street,2029,Jan-Mar,16745.53
+762,church street,2029,Jul-Sep,16745.53
+763,church street,2029,Oct-Dec,16745.53
+765,church street,2030,Apr-Jun,17502.42
+764,church street,2030,Jan-Mar,17502.42
+766,church street,2030,Jul-Sep,17502.42
+767,church street,2030,Oct-Dec,17502.42
+769,coles road,2025,Apr-Jun,14232.25
+768,coles road,2025,Jan-Mar,14232.25
+770,coles road,2025,Jul-Sep,14232.25
+771,coles road,2025,Oct-Dec,14232.25
+773,coles road,2026,Apr-Jun,15549.95
+772,coles road,2026,Jan-Mar,15549.95
+774,coles road,2026,Jul-Sep,15549.95
+775,coles road,2026,Oct-Dec,15549.95
+777,coles road,2027,Apr-Jun,16989.65
+776,coles road,2027,Jan-Mar,16989.65
+778,coles road,2027,Jul-Sep,16989.65
+779,coles road,2027,Oct-Dec,16989.65
+781,coles road,2028,Apr-Jun,18562.65
+780,coles road,2028,Jan-Mar,18562.65
+782,coles road,2028,Jul-Sep,18562.65
+783,coles road,2028,Oct-Dec,18562.65
+785,coles road,2029,Apr-Jun,20281.28
+784,coles road,2029,Jan-Mar,20281.28
+786,coles road,2029,Jul-Sep,20281.28
+787,coles road,2029,Oct-Dec,20281.28
+789,coles road,2030,Apr-Jun,22159.03
+788,coles road,2030,Jan-Mar,22159.03
+790,coles road,2030,Jul-Sep,22159.03
+791,coles road,2030,Oct-Dec,22159.03
+793,commissariat road,2025,Apr-Jun,18578.26
+792,commissariat road,2025,Jan-Mar,18578.26
+794,commissariat road,2025,Jul-Sep,18578.26
+795,commissariat road,2025,Oct-Dec,18578.26
+797,commissariat road,2026,Apr-Jun,20976.01
+796,commissariat road,2026,Jan-Mar,20976.01
+798,commissariat road,2026,Jul-Sep,20976.01
+799,commissariat road,2026,Oct-Dec,20976.01
+801,commissariat road,2027,Apr-Jun,23683.21
+800,commissariat road,2027,Jan-Mar,23683.21
+802,commissariat road,2027,Jul-Sep,23683.21
+803,commissariat road,2027,Oct-Dec,23683.21
+805,commissariat road,2028,Apr-Jun,26739.81
+804,commissariat road,2028,Jan-Mar,26739.81
+806,commissariat road,2028,Jul-Sep,26739.81
+807,commissariat road,2028,Oct-Dec,26739.81
+809,commissariat road,2029,Apr-Jun,30190.89
+808,commissariat road,2029,Jan-Mar,30190.89
+810,commissariat road,2029,Jul-Sep,30190.89
+811,commissariat road,2029,Oct-Dec,30190.89
+813,commissariat road,2030,Apr-Jun,34087.39
+812,commissariat road,2030,Jan-Mar,34087.39
+814,commissariat road,2030,Jul-Sep,34087.39
+815,commissariat road,2030,Oct-Dec,34087.39
+817,cooke town,2025,Apr-Jun,11507.79
+816,cooke town,2025,Jan-Mar,11507.79
+818,cooke town,2025,Jul-Sep,11507.79
+819,cooke town,2025,Oct-Dec,11507.79
+821,cooke town,2026,Apr-Jun,12192.49
+820,cooke town,2026,Jan-Mar,12192.49
+822,cooke town,2026,Jul-Sep,12192.49
+823,cooke town,2026,Oct-Dec,12192.49
+825,cooke town,2027,Apr-Jun,12917.93
+824,cooke town,2027,Jan-Mar,12917.93
+826,cooke town,2027,Jul-Sep,12917.93
+827,cooke town,2027,Oct-Dec,12917.93
+829,cooke town,2028,Apr-Jun,13686.54
+828,cooke town,2028,Jan-Mar,13686.54
+830,cooke town,2028,Jul-Sep,13686.54
+831,cooke town,2028,Oct-Dec,13686.54
+833,cooke town,2029,Apr-Jun,14500.87
+832,cooke town,2029,Jan-Mar,14500.87
+834,cooke town,2029,Jul-Sep,14500.87
+835,cooke town,2029,Oct-Dec,14500.87
+837,cooke town,2030,Apr-Jun,15363.66
+836,cooke town,2030,Jan-Mar,15363.66
+838,cooke town,2030,Jul-Sep,15363.66
+839,cooke town,2030,Oct-Dec,15363.66
+841,cunningham road,2025,Apr-Jun,15578.04
+840,cunningham road,2025,Jan-Mar,15578.04
+842,cunningham road,2025,Jul-Sep,15578.04
+843,cunningham road,2025,Oct-Dec,15578.04
+845,cunningham road,2026,Apr-Jun,15747.11
+844,cunningham road,2026,Jan-Mar,15747.11
+846,cunningham road,2026,Jul-Sep,15747.11
+847,cunningham road,2026,Oct-Dec,15747.11
+849,cunningham road,2027,Apr-Jun,15918.01
+848,cunningham road,2027,Jan-Mar,15918.01
+850,cunningham road,2027,Jul-Sep,15918.01
+851,cunningham road,2027,Oct-Dec,15918.01
+853,cunningham road,2028,Apr-Jun,16090.78
+852,cunningham road,2028,Jan-Mar,16090.78
+854,cunningham road,2028,Jul-Sep,16090.78
+855,cunningham road,2028,Oct-Dec,16090.78
+857,cunningham road,2029,Apr-Jun,16265.41
+856,cunningham road,2029,Jan-Mar,16265.41
+858,cunningham road,2029,Jul-Sep,16265.41
+859,cunningham road,2029,Oct-Dec,16265.41
+861,cunningham road,2030,Apr-Jun,16441.94
+860,cunningham road,2030,Jan-Mar,16441.94
+862,cunningham road,2030,Jul-Sep,16441.94
+863,cunningham road,2030,Oct-Dec,16441.94
+601,cv raman nagar,2025,Apr-Jun,7539.23
+600,cv raman nagar,2025,Jan-Mar,7539.23
+602,cv raman nagar,2025,Jul-Sep,7539.23
+603,cv raman nagar,2025,Oct-Dec,7539.23
+605,cv raman nagar,2026,Apr-Jun,7801.78
+604,cv raman nagar,2026,Jan-Mar,7801.78
+606,cv raman nagar,2026,Jul-Sep,7801.78
+607,cv raman nagar,2026,Oct-Dec,7801.78
+609,cv raman nagar,2027,Apr-Jun,8073.48
+608,cv raman nagar,2027,Jan-Mar,8073.48
+610,cv raman nagar,2027,Jul-Sep,8073.48
+611,cv raman nagar,2027,Oct-Dec,8073.48
+613,cv raman nagar,2028,Apr-Jun,8354.63
+612,cv raman nagar,2028,Jan-Mar,8354.63
+614,cv raman nagar,2028,Jul-Sep,8354.63
+615,cv raman nagar,2028,Oct-Dec,8354.63
+617,cv raman nagar,2029,Apr-Jun,8645.58
+616,cv raman nagar,2029,Jan-Mar,8645.58
+618,cv raman nagar,2029,Jul-Sep,8645.58
+619,cv raman nagar,2029,Oct-Dec,8645.58
+621,cv raman nagar,2030,Apr-Jun,8946.66
+620,cv raman nagar,2030,Jan-Mar,8946.66
+622,cv raman nagar,2030,Jul-Sep,8946.66
+623,cv raman nagar,2030,Oct-Dec,8946.66
+865,devanahalli,2025,Apr-Jun,7363.5
+864,devanahalli,2025,Jan-Mar,7363.5
+866,devanahalli,2025,Jul-Sep,7363.5
+867,devanahalli,2025,Oct-Dec,7363.5
+869,devanahalli,2026,Apr-Jun,7932.02
+868,devanahalli,2026,Jan-Mar,7932.02
+870,devanahalli,2026,Jul-Sep,7932.02
+871,devanahalli,2026,Oct-Dec,7932.02
+873,devanahalli,2027,Apr-Jun,8544.43
+872,devanahalli,2027,Jan-Mar,8544.43
+874,devanahalli,2027,Jul-Sep,8544.43
+875,devanahalli,2027,Oct-Dec,8544.43
+877,devanahalli,2028,Apr-Jun,9204.12
+876,devanahalli,2028,Jan-Mar,9204.12
+878,devanahalli,2028,Jul-Sep,9204.12
+879,devanahalli,2028,Oct-Dec,9204.12
+881,devanahalli,2029,Apr-Jun,9914.75
+880,devanahalli,2029,Jan-Mar,9914.75
+882,devanahalli,2029,Jul-Sep,9914.75
+883,devanahalli,2029,Oct-Dec,9914.75
+885,devanahalli,2030,Apr-Jun,10680.24
+884,devanahalli,2030,Jan-Mar,10680.24
+886,devanahalli,2030,Jul-Sep,10680.24
+887,devanahalli,2030,Oct-Dec,10680.24
+889,doddaballapur main road,2025,Apr-Jun,8725.3
+888,doddaballapur main road,2025,Jan-Mar,8725.3
+890,doddaballapur main road,2025,Jul-Sep,8725.3
+891,doddaballapur main road,2025,Oct-Dec,8725.3
+893,doddaballapur main road,2026,Apr-Jun,9428.03
+892,doddaballapur main road,2026,Jan-Mar,9428.03
+894,doddaballapur main road,2026,Jul-Sep,9428.03
+895,doddaballapur main road,2026,Oct-Dec,9428.03
+897,doddaballapur main road,2027,Apr-Jun,10187.35
+896,doddaballapur main road,2027,Jan-Mar,10187.35
+898,doddaballapur main road,2027,Jul-Sep,10187.35
+899,doddaballapur main road,2027,Oct-Dec,10187.35
+901,doddaballapur main road,2028,Apr-Jun,11007.83
+900,doddaballapur main road,2028,Jan-Mar,11007.83
+902,doddaballapur main road,2028,Jul-Sep,11007.83
+903,doddaballapur main road,2028,Oct-Dec,11007.83
+905,doddaballapur main road,2029,Apr-Jun,11894.39
+904,doddaballapur main road,2029,Jan-Mar,11894.39
+906,doddaballapur main road,2029,Jul-Sep,11894.39
+907,doddaballapur main road,2029,Oct-Dec,11894.39
+909,doddaballapur main road,2030,Apr-Jun,12852.35
+908,doddaballapur main road,2030,Jan-Mar,12852.35
+910,doddaballapur main road,2030,Jul-Sep,12852.35
+911,doddaballapur main road,2030,Oct-Dec,12852.35
+913,doddakannelli,2025,Apr-Jun,7717.91
+912,doddakannelli,2025,Jan-Mar,7717.91
+914,doddakannelli,2025,Jul-Sep,7717.91
+915,doddakannelli,2025,Oct-Dec,7717.91
+917,doddakannelli,2026,Apr-Jun,8650.19
+916,doddakannelli,2026,Jan-Mar,8650.19
+918,doddakannelli,2026,Jul-Sep,8650.19
+919,doddakannelli,2026,Oct-Dec,8650.19
+921,doddakannelli,2027,Apr-Jun,9695.1
+920,doddakannelli,2027,Jan-Mar,9695.1
+922,doddakannelli,2027,Jul-Sep,9695.1
+923,doddakannelli,2027,Oct-Dec,9695.1
+925,doddakannelli,2028,Apr-Jun,10866.22
+924,doddakannelli,2028,Jan-Mar,10866.22
+926,doddakannelli,2028,Jul-Sep,10866.22
+927,doddakannelli,2028,Oct-Dec,10866.22
+929,doddakannelli,2029,Apr-Jun,12178.8
+928,doddakannelli,2029,Jan-Mar,12178.8
+930,doddakannelli,2029,Jul-Sep,12178.8
+931,doddakannelli,2029,Oct-Dec,12178.8
+933,doddakannelli,2030,Apr-Jun,13649.95
+932,doddakannelli,2030,Jan-Mar,13649.95
+934,doddakannelli,2030,Jul-Sep,13649.95
+935,doddakannelli,2030,Oct-Dec,13649.95
+937,doddakannelli chikkanayakana halli road,2025,Apr-Jun,9868.97
+961,doddakannelli chikkanayakana halli road,2025,Apr-Jun,9868.97
+936,doddakannelli chikkanayakana halli road,2025,Jan-Mar,9868.97
+960,doddakannelli chikkanayakana halli road,2025,Jan-Mar,9868.97
+938,doddakannelli chikkanayakana halli road,2025,Jul-Sep,9868.97
+962,doddakannelli chikkanayakana halli road,2025,Jul-Sep,9868.97
+939,doddakannelli chikkanayakana halli road,2025,Oct-Dec,9868.97
+963,doddakannelli chikkanayakana halli road,2025,Oct-Dec,9868.97
+941,doddakannelli chikkanayakana halli road,2026,Apr-Jun,11174.5
+965,doddakannelli chikkanayakana halli road,2026,Apr-Jun,11174.5
+940,doddakannelli chikkanayakana halli road,2026,Jan-Mar,11174.5
+964,doddakannelli chikkanayakana halli road,2026,Jan-Mar,11174.5
+942,doddakannelli chikkanayakana halli road,2026,Jul-Sep,11174.5
+966,doddakannelli chikkanayakana halli road,2026,Jul-Sep,11174.5
+943,doddakannelli chikkanayakana halli road,2026,Oct-Dec,11174.5
+967,doddakannelli chikkanayakana halli road,2026,Oct-Dec,11174.5
+945,doddakannelli chikkanayakana halli road,2027,Apr-Jun,12652.74
+969,doddakannelli chikkanayakana halli road,2027,Apr-Jun,12652.74
+944,doddakannelli chikkanayakana halli road,2027,Jan-Mar,12652.74
+968,doddakannelli chikkanayakana halli road,2027,Jan-Mar,12652.74
+946,doddakannelli chikkanayakana halli road,2027,Jul-Sep,12652.74
+970,doddakannelli chikkanayakana halli road,2027,Jul-Sep,12652.74
+947,doddakannelli chikkanayakana halli road,2027,Oct-Dec,12652.74
+971,doddakannelli chikkanayakana halli road,2027,Oct-Dec,12652.74
+949,doddakannelli chikkanayakana halli road,2028,Apr-Jun,14326.52
+973,doddakannelli chikkanayakana halli road,2028,Apr-Jun,14326.52
+948,doddakannelli chikkanayakana halli road,2028,Jan-Mar,14326.52
+972,doddakannelli chikkanayakana halli road,2028,Jan-Mar,14326.52
+950,doddakannelli chikkanayakana halli road,2028,Jul-Sep,14326.52
+974,doddakannelli chikkanayakana halli road,2028,Jul-Sep,14326.52
+951,doddakannelli chikkanayakana halli road,2028,Oct-Dec,14326.52
+975,doddakannelli chikkanayakana halli road,2028,Oct-Dec,14326.52
+953,doddakannelli chikkanayakana halli road,2029,Apr-Jun,16221.73
+977,doddakannelli chikkanayakana halli road,2029,Apr-Jun,16221.73
+952,doddakannelli chikkanayakana halli road,2029,Jan-Mar,16221.73
+976,doddakannelli chikkanayakana halli road,2029,Jan-Mar,16221.73
+954,doddakannelli chikkanayakana halli road,2029,Jul-Sep,16221.73
+978,doddakannelli chikkanayakana halli road,2029,Jul-Sep,16221.73
+955,doddakannelli chikkanayakana halli road,2029,Oct-Dec,16221.73
+979,doddakannelli chikkanayakana halli road,2029,Oct-Dec,16221.73
+957,doddakannelli chikkanayakana halli road,2030,Apr-Jun,18367.64
+981,doddakannelli chikkanayakana halli road,2030,Apr-Jun,18367.64
+956,doddakannelli chikkanayakana halli road,2030,Jan-Mar,18367.64
+980,doddakannelli chikkanayakana halli road,2030,Jan-Mar,18367.64
+958,doddakannelli chikkanayakana halli road,2030,Jul-Sep,18367.64
+982,doddakannelli chikkanayakana halli road,2030,Jul-Sep,18367.64
+959,doddakannelli chikkanayakana halli road,2030,Oct-Dec,18367.64
+983,doddakannelli chikkanayakana halli road,2030,Oct-Dec,18367.64
+985,dr rajkumar road,2025,Apr-Jun,12061.46
+984,dr rajkumar road,2025,Jan-Mar,12061.46
+986,dr rajkumar road,2025,Jul-Sep,12061.46
+987,dr rajkumar road,2025,Oct-Dec,12061.46
+989,dr rajkumar road,2026,Apr-Jun,12790.57
+988,dr rajkumar road,2026,Jan-Mar,12790.57
+990,dr rajkumar road,2026,Jul-Sep,12790.57
+991,dr rajkumar road,2026,Oct-Dec,12790.57
+993,dr rajkumar road,2027,Apr-Jun,13563.76
+992,dr rajkumar road,2027,Jan-Mar,13563.76
+994,dr rajkumar road,2027,Jul-Sep,13563.76
+995,dr rajkumar road,2027,Oct-Dec,13563.76
+997,dr rajkumar road,2028,Apr-Jun,14383.69
+996,dr rajkumar road,2028,Jan-Mar,14383.69
+998,dr rajkumar road,2028,Jul-Sep,14383.69
+999,dr rajkumar road,2028,Oct-Dec,14383.69
+1001,dr rajkumar road,2029,Apr-Jun,15253.18
+1000,dr rajkumar road,2029,Jan-Mar,15253.18
+1002,dr rajkumar road,2029,Jul-Sep,15253.18
+1003,dr rajkumar road,2029,Oct-Dec,15253.18
+1005,dr rajkumar road,2030,Apr-Jun,16175.23
+1004,dr rajkumar road,2030,Jan-Mar,16175.23
+1006,dr rajkumar road,2030,Jul-Sep,16175.23
+1007,dr rajkumar road,2030,Oct-Dec,16175.23
+1009,ecc road,2025,Apr-Jun,12294.45
+1008,ecc road,2025,Jan-Mar,12294.45
+1010,ecc road,2025,Jul-Sep,12294.45
+1011,ecc road,2025,Oct-Dec,12294.45
+1013,ecc road,2026,Apr-Jun,14243.99
+1012,ecc road,2026,Jan-Mar,14243.99
+1014,ecc road,2026,Jul-Sep,14243.99
+1015,ecc road,2026,Oct-Dec,14243.99
+1017,ecc road,2027,Apr-Jun,16502.67
+1016,ecc road,2027,Jan-Mar,16502.67
+1018,ecc road,2027,Jul-Sep,16502.67
+1019,ecc road,2027,Oct-Dec,16502.67
+1021,ecc road,2028,Apr-Jun,19119.51
+1020,ecc road,2028,Jan-Mar,19119.51
+1022,ecc road,2028,Jul-Sep,19119.51
+1023,ecc road,2028,Oct-Dec,19119.51
+1025,ecc road,2029,Apr-Jun,22151.31
+1024,ecc road,2029,Jan-Mar,22151.31
+1026,ecc road,2029,Jul-Sep,22151.31
+1027,ecc road,2029,Oct-Dec,22151.31
+1029,ecc road,2030,Apr-Jun,25663.85
+1028,ecc road,2030,Jan-Mar,25663.85
+1030,ecc road,2030,Jul-Sep,25663.85
+1031,ecc road,2030,Oct-Dec,25663.85
+1033,electronic city,2025,Apr-Jun,7379.47
+1032,electronic city,2025,Jan-Mar,7379.47
+1034,electronic city,2025,Jul-Sep,7379.47
+1035,electronic city,2025,Oct-Dec,7379.47
+1037,electronic city,2026,Apr-Jun,7811.69
+1036,electronic city,2026,Jan-Mar,7811.69
+1038,electronic city,2026,Jul-Sep,7811.69
+1039,electronic city,2026,Oct-Dec,7811.69
+1041,electronic city,2027,Apr-Jun,8269.23
+1040,electronic city,2027,Jan-Mar,8269.23
+1042,electronic city,2027,Jul-Sep,8269.23
+1043,electronic city,2027,Oct-Dec,8269.23
+1045,electronic city,2028,Apr-Jun,8753.56
+1044,electronic city,2028,Jan-Mar,8753.56
+1046,electronic city,2028,Jul-Sep,8753.56
+1047,electronic city,2028,Oct-Dec,8753.56
+1049,electronic city,2029,Apr-Jun,9266.26
+1048,electronic city,2029,Jan-Mar,9266.26
+1050,electronic city,2029,Jul-Sep,9266.26
+1051,electronic city,2029,Oct-Dec,9266.26
+1053,electronic city,2030,Apr-Jun,9808.99
+1052,electronic city,2030,Jan-Mar,9808.99
+1054,electronic city,2030,Jul-Sep,9808.99
+1055,electronic city,2030,Oct-Dec,9808.99
+1057,gkvk road,2025,Apr-Jun,7799.66
+1056,gkvk road,2025,Jan-Mar,7799.66
+1058,gkvk road,2025,Jul-Sep,7799.66
+1059,gkvk road,2025,Oct-Dec,7799.66
+1061,gkvk road,2026,Apr-Jun,8892.31
+1060,gkvk road,2026,Jan-Mar,8892.31
+1062,gkvk road,2026,Jul-Sep,8892.31
+1063,gkvk road,2026,Oct-Dec,8892.31
+1065,gkvk road,2027,Apr-Jun,10138.02
+1064,gkvk road,2027,Jan-Mar,10138.02
+1066,gkvk road,2027,Jul-Sep,10138.02
+1067,gkvk road,2027,Oct-Dec,10138.02
+1069,gkvk road,2028,Apr-Jun,11558.24
+1068,gkvk road,2028,Jan-Mar,11558.24
+1070,gkvk road,2028,Jul-Sep,11558.24
+1071,gkvk road,2028,Oct-Dec,11558.24
+1073,gkvk road,2029,Apr-Jun,13177.43
+1072,gkvk road,2029,Jan-Mar,13177.43
+1074,gkvk road,2029,Jul-Sep,13177.43
+1075,gkvk road,2029,Oct-Dec,13177.43
+1077,gkvk road,2030,Apr-Jun,15023.44
+1076,gkvk road,2030,Jan-Mar,15023.44
+1078,gkvk road,2030,Jul-Sep,15023.44
+1079,gkvk road,2030,Oct-Dec,15023.44
+1081,gottigere,2025,Apr-Jun,6848.82
+1080,gottigere,2025,Jan-Mar,6848.82
+1082,gottigere,2025,Jul-Sep,6848.82
+1083,gottigere,2025,Oct-Dec,6848.82
+1085,gottigere,2026,Apr-Jun,7070.91
+1084,gottigere,2026,Jan-Mar,7070.91
+1086,gottigere,2026,Jul-Sep,7070.91
+1087,gottigere,2026,Oct-Dec,7070.91
+1089,gottigere,2027,Apr-Jun,7300.19
+1088,gottigere,2027,Jan-Mar,7300.19
+1090,gottigere,2027,Jul-Sep,7300.19
+1091,gottigere,2027,Oct-Dec,7300.19
+1093,gottigere,2028,Apr-Jun,7536.92
+1092,gottigere,2028,Jan-Mar,7536.92
+1094,gottigere,2028,Jul-Sep,7536.92
+1095,gottigere,2028,Oct-Dec,7536.92
+1097,gottigere,2029,Apr-Jun,7781.32
+1096,gottigere,2029,Jan-Mar,7781.32
+1098,gottigere,2029,Jul-Sep,7781.32
+1099,gottigere,2029,Oct-Dec,7781.32
+1101,gottigere,2030,Apr-Jun,8033.64
+1100,gottigere,2030,Jan-Mar,8033.64
+1102,gottigere,2030,Jul-Sep,8033.64
+1103,gottigere,2030,Oct-Dec,8033.64
+1105,gubbalala,2025,Apr-Jun,6609.44
+1104,gubbalala,2025,Jan-Mar,6609.44
+1106,gubbalala,2025,Jul-Sep,6609.44
+1107,gubbalala,2025,Oct-Dec,6609.44
+1109,gubbalala,2026,Apr-Jun,6925.97
+1108,gubbalala,2026,Jan-Mar,6925.97
+1110,gubbalala,2026,Jul-Sep,6925.97
+1111,gubbalala,2026,Oct-Dec,6925.97
+1113,gubbalala,2027,Apr-Jun,7257.66
+1112,gubbalala,2027,Jan-Mar,7257.66
+1114,gubbalala,2027,Jul-Sep,7257.66
+1115,gubbalala,2027,Oct-Dec,7257.66
+1117,gubbalala,2028,Apr-Jun,7605.24
+1116,gubbalala,2028,Jan-Mar,7605.24
+1118,gubbalala,2028,Jul-Sep,7605.24
+1119,gubbalala,2028,Oct-Dec,7605.24
+1121,gubbalala,2029,Apr-Jun,7969.47
+1120,gubbalala,2029,Jan-Mar,7969.47
+1122,gubbalala,2029,Jul-Sep,7969.47
+1123,gubbalala,2029,Oct-Dec,7969.47
+1125,gubbalala,2030,Apr-Jun,8351.13
+1124,gubbalala,2030,Jan-Mar,8351.13
+1126,gubbalala,2030,Jul-Sep,8351.13
+1127,gubbalala,2030,Oct-Dec,8351.13
+1129,gunjur,2025,Apr-Jun,7885.71
+1128,gunjur,2025,Jan-Mar,7885.71
+1130,gunjur,2025,Jul-Sep,7885.71
+1131,gunjur,2025,Oct-Dec,7885.71
+1133,gunjur,2026,Apr-Jun,9025.09
+1132,gunjur,2026,Jan-Mar,9025.09
+1134,gunjur,2026,Jul-Sep,9025.09
+1135,gunjur,2026,Oct-Dec,9025.09
+1137,gunjur,2027,Apr-Jun,10329.09
+1136,gunjur,2027,Jan-Mar,10329.09
+1138,gunjur,2027,Jul-Sep,10329.09
+1139,gunjur,2027,Oct-Dec,10329.09
+1141,gunjur,2028,Apr-Jun,11821.51
+1140,gunjur,2028,Jan-Mar,11821.51
+1142,gunjur,2028,Jul-Sep,11821.51
+1143,gunjur,2028,Oct-Dec,11821.51
+1145,gunjur,2029,Apr-Jun,13529.55
+1144,gunjur,2029,Jan-Mar,13529.55
+1146,gunjur,2029,Jul-Sep,13529.55
+1147,gunjur,2029,Oct-Dec,13529.55
+1149,gunjur,2030,Apr-Jun,15484.39
+1148,gunjur,2030,Jan-Mar,15484.39
+1150,gunjur,2030,Jul-Sep,15484.39
+1151,gunjur,2030,Oct-Dec,15484.39
+1153,hal old airport road,2025,Apr-Jun,10372.35
+1152,hal old airport road,2025,Jan-Mar,10372.35
+1154,hal old airport road,2025,Jul-Sep,10372.35
+1155,hal old airport road,2025,Oct-Dec,10372.35
+1157,hal old airport road,2026,Apr-Jun,11477.92
+1156,hal old airport road,2026,Jan-Mar,11477.92
+1158,hal old airport road,2026,Jul-Sep,11477.92
+1159,hal old airport road,2026,Oct-Dec,11477.92
+1161,hal old airport road,2027,Apr-Jun,12701.32
+1160,hal old airport road,2027,Jan-Mar,12701.32
+1162,hal old airport road,2027,Jul-Sep,12701.32
+1163,hal old airport road,2027,Oct-Dec,12701.32
+1165,hal old airport road,2028,Apr-Jun,14055.12
+1164,hal old airport road,2028,Jan-Mar,14055.12
+1166,hal old airport road,2028,Jul-Sep,14055.12
+1167,hal old airport road,2028,Oct-Dec,14055.12
+1169,hal old airport road,2029,Apr-Jun,15553.22
+1168,hal old airport road,2029,Jan-Mar,15553.22
+1170,hal old airport road,2029,Jul-Sep,15553.22
+1171,hal old airport road,2029,Oct-Dec,15553.22
+1173,hal old airport road,2030,Apr-Jun,17211.0
+1172,hal old airport road,2030,Jan-Mar,17211.0
+1174,hal old airport road,2030,Jul-Sep,17211.0
+1175,hal old airport road,2030,Oct-Dec,17211.0
+1201,haralur main road,2025,Apr-Jun,11204.78
+1200,haralur main road,2025,Jan-Mar,11204.78
+1202,haralur main road,2025,Jul-Sep,11204.78
+1203,haralur main road,2025,Oct-Dec,11204.78
+1205,haralur main road,2026,Apr-Jun,11903.14
+1204,haralur main road,2026,Jan-Mar,11903.14
+1206,haralur main road,2026,Jul-Sep,11903.14
+1207,haralur main road,2026,Oct-Dec,11903.14
+1209,haralur main road,2027,Apr-Jun,12645.04
+1208,haralur main road,2027,Jan-Mar,12645.04
+1210,haralur main road,2027,Jul-Sep,12645.04
+1211,haralur main road,2027,Oct-Dec,12645.04
+1213,haralur main road,2028,Apr-Jun,13433.17
+1212,haralur main road,2028,Jan-Mar,13433.17
+1214,haralur main road,2028,Jul-Sep,13433.17
+1215,haralur main road,2028,Oct-Dec,13433.17
+1217,haralur main road,2029,Apr-Jun,14270.42
+1216,haralur main road,2029,Jan-Mar,14270.42
+1218,haralur main road,2029,Jul-Sep,14270.42
+1219,haralur main road,2029,Oct-Dec,14270.42
+1221,haralur main road,2030,Apr-Jun,15159.86
+1220,haralur main road,2030,Jan-Mar,15159.86
+1222,haralur main road,2030,Jul-Sep,15159.86
+1223,haralur main road,2030,Oct-Dec,15159.86
+1225,hebbal,2025,Apr-Jun,11841.11
+1224,hebbal,2025,Jan-Mar,11841.11
+1226,hebbal,2025,Jul-Sep,11841.11
+1227,hebbal,2025,Oct-Dec,11841.11
+1229,hebbal,2026,Apr-Jun,12984.18
+1228,hebbal,2026,Jan-Mar,12984.18
+1230,hebbal,2026,Jul-Sep,12984.18
+1231,hebbal,2026,Oct-Dec,12984.18
+1233,hebbal,2027,Apr-Jun,14237.59
+1232,hebbal,2027,Jan-Mar,14237.59
+1234,hebbal,2027,Jul-Sep,14237.59
+1235,hebbal,2027,Oct-Dec,14237.59
+1237,hebbal,2028,Apr-Jun,15612.01
+1236,hebbal,2028,Jan-Mar,15612.01
+1238,hebbal,2028,Jul-Sep,15612.01
+1239,hebbal,2028,Oct-Dec,15612.01
+1241,hebbal,2029,Apr-Jun,17119.1
+1240,hebbal,2029,Jan-Mar,17119.1
+1242,hebbal,2029,Jul-Sep,17119.1
+1243,hebbal,2029,Oct-Dec,17119.1
+1245,hebbal,2030,Apr-Jun,18771.67
+1244,hebbal,2030,Jan-Mar,18771.67
+1246,hebbal,2030,Jul-Sep,18771.67
+1247,hebbal,2030,Oct-Dec,18771.67
+1249,hebbal kempapura,2025,Apr-Jun,9357.87
+1248,hebbal kempapura,2025,Jan-Mar,9357.87
+1250,hebbal kempapura,2025,Jul-Sep,9357.87
+1251,hebbal kempapura,2025,Oct-Dec,9357.87
+1253,hebbal kempapura,2026,Apr-Jun,9315.22
+1252,hebbal kempapura,2026,Jan-Mar,9315.22
+1254,hebbal kempapura,2026,Jul-Sep,9315.22
+1255,hebbal kempapura,2026,Oct-Dec,9315.22
+1257,hebbal kempapura,2027,Apr-Jun,9272.77
+1256,hebbal kempapura,2027,Jan-Mar,9272.77
+1258,hebbal kempapura,2027,Jul-Sep,9272.77
+1259,hebbal kempapura,2027,Oct-Dec,9272.77
+1261,hebbal kempapura,2028,Apr-Jun,9230.5
+1260,hebbal kempapura,2028,Jan-Mar,9230.5
+1262,hebbal kempapura,2028,Jul-Sep,9230.5
+1263,hebbal kempapura,2028,Oct-Dec,9230.5
+1265,hebbal kempapura,2029,Apr-Jun,9188.43
+1264,hebbal kempapura,2029,Jan-Mar,9188.43
+1266,hebbal kempapura,2029,Jul-Sep,9188.43
+1267,hebbal kempapura,2029,Oct-Dec,9188.43
+1269,hebbal kempapura,2030,Apr-Jun,9146.55
+1268,hebbal kempapura,2030,Jan-Mar,9146.55
+1270,hebbal kempapura,2030,Jul-Sep,9146.55
+1271,hebbal kempapura,2030,Oct-Dec,9146.55
+1273,hennur gardens,2025,Apr-Jun,8664.59
+1272,hennur gardens,2025,Jan-Mar,8664.59
+1274,hennur gardens,2025,Jul-Sep,8664.59
+1275,hennur gardens,2025,Oct-Dec,8664.59
+1277,hennur gardens,2026,Apr-Jun,9444.47
+1276,hennur gardens,2026,Jan-Mar,9444.47
+1278,hennur gardens,2026,Jul-Sep,9444.47
+1279,hennur gardens,2026,Oct-Dec,9444.47
+1281,hennur gardens,2027,Apr-Jun,10294.53
+1280,hennur gardens,2027,Jan-Mar,10294.53
+1282,hennur gardens,2027,Jul-Sep,10294.53
+1283,hennur gardens,2027,Oct-Dec,10294.53
+1285,hennur gardens,2028,Apr-Jun,11221.11
+1284,hennur gardens,2028,Jan-Mar,11221.11
+1286,hennur gardens,2028,Jul-Sep,11221.11
+1287,hennur gardens,2028,Oct-Dec,11221.11
+1289,hennur gardens,2029,Apr-Jun,12231.08
+1288,hennur gardens,2029,Jan-Mar,12231.08
+1290,hennur gardens,2029,Jul-Sep,12231.08
+1291,hennur gardens,2029,Oct-Dec,12231.08
+1293,hennur gardens,2030,Apr-Jun,13331.96
+1292,hennur gardens,2030,Jan-Mar,13331.96
+1294,hennur gardens,2030,Jul-Sep,13331.96
+1295,hennur gardens,2030,Oct-Dec,13331.96
+1297,hennur main road,2025,Apr-Jun,8677.74
+1296,hennur main road,2025,Jan-Mar,8677.74
+1298,hennur main road,2025,Jul-Sep,8677.74
+1299,hennur main road,2025,Oct-Dec,8677.74
+1301,hennur main road,2026,Apr-Jun,9454.0
+1300,hennur main road,2026,Jan-Mar,9454.0
+1302,hennur main road,2026,Jul-Sep,9454.0
+1303,hennur main road,2026,Oct-Dec,9454.0
+1305,hennur main road,2027,Apr-Jun,10299.7
+1304,hennur main road,2027,Jan-Mar,10299.7
+1306,hennur main road,2027,Jul-Sep,10299.7
+1307,hennur main road,2027,Oct-Dec,10299.7
+1309,hennur main road,2028,Apr-Jun,11221.05
+1308,hennur main road,2028,Jan-Mar,11221.05
+1310,hennur main road,2028,Jul-Sep,11221.05
+1311,hennur main road,2028,Oct-Dec,11221.05
+1313,hennur main road,2029,Apr-Jun,12224.83
+1312,hennur main road,2029,Jan-Mar,12224.83
+1314,hennur main road,2029,Jul-Sep,12224.83
+1315,hennur main road,2029,Oct-Dec,12224.83
+1317,hennur main road,2030,Apr-Jun,13318.39
+1316,hennur main road,2030,Jan-Mar,13318.39
+1318,hennur main road,2030,Jul-Sep,13318.39
+1319,hennur main road,2030,Oct-Dec,13318.39
+1321,hoodi,2025,Apr-Jun,8078.77
+1320,hoodi,2025,Jan-Mar,8078.77
+1322,hoodi,2025,Jul-Sep,8078.77
+1323,hoodi,2025,Oct-Dec,8078.77
+1325,hoodi,2026,Apr-Jun,8766.98
+1324,hoodi,2026,Jan-Mar,8766.98
+1326,hoodi,2026,Jul-Sep,8766.98
+1327,hoodi,2026,Oct-Dec,8766.98
+1329,hoodi,2027,Apr-Jun,9513.82
+1328,hoodi,2027,Jan-Mar,9513.82
+1330,hoodi,2027,Jul-Sep,9513.82
+1331,hoodi,2027,Oct-Dec,9513.82
+1333,hoodi,2028,Apr-Jun,10324.29
+1332,hoodi,2028,Jan-Mar,10324.29
+1334,hoodi,2028,Jul-Sep,10324.29
+1335,hoodi,2028,Oct-Dec,10324.29
+1337,hoodi,2029,Apr-Jun,11203.79
+1336,hoodi,2029,Jan-Mar,11203.79
+1338,hoodi,2029,Jul-Sep,11203.79
+1339,hoodi,2029,Oct-Dec,11203.79
+1341,hoodi,2030,Apr-Jun,12158.22
+1340,hoodi,2030,Jan-Mar,12158.22
+1342,hoodi,2030,Jul-Sep,12158.22
+1343,hoodi,2030,Oct-Dec,12158.22
+1345,horamavu,2025,Apr-Jun,5727.0
+1344,horamavu,2025,Jan-Mar,5727.0
+1346,horamavu,2025,Jul-Sep,5727.0
+1347,horamavu,2025,Oct-Dec,5727.0
+1349,horamavu,2026,Apr-Jun,5916.3
+1348,horamavu,2026,Jan-Mar,5916.3
+1350,horamavu,2026,Jul-Sep,5916.3
+1351,horamavu,2026,Oct-Dec,5916.3
+1353,horamavu,2027,Apr-Jun,6111.86
+1352,horamavu,2027,Jan-Mar,6111.86
+1354,horamavu,2027,Jul-Sep,6111.86
+1355,horamavu,2027,Oct-Dec,6111.86
+1357,horamavu,2028,Apr-Jun,6313.87
+1356,horamavu,2028,Jan-Mar,6313.87
+1358,horamavu,2028,Jul-Sep,6313.87
+1359,horamavu,2028,Oct-Dec,6313.87
+1361,horamavu,2029,Apr-Jun,6522.57
+1360,horamavu,2029,Jan-Mar,6522.57
+1362,horamavu,2029,Jul-Sep,6522.57
+1363,horamavu,2029,Oct-Dec,6522.57
+1365,horamavu,2030,Apr-Jun,6738.17
+1364,horamavu,2030,Jan-Mar,6738.17
+1366,horamavu,2030,Jul-Sep,6738.17
+1367,horamavu,2030,Oct-Dec,6738.17
+1369,horamavu agara,2025,Apr-Jun,4782.55
+1368,horamavu agara,2025,Jan-Mar,4782.55
+1370,horamavu agara,2025,Jul-Sep,4782.55
+1371,horamavu agara,2025,Oct-Dec,4782.55
+1373,horamavu agara,2026,Apr-Jun,4856.2
+1372,horamavu agara,2026,Jan-Mar,4856.2
+1374,horamavu agara,2026,Jul-Sep,4856.2
+1375,horamavu agara,2026,Oct-Dec,4856.2
+1377,horamavu agara,2027,Apr-Jun,4930.99
+1376,horamavu agara,2027,Jan-Mar,4930.99
+1378,horamavu agara,2027,Jul-Sep,4930.99
+1379,horamavu agara,2027,Oct-Dec,4930.99
+1381,horamavu agara,2028,Apr-Jun,5006.93
+1380,horamavu agara,2028,Jan-Mar,5006.93
+1382,horamavu agara,2028,Jul-Sep,5006.93
+1383,horamavu agara,2028,Oct-Dec,5006.93
+1385,horamavu agara,2029,Apr-Jun,5084.03
+1384,horamavu agara,2029,Jan-Mar,5084.03
+1386,horamavu agara,2029,Jul-Sep,5084.03
+1387,horamavu agara,2029,Oct-Dec,5084.03
+1389,horamavu agara,2030,Apr-Jun,5162.33
+1388,horamavu agara,2030,Jan-Mar,5162.33
+1390,horamavu agara,2030,Jul-Sep,5162.33
+1391,horamavu agara,2030,Oct-Dec,5162.33
+1393,hormavu agara,2025,Apr-Jun,5635.57
+1417,hormavu agara,2025,Apr-Jun,5687.23
+1392,hormavu agara,2025,Jan-Mar,5635.57
+1416,hormavu agara,2025,Jan-Mar,5687.23
+1394,hormavu agara,2025,Jul-Sep,5635.57
+1418,hormavu agara,2025,Jul-Sep,5687.23
+1395,hormavu agara,2025,Oct-Dec,5635.57
+1419,hormavu agara,2025,Oct-Dec,5687.23
+1397,hormavu agara,2026,Apr-Jun,6166.26
+1421,hormavu agara,2026,Apr-Jun,6279.82
+1396,hormavu agara,2026,Jan-Mar,6166.26
+1420,hormavu agara,2026,Jan-Mar,6279.82
+1398,hormavu agara,2026,Jul-Sep,6166.26
+1422,hormavu agara,2026,Jul-Sep,6279.82
+1399,hormavu agara,2026,Oct-Dec,6166.26
+1423,hormavu agara,2026,Oct-Dec,6279.82
+1401,hormavu agara,2027,Apr-Jun,6746.91
+1425,hormavu agara,2027,Apr-Jun,6934.15
+1400,hormavu agara,2027,Jan-Mar,6746.91
+1424,hormavu agara,2027,Jan-Mar,6934.15
+1402,hormavu agara,2027,Jul-Sep,6746.91
+1426,hormavu agara,2027,Jul-Sep,6934.15
+1403,hormavu agara,2027,Oct-Dec,6746.91
+1427,hormavu agara,2027,Oct-Dec,6934.15
+1405,hormavu agara,2028,Apr-Jun,7382.25
+1429,hormavu agara,2028,Apr-Jun,7656.67
+1404,hormavu agara,2028,Jan-Mar,7382.25
+1428,hormavu agara,2028,Jan-Mar,7656.67
+1406,hormavu agara,2028,Jul-Sep,7382.25
+1430,hormavu agara,2028,Jul-Sep,7656.67
+1407,hormavu agara,2028,Oct-Dec,7382.25
+1431,hormavu agara,2028,Oct-Dec,7656.67
+1409,hormavu agara,2029,Apr-Jun,8077.41
+1433,hormavu agara,2029,Apr-Jun,8454.47
+1408,hormavu agara,2029,Jan-Mar,8077.41
+1432,hormavu agara,2029,Jan-Mar,8454.47
+1410,hormavu agara,2029,Jul-Sep,8077.41
+1434,hormavu agara,2029,Jul-Sep,8454.47
+1411,hormavu agara,2029,Oct-Dec,8077.41
+1435,hormavu agara,2029,Oct-Dec,8454.47
+1413,hormavu agara,2030,Apr-Jun,8838.04
+1437,hormavu agara,2030,Apr-Jun,9335.39
+1412,hormavu agara,2030,Jan-Mar,8838.04
+1436,hormavu agara,2030,Jan-Mar,9335.39
+1414,hormavu agara,2030,Jul-Sep,8838.04
+1438,hormavu agara,2030,Jul-Sep,9335.39
+1415,hormavu agara,2030,Oct-Dec,8838.04
+1439,hormavu agara,2030,Oct-Dec,9335.39
+1441,hosa road,2025,Apr-Jun,5906.98
+1440,hosa road,2025,Jan-Mar,5906.98
+1442,hosa road,2025,Jul-Sep,5906.98
+1443,hosa road,2025,Oct-Dec,5906.98
+1445,hosa road,2026,Apr-Jun,6239.03
+1444,hosa road,2026,Jan-Mar,6239.03
+1446,hosa road,2026,Jul-Sep,6239.03
+1447,hosa road,2026,Oct-Dec,6239.03
+1449,hosa road,2027,Apr-Jun,6589.74
+1448,hosa road,2027,Jan-Mar,6589.74
+1450,hosa road,2027,Jul-Sep,6589.74
+1451,hosa road,2027,Oct-Dec,6589.74
+1453,hosa road,2028,Apr-Jun,6960.17
+1452,hosa road,2028,Jan-Mar,6960.17
+1454,hosa road,2028,Jul-Sep,6960.17
+1455,hosa road,2028,Oct-Dec,6960.17
+1457,hosa road,2029,Apr-Jun,7351.42
+1456,hosa road,2029,Jan-Mar,7351.42
+1458,hosa road,2029,Jul-Sep,7351.42
+1459,hosa road,2029,Oct-Dec,7351.42
+1461,hosa road,2030,Apr-Jun,7764.66
+1460,hosa road,2030,Jan-Mar,7764.66
+1462,hosa road,2030,Jul-Sep,7764.66
+1463,hosa road,2030,Oct-Dec,7764.66
+1465,hoskote chintamani road,2025,Apr-Jun,5726.12
+1464,hoskote chintamani road,2025,Jan-Mar,5726.12
+1466,hoskote chintamani road,2025,Jul-Sep,5726.12
+1467,hoskote chintamani road,2025,Oct-Dec,5726.12
+1469,hoskote chintamani road,2026,Apr-Jun,6288.73
+1468,hoskote chintamani road,2026,Jan-Mar,6288.73
+1470,hoskote chintamani road,2026,Jul-Sep,6288.73
+1471,hoskote chintamani road,2026,Oct-Dec,6288.73
+1473,hoskote chintamani road,2027,Apr-Jun,6906.62
+1472,hoskote chintamani road,2027,Jan-Mar,6906.62
+1474,hoskote chintamani road,2027,Jul-Sep,6906.62
+1475,hoskote chintamani road,2027,Oct-Dec,6906.62
+1477,hoskote chintamani road,2028,Apr-Jun,7585.22
+1476,hoskote chintamani road,2028,Jan-Mar,7585.22
+1478,hoskote chintamani road,2028,Jul-Sep,7585.22
+1479,hoskote chintamani road,2028,Oct-Dec,7585.22
+1481,hoskote chintamani road,2029,Apr-Jun,8330.49
+1480,hoskote chintamani road,2029,Jan-Mar,8330.49
+1482,hoskote chintamani road,2029,Jul-Sep,8330.49
+1483,hoskote chintamani road,2029,Oct-Dec,8330.49
+1485,hoskote chintamani road,2030,Apr-Jun,9148.99
+1484,hoskote chintamani road,2030,Jan-Mar,9148.99
+1486,hoskote chintamani road,2030,Jul-Sep,9148.99
+1487,hoskote chintamani road,2030,Oct-Dec,9148.99
+1489,hosur road,2025,Apr-Jun,7654.11
+1488,hosur road,2025,Jan-Mar,7654.11
+1490,hosur road,2025,Jul-Sep,7654.11
+1491,hosur road,2025,Oct-Dec,7654.11
+1493,hosur road,2026,Apr-Jun,8321.3
+1492,hosur road,2026,Jan-Mar,8321.3
+1494,hosur road,2026,Jul-Sep,8321.3
+1495,hosur road,2026,Oct-Dec,8321.3
+1497,hosur road,2027,Apr-Jun,9046.65
+1496,hosur road,2027,Jan-Mar,9046.65
+1498,hosur road,2027,Jul-Sep,9046.65
+1499,hosur road,2027,Oct-Dec,9046.65
+1501,hosur road,2028,Apr-Jun,9835.23
+1500,hosur road,2028,Jan-Mar,9835.23
+1502,hosur road,2028,Jul-Sep,9835.23
+1503,hosur road,2028,Oct-Dec,9835.23
+1505,hosur road,2029,Apr-Jun,10692.54
+1504,hosur road,2029,Jan-Mar,10692.54
+1506,hosur road,2029,Jul-Sep,10692.54
+1507,hosur road,2029,Oct-Dec,10692.54
+1509,hosur road,2030,Apr-Jun,11624.59
+1508,hosur road,2030,Jan-Mar,11624.59
+1510,hosur road,2030,Jul-Sep,11624.59
+1511,hosur road,2030,Oct-Dec,11624.59
+1177,hsr layout,2025,Apr-Jun,9103.79
+1176,hsr layout,2025,Jan-Mar,9103.79
+1178,hsr layout,2025,Jul-Sep,9103.79
+1179,hsr layout,2025,Oct-Dec,9103.79
+1181,hsr layout,2026,Apr-Jun,9655.2
+1180,hsr layout,2026,Jan-Mar,9655.2
+1182,hsr layout,2026,Jul-Sep,9655.2
+1183,hsr layout,2026,Oct-Dec,9655.2
+1185,hsr layout,2027,Apr-Jun,10240.0
+1184,hsr layout,2027,Jan-Mar,10240.0
+1186,hsr layout,2027,Jul-Sep,10240.0
+1187,hsr layout,2027,Oct-Dec,10240.0
+1189,hsr layout,2028,Apr-Jun,10860.23
+1188,hsr layout,2028,Jan-Mar,10860.23
+1190,hsr layout,2028,Jul-Sep,10860.23
+1191,hsr layout,2028,Oct-Dec,10860.23
+1193,hsr layout,2029,Apr-Jun,11518.03
+1192,hsr layout,2029,Jan-Mar,11518.03
+1194,hsr layout,2029,Jul-Sep,11518.03
+1195,hsr layout,2029,Oct-Dec,11518.03
+1197,hsr layout,2030,Apr-Jun,12215.66
+1196,hsr layout,2030,Jan-Mar,12215.66
+1198,hsr layout,2030,Jul-Sep,12215.66
+1199,hsr layout,2030,Oct-Dec,12215.66
+1513,hulimavu,2025,Apr-Jun,8452.72
+1512,hulimavu,2025,Jan-Mar,8452.72
+1514,hulimavu,2025,Jul-Sep,8452.72
+1515,hulimavu,2025,Oct-Dec,8452.72
+1517,hulimavu,2026,Apr-Jun,9173.07
+1516,hulimavu,2026,Jan-Mar,9173.07
+1518,hulimavu,2026,Jul-Sep,9173.07
+1519,hulimavu,2026,Oct-Dec,9173.07
+1521,hulimavu,2027,Apr-Jun,9954.79
+1520,hulimavu,2027,Jan-Mar,9954.79
+1522,hulimavu,2027,Jul-Sep,9954.79
+1523,hulimavu,2027,Oct-Dec,9954.79
+1525,hulimavu,2028,Apr-Jun,10803.14
+1524,hulimavu,2028,Jan-Mar,10803.14
+1526,hulimavu,2028,Jul-Sep,10803.14
+1527,hulimavu,2028,Oct-Dec,10803.14
+1529,hulimavu,2029,Apr-Jun,11723.79
+1528,hulimavu,2029,Jan-Mar,11723.79
+1530,hulimavu,2029,Jul-Sep,11723.79
+1531,hulimavu,2029,Oct-Dec,11723.79
+1533,hulimavu,2030,Apr-Jun,12722.89
+1532,hulimavu,2030,Jan-Mar,12722.89
+1534,hulimavu,2030,Jul-Sep,12722.89
+1535,hulimavu,2030,Oct-Dec,12722.89
+1537,huskur road,2025,Apr-Jun,6997.76
+1536,huskur road,2025,Jan-Mar,6997.76
+1538,huskur road,2025,Jul-Sep,6997.76
+1539,huskur road,2025,Oct-Dec,6997.76
+1541,huskur road,2026,Apr-Jun,7365.73
+1540,huskur road,2026,Jan-Mar,7365.73
+1542,huskur road,2026,Jul-Sep,7365.73
+1543,huskur road,2026,Oct-Dec,7365.73
+1545,huskur road,2027,Apr-Jun,7753.04
+1544,huskur road,2027,Jan-Mar,7753.04
+1546,huskur road,2027,Jul-Sep,7753.04
+1547,huskur road,2027,Oct-Dec,7753.04
+1549,huskur road,2028,Apr-Jun,8160.72
+1548,huskur road,2028,Jan-Mar,8160.72
+1550,huskur road,2028,Jul-Sep,8160.72
+1551,huskur road,2028,Oct-Dec,8160.72
+1553,huskur road,2029,Apr-Jun,8589.84
+1552,huskur road,2029,Jan-Mar,8589.84
+1554,huskur road,2029,Jul-Sep,8589.84
+1555,huskur road,2029,Oct-Dec,8589.84
+1557,huskur road,2030,Apr-Jun,9041.52
+1556,huskur road,2030,Jan-Mar,9041.52
+1558,huskur road,2030,Jul-Sep,9041.52
+1559,huskur road,2030,Oct-Dec,9041.52
+1561,hutchins road,2025,Apr-Jun,10246.08
+1560,hutchins road,2025,Jan-Mar,10246.08
+1562,hutchins road,2025,Jul-Sep,10246.08
+1563,hutchins road,2025,Oct-Dec,10246.08
+1565,hutchins road,2026,Apr-Jun,10683.15
+1564,hutchins road,2026,Jan-Mar,10683.15
+1566,hutchins road,2026,Jul-Sep,10683.15
+1567,hutchins road,2026,Oct-Dec,10683.15
+1569,hutchins road,2027,Apr-Jun,11138.87
+1568,hutchins road,2027,Jan-Mar,11138.87
+1570,hutchins road,2027,Jul-Sep,11138.87
+1571,hutchins road,2027,Oct-Dec,11138.87
+1573,hutchins road,2028,Apr-Jun,11614.02
+1572,hutchins road,2028,Jan-Mar,11614.02
+1574,hutchins road,2028,Jul-Sep,11614.02
+1575,hutchins road,2028,Oct-Dec,11614.02
+1577,hutchins road,2029,Apr-Jun,12109.44
+1576,hutchins road,2029,Jan-Mar,12109.44
+1578,hutchins road,2029,Jul-Sep,12109.44
+1579,hutchins road,2029,Oct-Dec,12109.44
+1581,hutchins road,2030,Apr-Jun,12626.0
+1580,hutchins road,2030,Jan-Mar,12626.0
+1582,hutchins road,2030,Jul-Sep,12626.0
+1583,hutchins road,2030,Oct-Dec,12626.0
+1609,indiranagar,2025,Apr-Jun,15326.95
+1608,indiranagar,2025,Jan-Mar,15326.95
+1610,indiranagar,2025,Jul-Sep,15326.95
+1611,indiranagar,2025,Oct-Dec,15326.95
+1613,indiranagar,2026,Apr-Jun,16441.56
+1612,indiranagar,2026,Jan-Mar,16441.56
+1614,indiranagar,2026,Jul-Sep,16441.56
+1615,indiranagar,2026,Oct-Dec,16441.56
+1617,indiranagar,2027,Apr-Jun,17637.23
+1616,indiranagar,2027,Jan-Mar,17637.23
+1618,indiranagar,2027,Jul-Sep,17637.23
+1619,indiranagar,2027,Oct-Dec,17637.23
+1621,indiranagar,2028,Apr-Jun,18919.85
+1620,indiranagar,2028,Jan-Mar,18919.85
+1622,indiranagar,2028,Jul-Sep,18919.85
+1623,indiranagar,2028,Oct-Dec,18919.85
+1625,indiranagar,2029,Apr-Jun,20295.75
+1624,indiranagar,2029,Jan-Mar,20295.75
+1626,indiranagar,2029,Jul-Sep,20295.75
+1627,indiranagar,2029,Oct-Dec,20295.75
+1629,indiranagar,2030,Apr-Jun,21771.71
+1628,indiranagar,2030,Jan-Mar,21771.71
+1630,indiranagar,2030,Jul-Sep,21771.71
+1631,indiranagar,2030,Oct-Dec,21771.71
+1585,itpl,2025,Apr-Jun,13559.56
+1584,itpl,2025,Jan-Mar,13559.56
+1586,itpl,2025,Jul-Sep,13559.56
+1587,itpl,2025,Oct-Dec,13559.56
+1589,itpl,2026,Apr-Jun,15144.51
+1588,itpl,2026,Jan-Mar,15144.51
+1590,itpl,2026,Jul-Sep,15144.51
+1591,itpl,2026,Oct-Dec,15144.51
+1593,itpl,2027,Apr-Jun,16914.72
+1592,itpl,2027,Jan-Mar,16914.72
+1594,itpl,2027,Jul-Sep,16914.72
+1595,itpl,2027,Oct-Dec,16914.72
+1597,itpl,2028,Apr-Jun,18891.84
+1596,itpl,2028,Jan-Mar,18891.84
+1598,itpl,2028,Jul-Sep,18891.84
+1599,itpl,2028,Oct-Dec,18891.84
+1601,itpl,2029,Apr-Jun,21100.07
+1600,itpl,2029,Jan-Mar,21100.07
+1602,itpl,2029,Jul-Sep,21100.07
+1603,itpl,2029,Oct-Dec,21100.07
+1605,itpl,2030,Apr-Jun,23566.41
+1604,itpl,2030,Jan-Mar,23566.41
+1606,itpl,2030,Jul-Sep,23566.41
+1607,itpl,2030,Oct-Dec,23566.41
+1681,jakkur,2025,Apr-Jun,8991.09
+1680,jakkur,2025,Jan-Mar,8991.09
+1682,jakkur,2025,Jul-Sep,8991.09
+1683,jakkur,2025,Oct-Dec,8991.09
+1685,jakkur,2026,Apr-Jun,9795.65
+1684,jakkur,2026,Jan-Mar,9795.65
+1686,jakkur,2026,Jul-Sep,9795.65
+1687,jakkur,2026,Oct-Dec,9795.65
+1689,jakkur,2027,Apr-Jun,10672.2
+1688,jakkur,2027,Jan-Mar,10672.2
+1690,jakkur,2027,Jul-Sep,10672.2
+1691,jakkur,2027,Oct-Dec,10672.2
+1693,jakkur,2028,Apr-Jun,11627.19
+1692,jakkur,2028,Jan-Mar,11627.19
+1694,jakkur,2028,Jul-Sep,11627.19
+1695,jakkur,2028,Oct-Dec,11627.19
+1697,jakkur,2029,Apr-Jun,12667.63
+1696,jakkur,2029,Jan-Mar,12667.63
+1698,jakkur,2029,Jul-Sep,12667.63
+1699,jakkur,2029,Oct-Dec,12667.63
+1701,jakkur,2030,Apr-Jun,13801.18
+1700,jakkur,2030,Jan-Mar,13801.18
+1702,jakkur,2030,Jul-Sep,13801.18
+1703,jakkur,2030,Oct-Dec,13801.18
+1705,jakkur road,2025,Apr-Jun,8057.77
+1704,jakkur road,2025,Jan-Mar,8057.77
+1706,jakkur road,2025,Jul-Sep,8057.77
+1707,jakkur road,2025,Oct-Dec,8057.77
+1709,jakkur road,2026,Apr-Jun,8322.24
+1708,jakkur road,2026,Jan-Mar,8322.24
+1710,jakkur road,2026,Jul-Sep,8322.24
+1711,jakkur road,2026,Oct-Dec,8322.24
+1713,jakkur road,2027,Apr-Jun,8595.39
+1712,jakkur road,2027,Jan-Mar,8595.39
+1714,jakkur road,2027,Jul-Sep,8595.39
+1715,jakkur road,2027,Oct-Dec,8595.39
+1717,jakkur road,2028,Apr-Jun,8877.51
+1716,jakkur road,2028,Jan-Mar,8877.51
+1718,jakkur road,2028,Jul-Sep,8877.51
+1719,jakkur road,2028,Oct-Dec,8877.51
+1721,jakkur road,2029,Apr-Jun,9168.88
+1720,jakkur road,2029,Jan-Mar,9168.88
+1722,jakkur road,2029,Jul-Sep,9168.88
+1723,jakkur road,2029,Oct-Dec,9168.88
+1725,jakkur road,2030,Apr-Jun,9469.82
+1724,jakkur road,2030,Jan-Mar,9469.82
+1726,jakkur road,2030,Jul-Sep,9469.82
+1727,jakkur road,2030,Oct-Dec,9469.82
+1729,jalahalli,2025,Apr-Jun,7120.68
+1728,jalahalli,2025,Jan-Mar,7120.68
+1730,jalahalli,2025,Jul-Sep,7120.68
+1731,jalahalli,2025,Oct-Dec,7120.68
+1733,jalahalli,2026,Apr-Jun,7504.53
+1732,jalahalli,2026,Jan-Mar,7504.53
+1734,jalahalli,2026,Jul-Sep,7504.53
+1735,jalahalli,2026,Oct-Dec,7504.53
+1737,jalahalli,2027,Apr-Jun,7909.07
+1736,jalahalli,2027,Jan-Mar,7909.07
+1738,jalahalli,2027,Jul-Sep,7909.07
+1739,jalahalli,2027,Oct-Dec,7909.07
+1741,jalahalli,2028,Apr-Jun,8335.43
+1740,jalahalli,2028,Jan-Mar,8335.43
+1742,jalahalli,2028,Jul-Sep,8335.43
+1743,jalahalli,2028,Oct-Dec,8335.43
+1745,jalahalli,2029,Apr-Jun,8784.76
+1744,jalahalli,2029,Jan-Mar,8784.76
+1746,jalahalli,2029,Jul-Sep,8784.76
+1747,jalahalli,2029,Oct-Dec,8784.76
+1749,jalahalli,2030,Apr-Jun,9258.32
+1748,jalahalli,2030,Jan-Mar,9258.32
+1750,jalahalli,2030,Jul-Sep,9258.32
+1751,jalahalli,2030,Oct-Dec,9258.32
+1753,agar,2025,Apr-Jun,8455.8
+1752,jayanagar,2025,Jan-Mar,8455.8
+1754,jayanagar,2025,Jul-Sep,8455.8
+1755,jayanagar,2025,Oct-Dec,8455.8
+1757,jayanagar,2026,Apr-Jun,8898.75
+1756,jayanagar,2026,Jan-Mar,8898.75
+1758,jayanagar,2026,Jul-Sep,8898.75
+1759,jayanagar,2026,Oct-Dec,8898.75
+1761,jayanagar,2027,Apr-Jun,9364.89
+1760,jayanagar,2027,Jan-Mar,9364.89
+1762,jayanagar,2027,Jul-Sep,9364.89
+1763,jayanagar,2027,Oct-Dec,9364.89
+1765,jayanagar,2028,Apr-Jun,9855.45
+1764,jayanagar,2028,Jan-Mar,9855.45
+1766,jayanagar,2028,Jul-Sep,9855.45
+1767,jayanagar,2028,Oct-Dec,9855.45
+1769,jayanagar,2029,Apr-Jun,10371.71
+1768,jayanagar,2029,Jan-Mar,10371.71
+1770,jayanagar,2029,Jul-Sep,10371.71
+1771,jayanagar,2029,Oct-Dec,10371.71
+1773,jayanagar,2030,Apr-Jun,10915.01
+1772,jayanagar,2030,Jan-Mar,10915.01
+1774,jayanagar,2030,Jul-Sep,10915.01
+1775,jayanagar,2030,Oct-Dec,10915.01
+1633,jcr layout,2025,Apr-Jun,13638.54
+1632,jcr layout,2025,Jan-Mar,13638.54
+1634,jcr layout,2025,Jul-Sep,13638.54
+1635,jcr layout,2025,Oct-Dec,13638.54
+1637,jcr layout,2026,Apr-Jun,14915.14
+1636,jcr layout,2026,Jan-Mar,14915.14
+1638,jcr layout,2026,Jul-Sep,14915.14
+1639,jcr layout,2026,Oct-Dec,14915.14
+1641,jcr layout,2027,Apr-Jun,16311.24
+1640,jcr layout,2027,Jan-Mar,16311.24
+1642,jcr layout,2027,Jul-Sep,16311.24
+1643,jcr layout,2027,Oct-Dec,16311.24
+1645,jcr layout,2028,Apr-Jun,17838.02
+1644,jcr layout,2028,Jan-Mar,17838.02
+1646,jcr layout,2028,Jul-Sep,17838.02
+1647,jcr layout,2028,Oct-Dec,17838.02
+1649,jcr layout,2029,Apr-Jun,19507.7
+1648,jcr layout,2029,Jan-Mar,19507.7
+1650,jcr layout,2029,Jul-Sep,19507.7
+1651,jcr layout,2029,Oct-Decjayan,19507.7
+1653,jcr layout,2030,Apr-Jun,21333.68
+1652,jcr layout,2030,Jan-Mar,21333.68
+1654,jcr layout,2030,Jul-Sep,21333.68
+1655,jcr layout,2030,Oct-Dec,21333.68
+1657,jp nagar,2025,Apr-Jun,9284.08
+1656,jp nagar,2025,Jan-Mar,9284.08
+1658,jp nagar,2025,Jul-Sep,9284.08
+1659,jp nagar,2025,Oct-Dec,9284.08
+1661,jp nagar,2026,Apr-Jun,10184.56
+1660,jp nagar,2026,Jan-Mar,10184.56
+1662,jp nagar,2026,Jul-Sep,10184.56
+1663,jp nagar,2026,Oct-Dec,10184.56
+1665,jp nagar,2027,Apr-Jun,11172.38
+1664,jp nagar,2027,Jan-Mar,11172.38
+1666,jp nagar,2027,Jul-Sep,11172.38
+1667,jp nagar,2027,Oct-Dec,11172.38
+1669,jp nagar,2028,Apr-Jun,12256.01
+1668,jp nagar,2028,Jan-Mar,12256.01
+1670,jp nagar,2028,Jul-Sep,12256.01
+1671,jp nagar,2028,Oct-Dec,12256.01
+1673,jp nagar,2029,Apr-Jun,13444.75
+1672,jp nagar,2029,Jan-Mar,13444.75
+1674,jp nagar,2029,Jul-Sep,13444.75
+1675,jp nagar,2029,Oct-Dec,13444.75
+1677,jp nagar,2030,Apr-Jun,14748.78
+1676,jp nagar,2030,Jan-Mar,14748.78
+1678,jp nagar,2030,Jul-Sep,14748.78
+1679,jp nagar,2030,Oct-Dec,14748.78
+1777,kadubeesanahalli road,2025,Apr-Jun,11814.24
+1776,kadubeesanahalli road,2025,Jan-Mar,11814.24
+1778,kadubeesanahalli road,2025,Jul-Sep,11814.24
+1779,kadubeesanahalli road,2025,Oct-Dec,11814.24
+1781,kadubeesanahalli road,2026,Apr-Jun,12805.39
+1780,kadubeesanahalli road,2026,Jan-Mar,12805.39
+1782,kadubeesanahalli road,2026,Jul-Sep,12805.39
+1783,kadubeesanahalli road,2026,Oct-Dec,12805.39
+1785,kadubeesanahalli road,2027,Apr-Jun,13879.7
+1784,kadubeesanahalli road,2027,Jan-Mar,13879.7
+1786,kadubeesanahalli road,2027,Jul-Sep,13879.7
+1787,kadubeesanahalli road,2027,Oct-Dec,13879.7
+1789,kadubeesanahalli road,2028,Apr-Jun,15044.13
+1788,kadubeesanahalli road,2028,Jan-Mar,15044.13
+1790,kadubeesanahalli road,2028,Jul-Sep,15044.13
+1791,kadubeesanahalli road,2028,Oct-Dec,15044.13
+1793,kadubeesanahalli road,2029,Apr-Jun,16306.24
+1792,kadubeesanahalli road,2029,Jan-Mar,16306.24
+1794,kadubeesanahalli road,2029,Jul-Sep,16306.24
+1795,kadubeesanahalli road,2029,Oct-Dec,16306.24
+1797,kadubeesanahalli road,2030,Apr-Jun,17674.25
+1796,kadubeesanahalli road,2030,Jan-Mar,17674.25
+1798,kadubeesanahalli road,2030,Jul-Sep,17674.25
+1799,kadubeesanahalli road,2030,Oct-Dec,17674.25
+1801,kaggadasapura,2025,Apr-Jun,6518.13
+1800,kaggadasapura,2025,Jan-Mar,6518.13
+1802,kaggadasapura,2025,Jul-Sep,6518.13
+1803,kaggadasapura,2025,Oct-Dec,6518.13
+1805,kaggadasapura,2026,Apr-Jun,6817.36
+1804,kaggadasapura,2026,Jan-Mar,6817.36
+1806,kaggadasapura,2026,Jul-Sep,6817.36
+1807,kaggadasapura,2026,Oct-Dec,6817.36
+1809,kaggadasapura,2027,Apr-Jun,7130.33
+1808,kaggadasapura,2027,Jan-Mar,7130.33
+1810,kaggadasapura,2027,Jul-Sep,7130.33
+1811,kaggadasapura,2027,Oct-Dec,7130.33
+1813,kaggadasapura,2028,Apr-Jun,7457.67
+1812,kaggadasapura,2028,Jan-Mar,7457.67
+1814,kaggadasapura,2028,Jul-Sep,7457.67
+1815,kaggadasapura,2028,Oct-Dec,7457.67
+1817,kaggadasapura,2029,Apr-Jun,7800.03
+1816,kaggadasapura,2029,Jan-Mar,7800.03
+1818,kaggadasapura,2029,Jul-Sep,7800.03
+1819,kaggadasapura,2029,Oct-Dec,7800.03
+1821,kaggadasapura,2030,Apr-Jun,8158.11
+1820,kaggadasapura,2030,Jan-Mar,8158.11
+1822,kaggadasapura,2030,Jul-Sep,8158.11
+1823,kaggadasapura,2030,Oct-Dec,8158.11
+1825,kasavanahalli,2025,Apr-Jun,8700.67
+1824,kasavanahalli,2025,Jan-Mar,8700.67
+1826,kasavanahalli,2025,Jul-Sep,8700.67
+1827,kasavanahalli,2025,Oct-Dec,8700.67
+1829,kasavanahalli,2026,Apr-Jun,9437.92
+1828,kasavanahalli,2026,Jan-Mar,9437.92
+1830,kasavanahalli,2026,Jul-Sep,9437.92
+1831,kasavanahalli,2026,Oct-Dec,9437.92
+1833,kasavanahalli,2027,Apr-Jun,10237.65
+1832,kasavanahalli,2027,Jan-Mar,10237.65
+1834,kasavanahalli,2027,Jul-Sep,10237.65
+1835,kasavanahalli,2027,Oct-Dec,10237.65
+1837,kasavanahalli,2028,Apr-Jun,11105.14
+1836,kasavanahalli,2028,Jan-Mar,11105.14
+1838,kasavanahalli,2028,Jul-Sep,11105.14
+1839,kasavanahalli,2028,Oct-Dec,11105.14
+1841,kasavanahalli,2029,Apr-Jun,12046.13
+1840,kasavanahalli,2029,Jan-Mar,12046.13
+1842,kasavanahalli,2029,Jul-Sep,12046.13
+1843,kasavanahalli,2029,Oct-Dec,12046.13
+1845,kasavanahalli,2030,Apr-Jun,13066.86
+1844,kasavanahalli,2030,Jan-Mar,13066.86
+1846,kasavanahalli,2030,Jul-Sep,13066.86
+1847,kasavanahalli,2030,Oct-Dec,13066.86
+1849,kathriguppe main road,2025,Apr-Jun,10415.8
+1848,kathriguppe main road,2025,Jan-Mar,10415.8
+1850,kathriguppe main road,2025,Jul-Sep,10415.8
+1851,kathriguppe main road,2025,Oct-Dec,10415.8
+1853,kathriguppe main road,2026,Apr-Jun,11646.07
+1852,kathriguppe main road,2026,Jan-Mar,11646.07
+1854,kathriguppe main road,2026,Jul-Sep,11646.07
+1855,kathriguppe main road,2026,Oct-Dec,11646.07
+1857,kathriguppe main road,2027,Apr-Jun,13021.65
+1856,kathriguppe main road,2027,Jan-Mar,13021.65
+1858,kathriguppe main road,2027,Jul-Sep,13021.65
+1859,kathriguppe main road,2027,Oct-Dec,13021.65
+1861,kathriguppe main road,2028,Apr-Jun,14559.71
+1860,kathriguppe main road,2028,Jan-Mar,14559.71
+1862,kathriguppe main road,2028,Jul-Sep,14559.71
+1863,kathriguppe main road,2028,Oct-Dec,14559.71
+1865,kathriguppe main road,2029,Apr-Jun,16279.44
+1864,kathriguppe main road,2029,Jan-Mar,16279.44
+1866,kathriguppe main road,2029,Jul-Sep,16279.44
+1867,kathriguppe main road,2029,Oct-Dec,16279.44
+1869,kathriguppe main road,2030,Apr-Jun,18202.3
+1868,kathriguppe main road,2030,Jan-Mar,18202.3
+1870,kathriguppe main road,2030,Jul-Sep,18202.3
+1871,kathriguppe main road,2030,Oct-Dec,18202.3
+1873,kengeri,2025,Apr-Jun,6455.59
+1872,kengeri,2025,Jan-Mar,6455.59
+1874,kengeri,2025,Jul-Sep,6455.59
+1875,kengeri,2025,Oct-Dec,6455.59
+1877,kengeri,2026,Apr-Jun,6824.68
+1876,kengeri,2026,Jan-Mar,6824.68
+1878,kengeri,2026,Jul-Sep,6824.68
+1879,kengeri,2026,Oct-Dec,6824.68
+1881,kengeri,2027,Apr-Jun,7214.87
+1880,kengeri,2027,Jan-Mar,7214.87
+1882,kengeri,2027,Jul-Sep,7214.87
+1883,kengeri,2027,Oct-Dec,7214.87
+1885,kengeri,2028,Apr-Jun,7627.37
+1884,kengeri,2028,Jan-Mar,7627.37
+1886,kengeri,2028,Jul-Sep,7627.37
+1887,kengeri,2028,Oct-Dec,7627.37
+1889,kengeri,2029,Apr-Jun,8063.46
+1888,kengeri,2029,Jan-Mar,8063.46
+1890,kengeri,2029,Jul-Sep,8063.46
+1891,kengeri,2029,Oct-Dec,8063.46
+1893,kengeri,2030,Apr-Jun,8524.47
+1892,kengeri,2030,Jan-Mar,8524.47
+1894,kengeri,2030,Jul-Sep,8524.47
+1895,kengeri,2030,Oct-Dec,8524.47
+1897,kengeri satellite town,2025,Apr-Jun,6019.5
+1896,kengeri satellite town,2025,Jan-Mar,6019.5
+1898,kengeri satellite town,2025,Jul-Sep,6019.5
+1899,kengeri satellite town,2025,Oct-Dec,6019.5
+1901,kengeri satellite town,2026,Apr-Jun,6312.87
+1900,kengeri satellite town,2026,Jan-Mar,6312.87
+1902,kengeri satellite town,2026,Jul-Sep,6312.87
+1903,kengeri satellite town,2026,Oct-Dec,6312.87
+1905,kengeri satellite town,2027,Apr-Jun,6620.53
+1904,kengeri satellite town,2027,Jan-Mar,6620.53
+1906,kengeri satellite town,2027,Jul-Sep,6620.53
+1907,kengeri satellite town,2027,Oct-Dec,6620.53
+1909,kengeri satellite town,2028,Apr-Jun,6943.19
+1908,kengeri satellite town,2028,Jan-Mar,6943.19
+1910,kengeri satellite town,2028,Jul-Sep,6943.19
+1911,kengeri satellite town,2028,Oct-Dec,6943.19
+1913,kengeri satellite town,2029,Apr-Jun,7281.57
+1912,kengeri satellite town,2029,Jan-Mar,7281.57
+1914,kengeri satellite town,2029,Jul-Sep,7281.57
+1915,kengeri satellite town,2029,Oct-Dec,7281.57
+1917,kengeri satellite town,2030,Apr-Jun,7636.45
+1916,kengeri satellite town,2030,Jan-Mar,7636.45
+1918,kengeri satellite town,2030,Jul-Sep,7636.45
+1919,kengeri satellite town,2030,Oct-Dec,7636.45
+1921,kogilu,2025,Apr-Jun,8833.2
+1920,kogilu,2025,Jan-Mar,8833.2
+1922,kogilu,2025,Jul-Sep,8833.2
+1923,kogilu,2025,Oct-Dec,8833.2
+1925,kogilu,2026,Apr-Jun,9712.37
+1924,kogilu,2026,Jan-Mar,9712.37
+1926,kogilu,2026,Jul-Sep,9712.37
+1927,kogilu,2026,Oct-Dec,9712.37
+1929,kogilu,2027,Apr-Jun,10679.05
+1928,kogilu,2027,Jan-Mar,10679.05
+1930,kogilu,2027,Jul-Sep,10679.05
+1931,kogilu,2027,Oct-Dec,10679.05
+1933,kogilu,2028,Apr-Jun,11741.94
+1932,kogilu,2028,Jan-Mar,11741.94
+1934,kogilu,2028,Jul-Sep,11741.94
+1935,kogilu,2028,Oct-Dec,11741.94
+1937,kogilu,2029,Apr-Jun,12910.63
+1936,kogilu,2029,Jan-Mar,12910.63
+1938,kogilu,2029,Jul-Sep,12910.63
+1939,kogilu,2029,Oct-Dec,12910.63
+1941,kogilu,2030,Apr-Jun,14195.63
+1940,kogilu,2030,Jan-Mar,14195.63
+1942,kogilu,2030,Jul-Sep,14195.63
+1943,kogilu,2030,Oct-Dec,14195.63
+1945,konanakunte,2025,Apr-Jun,9568.25
+1944,konanakunte,2025,Jan-Mar,9568.25
+1946,konanakunte,2025,Jul-Sep,9568.25
+1947,konanakunte,2025,Oct-Dec,9568.25
+1949,konanakunte,2026,Apr-Jun,10200.64
+1948,konanakunte,2026,Jan-Mar,10200.64
+1950,konanakunte,2026,Jul-Sep,10200.64
+1951,konanakunte,2026,Oct-Dec,10200.64
+1953,konanakunte,2027,Apr-Jun,10874.82
+1952,konanakunte,2027,Jan-Mar,10874.82
+1954,konanakunte,2027,Jul-Sep,10874.82
+1955,konanakunte,2027,Oct-Dec,10874.82
+1957,konanakunte,2028,Apr-Jun,11593.57
+1956,konanakunte,2028,Jan-Mar,11593.57
+1958,konanakunte,2028,Jul-Sep,11593.57
+1959,konanakunte,2028,Oct-Dec,11593.57
+1961,konanakunte,2029,Apr-Jun,12359.82
+1960,konanakunte,2029,Jan-Mar,12359.82
+1962,konanakunte,2029,Jul-Sep,12359.82
+1963,konanakunte,2029,Oct-Dec,12359.82
+1965,konanakunte,2030,Apr-Jun,13176.72
+1964,konanakunte,2030,Jan-Mar,13176.72
+1966,konanakunte,2030,Jul-Sep,13176.72
+1967,konanakunte,2030,Oct-Dec,13176.72
+1969,koramangala,2025,Apr-Jun,12489.45
+1968,koramangala,2025,Jan-Mar,12489.45
+1970,koramangala,2025,Jul-Sep,12489.45
+1971,koramangala,2025,Oct-Dec,12489.45
+1973,koramangala,2026,Apr-Jun,13112.26
+1972,koramangala,2026,Jan-Mar,13112.26
+1974,koramangala,2026,Jul-Sep,13112.26
+1975,koramangala,2026,Oct-Dec,13112.26
+1977,koramangala,2027,Apr-Jun,13766.13
+1976,koramangala,2027,Jan-Mar,13766.13
+1978,koramangala,2027,Jul-Sep,13766.13
+1979,koramangala,2027,Oct-Dec,13766.13
+1981,koramangala,2028,Apr-Jun,14452.6
+1980,koramangala,2028,Jan-Mar,14452.6
+1982,koramangala,2028,Jul-Sep,14452.6
+1983,koramangala,2028,Oct-Dec,14452.6
+1985,koramangala,2029,Apr-Jun,15173.31
+1984,koramangala,2029,Jan-Mar,15173.31
+1986,koramangala,2029,Jul-Sep,15173.31
+1987,koramangala,2029,Oct-Dec,15173.31
+1989,koramangala,2030,Apr-Jun,15929.96
+1988,koramangala,2030,Jan-Mar,15929.96
+1990,koramangala,2030,Jul-Sep,15929.96
+1991,koramangala,2030,Oct-Dec,15929.96
+1993,kothanur,2025,Apr-Jun,10444.54
+1992,kothanur,2025,Jan-Mar,10444.54
+1994,kothanur,2025,Jul-Sep,10444.54
+1995,kothanur,2025,Oct-Dec,10444.54
+1997,kothanur,2026,Apr-Jun,11269.61
+1996,kothanur,2026,Jan-Mar,11269.61
+1998,kothanur,2026,Jul-Sep,11269.61
+1999,kothanur,2026,Oct-Dec,11269.61
+2001,kothanur,2027,Apr-Jun,12159.87
+2000,kothanur,2027,Jan-Mar,12159.87
+2002,kothanur,2027,Jul-Sep,12159.87
+2003,kothanur,2027,Oct-Dec,12159.87
+2005,kothanur,2028,Apr-Jun,13120.45
+2004,kothanur,2028,Jan-Mar,13120.45
+2006,kothanur,2028,Jul-Sep,13120.45
+2007,kothanur,2028,Oct-Dec,13120.45
+2009,kothanur,2029,Apr-Jun,14156.91
+2008,kothanur,2029,Jan-Mar,14156.91
+2010,kothanur,2029,Jul-Sep,14156.91
+2011,kothanur,2029,Oct-Dec,14156.91
+2013,kothanur,2030,Apr-Jun,15275.24
+2012,kothanur,2030,Jan-Mar,15275.24
+2014,kothanur,2030,Jul-Sep,15275.24
+2015,kothanur,2030,Oct-Dec,15275.24
+2017,krishnarajapura,2025,Apr-Jun,7631.69
+2016,krishnarajapura,2025,Jan-Mar,7631.69
+2018,krishnarajapura,2025,Jul-Sep,7631.69
+2019,krishnarajapura,2025,Oct-Dec,7631.69
+2021,krishnarajapura,2026,Apr-Jun,8372.48
+2020,krishnarajapura,2026,Jan-Mar,8372.48
+2022,krishnarajapura,2026,Jul-Sep,8372.48
+2023,krishnarajapura,2026,Oct-Dec,8372.48
+2025,krishnarajapura,2027,Apr-Jun,9185.18
+2024,krishnarajapura,2027,Jan-Mar,9185.18
+2026,krishnarajapura,2027,Jul-Sep,9185.18
+2027,krishnarajapura,2027,Oct-Dec,9185.18
+2029,krishnarajapura,2028,Apr-Jun,10076.77
+2028,krishnarajapura,2028,Jan-Mar,10076.77
+2030,krishnarajapura,2028,Jul-Sep,10076.77
+2031,krishnarajapura,2028,Oct-Dec,10076.77
+2033,krishnarajapura,2029,Apr-Jun,11054.9
+2032,krishnarajapura,2029,Jan-Mar,11054.9
+2034,krishnarajapura,2029,Jul-Sep,11054.9
+2035,krishnarajapura,2029,Oct-Dec,11054.9
+2037,krishnarajapura,2030,Apr-Jun,12127.98
+2036,krishnarajapura,2030,Jan-Mar,12127.98
+2038,krishnarajapura,2030,Jul-Sep,12127.98
+2039,krishnarajapura,2030,Oct-Dec,12127.98
+2041,kudlu gate,2025,Apr-Jun,9018.72
+2040,kudlu gate,2025,Jan-Mar,9018.72
+2042,kudlu gate,2025,Jul-Sep,9018.72
+2043,kudlu gate,2025,Oct-Dec,9018.72
+2045,kudlu gate,2026,Apr-Jun,9305.77
+2044,kudlu gate,2026,Jan-Mar,9305.77
+2046,kudlu gate,2026,Jul-Sep,9305.77
+2047,kudlu gate,2026,Oct-Dec,9305.77
+2049,kudlu gate,2027,Apr-Jun,9601.95
+2048,kudlu gate,2027,Jan-Mar,9601.95
+2050,kudlu gate,2027,Jul-Sep,9601.95
+2051,kudlu gate,2027,Oct-Dec,9601.95
+2053,kudlu gate,2028,Apr-Jun,9907.56
+2052,kudlu gate,2028,Jan-Mar,9907.56
+2054,kudlu gate,2028,Jul-Sep,9907.56
+2055,kudlu gate,2028,Oct-Dec,9907.56
+2057,kudlu gate,2029,Apr-Jun,10222.89
+2056,kudlu gate,2029,Jan-Mar,10222.89
+2058,kudlu gate,2029,Jul-Sep,10222.89
+2059,kudlu gate,2029,Oct-Dec,10222.89
+2061,kudlu gate,2030,Apr-Jun,10548.27
+2060,kudlu gate,2030,Jan-Mar,10548.27
+2062,kudlu gate,2030,Jul-Sep,10548.27
+2063,kudlu gate,2030,Oct-Dec,10548.27
+2065,kumaraswamy layout,2025,Apr-Jun,6500.65
+2064,kumaraswamy layout,2025,Jan-Mar,6500.65
+2066,kumaraswamy layout,2025,Jul-Sep,6500.65
+2067,kumaraswamy layout,2025,Oct-Dec,6500.65
+2069,kumaraswamy layout,2026,Apr-Jun,6876.02
+2068,kumaraswamy layout,2026,Jan-Mar,6876.02
+2070,kumaraswamy layout,2026,Jul-Sep,6876.02
+2071,kumaraswamy layout,2026,Oct-Dec,6876.02
+2073,kumaraswamy layout,2027,Apr-Jun,7273.07
+2072,kumaraswamy layout,2027,Jan-Mar,7273.07
+2074,kumaraswamy layout,2027,Jul-Sep,7273.07
+2075,kumaraswamy layout,2027,Oct-Dec,7273.07
+2077,kumaraswamy layout,2028,Apr-Jun,7693.04
+2076,kumaraswamy layout,2028,Jan-Mar,7693.04
+2078,kumaraswamy layout,2028,Jul-Sep,7693.04
+2079,kumaraswamy layout,2028,Oct-Dec,7693.04
+2081,kumaraswamy layout,2029,Apr-Jun,8137.27
+2080,kumaraswamy layout,2029,Jan-Mar,8137.27
+2082,kumaraswamy layout,2029,Jul-Sep,8137.27
+2083,kumaraswamy layout,2029,Oct-Dec,8137.27
+2085,kumaraswamy layout,2030,Apr-Jun,8607.14
+2084,kumaraswamy layout,2030,Jan-Mar,8607.14
+2086,kumaraswamy layout,2030,Jul-Sep,8607.14
+2087,kumaraswamy layout,2030,Oct-Dec,8607.14
+2089,kundalahalli,2025,Apr-Jun,8453.64
+2088,kundalahalli,2025,Jan-Mar,8453.64
+2090,kundalahalli,2025,Jul-Sep,8453.64
+2091,kundalahalli,2025,Oct-Dec,8453.64
+2093,kundalahalli,2026,Apr-Jun,9443.75
+2092,kundalahalli,2026,Jan-Mar,9443.75
+2094,kundalahalli,2026,Jul-Sep,9443.75
+2095,kundalahalli,2026,Oct-Dec,9443.75
+2097,kundalahalli,2027,Apr-Jun,10549.83
+2096,kundalahalli,2027,Jan-Mar,10549.83
+2098,kundalahalli,2027,Jul-Sep,10549.83
+2099,kundalahalli,2027,Oct-Dec,10549.83
+2101,kundalahalli,2028,Apr-Jun,11785.46
+2100,kundalahalli,2028,Jan-Mar,11785.46
+2102,kundalahalli,2028,Jul-Sep,11785.46
+2103,kundalahalli,2028,Oct-Dec,11785.46
+2105,kundalahalli,2029,Apr-Jun,13165.8
+2104,kundalahalli,2029,Jan-Mar,13165.8
+2106,kundalahalli,2029,Jul-Sep,13165.8
+2107,kundalahalli,2029,Oct-Dec,13165.8
+2109,kundalahalli,2030,Apr-Jun,14707.82
+2108,kundalahalli,2030,Jan-Mar,14707.82
+2110,kundalahalli,2030,Jul-Sep,14707.82
+2111,kundalahalli,2030,Oct-Dec,14707.82
+2137,magadi main road,2025,Apr-Jun,11548.15
+2136,magadi main road,2025,Jan-Mar,11548.15
+2138,magadi main road,2025,Jul-Sep,11548.15
+2139,magadi main road,2025,Oct-Dec,11548.15
+2141,magadi main road,2026,Apr-Jun,12270.31
+2140,magadi main road,2026,Jan-Mar,12270.31
+2142,magadi main road,2026,Jul-Sep,12270.31
+2143,magadi main road,2026,Oct-Dec,12270.31
+2145,magadi main road,2027,Apr-Jun,13037.63
+2144,magadi main road,2027,Jan-Mar,13037.63
+2146,magadi main road,2027,Jul-Sep,13037.63
+2147,magadi main road,2027,Oct-Dec,13037.63
+2149,magadi main road,2028,Apr-Jun,13852.92
+2148,magadi main road,2028,Jan-Mar,13852.92
+2150,magadi main road,2028,Jul-Sep,13852.92
+2151,magadi main road,2028,Oct-Dec,13852.92
+2153,magadi main road,2029,Apr-Jun,14719.21
+2152,magadi main road,2029,Jan-Mar,14719.21
+2154,magadi main road,2029,Jul-Sep,14719.21
+2155,magadi main road,2029,Oct-Dec,14719.21
+2157,magadi main road,2030,Apr-Jun,15639.66
+2156,magadi main road,2030,Jan-Mar,15639.66
+2158,magadi main road,2030,Jul-Sep,15639.66
+2159,magadi main road,2030,Oct-Dec,15639.66
+2161,mahadevapura,2025,Apr-Jun,10558.8
+2160,mahadevapura,2025,Jan-Mar,10558.8
+2162,mahadevapura,2025,Jul-Sep,10558.8
+2163,mahadevapura,2025,Oct-Dec,10558.8
+2165,mahadevapura,2026,Apr-Jun,11588.86
+2164,mahadevapura,2026,Jan-Mar,11588.86
+2166,mahadevapura,2026,Jul-Sep,11588.86
+2167,mahadevapura,2026,Oct-Dec,11588.86
+2169,mahadevapura,2027,Apr-Jun,12719.4
+2168,mahadevapura,2027,Jan-Mar,12719.4
+2170,mahadevapura,2027,Jul-Sep,12719.4
+2171,mahadevapura,2027,Oct-Dec,12719.4
+2173,mahadevapura,2028,Apr-Jun,13960.23
+2172,mahadevapura,2028,Jan-Mar,13960.23
+2174,mahadevapura,2028,Jul-Sep,13960.23
+2175,mahadevapura,2028,Oct-Dec,13960.23
+2177,mahadevapura,2029,Apr-Jun,15322.11
+2176,mahadevapura,2029,Jan-Mar,15322.11
+2178,mahadevapura,2029,Jul-Sep,15322.11
+2179,mahadevapura,2029,Oct-Dec,15322.11
+2181,mahadevapura,2030,Apr-Jun,16816.85
+2180,mahadevapura,2030,Jan-Mar,16816.85
+2182,mahadevapura,2030,Jul-Sep,16816.85
+2183,mahadevapura,2030,Oct-Dec,16816.85
+2185,malleshwaram,2025,Apr-Jun,11820.28
+2184,malleshwaram,2025,Jan-Mar,11820.28
+2186,malleshwaram,2025,Jul-Sep,11820.28
+2187,malleshwaram,2025,Oct-Dec,11820.28
+2189,malleshwaram,2026,Apr-Jun,12054.36
+2188,malleshwaram,2026,Jan-Mar,12054.36
+2190,malleshwaram,2026,Jul-Sep,12054.36
+2191,malleshwaram,2026,Oct-Dec,12054.36
+2193,malleshwaram,2027,Apr-Jun,12293.07
+2192,malleshwaram,2027,Jan-Mar,12293.07
+2194,malleshwaram,2027,Jul-Sep,12293.07
+2195,malleshwaram,2027,Oct-Dec,12293.07
+2197,malleshwaram,2028,Apr-Jun,12536.52
+2196,malleshwaram,2028,Jan-Mar,12536.52
+2198,malleshwaram,2028,Jul-Sep,12536.52
+2199,malleshwaram,2028,Oct-Dec,12536.52
+2201,malleshwaram,2029,Apr-Jun,12784.78
+2200,malleshwaram,2029,Jan-Mar,12784.78
+2202,malleshwaram,2029,Jul-Sep,12784.78
+2203,malleshwaram,2029,Oct-Dec,12784.78
+2205,malleshwaram,2030,Apr-Jun,13037.97
+2204,malleshwaram,2030,Jan-Mar,13037.97
+2206,malleshwaram,2030,Jul-Sep,13037.97
+2207,malleshwaram,2030,Oct-Dec,13037.97
+2209,marathahalli,2025,Apr-Jun,10046.09
+2208,marathahalli,2025,Jan-Mar,10046.09
+2210,marathahalli,2025,Jul-Sep,10046.09
+2211,marathahalli,2025,Oct-Dec,10046.09
+2213,marathahalli,2026,Apr-Jun,11110.45
+2212,marathahalli,2026,Jan-Mar,11110.45
+2214,marathahalli,2026,Jul-Sep,11110.45
+2215,marathahalli,2026,Oct-Dec,11110.45
+2217,marathahalli,2027,Apr-Jun,12287.59
+2216,marathahalli,2027,Jan-Mar,12287.59
+2218,marathahalli,2027,Jul-Sep,12287.59
+2219,marathahalli,2027,Oct-Dec,12287.59
+2221,marathahalli,2028,Apr-Jun,13589.43
+2220,marathahalli,2028,Jan-Mar,13589.43
+2222,marathahalli,2028,Jul-Sep,13589.43
+2223,marathahalli,2028,Oct-Dec,13589.43
+2225,marathahalli,2029,Apr-Jun,15029.21
+2224,marathahalli,2029,Jan-Mar,15029.21
+2226,marathahalli,2029,Jul-Sep,15029.21
+2227,marathahalli,2029,Oct-Dec,15029.21
+2229,marathahalli,2030,Apr-Jun,16621.53
+2228,marathahalli,2030,Jan-Mar,16621.53
+2230,marathahalli,2030,Jul-Sep,16621.53
+2231,marathahalli,2030,Oct-Dec,16621.53
+2233,marathahalli sarjapur outer ring road,2025,Apr-Jun,10837.2
+2232,marathahalli sarjapur outer ring road,2025,Jan-Mar,10837.2
+2234,marathahalli sarjapur outer ring road,2025,Jul-Sep,10837.2
+2235,marathahalli sarjapur outer ring road,2025,Oct-Dec,10837.2
+2237,marathahalli sarjapur outer ring road,2026,Apr-Jun,11901.85
+2236,marathahalli sarjapur outer ring road,2026,Jan-Mar,11901.85
+2238,marathahalli sarjapur outer ring road,2026,Jul-Sep,11901.85
+2239,marathahalli sarjapur outer ring road,2026,Oct-Dec,11901.85
+2241,marathahalli sarjapur outer ring road,2027,Apr-Jun,13071.1
+2240,marathahalli sarjapur outer ring road,2027,Jan-Mar,13071.1
+2242,marathahalli sarjapur outer ring road,2027,Jul-Sep,13071.1
+2243,marathahalli sarjapur outer ring road,2027,Oct-Dec,13071.1
+2245,marathahalli sarjapur outer ring road,2028,Apr-Jun,14355.21
+2244,marathahalli sarjapur outer ring road,2028,Jan-Mar,14355.21
+2246,marathahalli sarjapur outer ring road,2028,Jul-Sep,14355.21
+2247,marathahalli sarjapur outer ring road,2028,Oct-Dec,14355.21
+2249,marathahalli sarjapur outer ring road,2029,Apr-Jun,15765.48
+2248,marathahalli sarjapur outer ring road,2029,Jan-Mar,15765.48
+2250,marathahalli sarjapur outer ring road,2029,Jul-Sep,15765.48
+2251,marathahalli sarjapur outer ring road,2029,Oct-Dec,15765.48
+2253,marathahalli sarjapur outer ring road,2030,Apr-Jun,17314.29
+2252,marathahalli sarjapur outer ring road,2030,Jan-Mar,17314.29
+2254,marathahalli sarjapur outer ring road,2030,Jul-Sep,17314.29
+2255,marathahalli sarjapur outer ring road,2030,Oct-Dec,17314.29
+2257,medahalli kadugodi road,2025,Apr-Jun,8247.93
+2256,medahalli kadugodi road,2025,Jan-Mar,8247.93
+2258,medahalli kadugodi road,2025,Jul-Sep,8247.93
+2259,medahalli kadugodi road,2025,Oct-Dec,8247.93
+2261,medahalli kadugodi road,2026,Apr-Jun,9568.29
+2260,medahalli kadugodi road,2026,Jan-Mar,9568.29
+2262,medahalli kadugodi road,2026,Jul-Sep,9568.29
+2263,medahalli kadugodi road,2026,Oct-Dec,9568.29
+2265,medahalli kadugodi road,2027,Apr-Jun,11100.01
+2264,medahalli kadugodi road,2027,Jan-Mar,11100.01
+2266,medahalli kadugodi road,2027,Jul-Sep,11100.01
+2267,medahalli kadugodi road,2027,Oct-Dec,11100.01
+2269,medahalli kadugodi road,2028,Apr-Jun,12876.93
+2268,medahalli kadugodi road,2028,Jan-Mar,12876.93
+2270,medahalli kadugodi road,2028,Jul-Sep,12876.93
+2271,medahalli kadugodi road,2028,Oct-Dec,12876.93
+2273,medahalli kadugodi road,2029,Apr-Jun,14938.31
+2272,medahalli kadugodi road,2029,Jan-Mar,14938.31
+2274,medahalli kadugodi road,2029,Jul-Sep,14938.31
+2275,medahalli kadugodi road,2029,Oct-Dec,14938.31
+2277,medahalli kadugodi road,2030,Apr-Jun,17329.68
+2276,medahalli kadugodi road,2030,Jan-Mar,17329.68
+2278,medahalli kadugodi road,2030,Jul-Sep,17329.68
+2279,medahalli kadugodi road,2030,Oct-Dec,17329.68
+2281,medahalli main road,2025,Apr-Jun,6898.06
+2280,medahalli main road,2025,Jan-Mar,6898.06
+2282,medahalli main road,2025,Jul-Sep,6898.06
+2283,medahalli main road,2025,Oct-Dec,6898.06
+2285,medahalli main road,2026,Apr-Jun,7363.11
+2284,medahalli main road,2026,Jan-Mar,7363.11
+2286,medahalli main road,2026,Jul-Sep,7363.11
+2287,medahalli main road,2026,Oct-Dec,7363.11
+2289,medahalli main road,2027,Apr-Jun,7859.52
+2288,medahalli main road,2027,Jan-Mar,7859.52
+2290,medahalli main road,2027,Jul-Sep,7859.52
+2291,medahalli main road,2027,Oct-Dec,7859.52
+2293,medahalli main road,2028,Apr-Jun,8389.39
+2292,medahalli main road,2028,Jan-Mar,8389.39
+2294,medahalli main road,2028,Jul-Sep,8389.39
+2295,medahalli main road,2028,Oct-Dec,8389.39
+2297,medahalli main road,2029,Apr-Jun,8954.98
+2296,medahalli main road,2029,Jan-Mar,8954.98
+2298,medahalli main road,2029,Jul-Sep,8954.98
+2299,medahalli main road,2029,Oct-Dec,8954.98
+2301,medahalli main road,2030,Apr-Jun,9558.71
+2300,medahalli main road,2030,Jan-Mar,9558.71
+2302,medahalli main road,2030,Jul-Sep,9558.71
+2303,medahalli main road,2030,Oct-Dec,9558.71
+2113,msr college road,2025,Apr-Jun,9473.51
+2112,msr college road,2025,Jan-Mar,9473.51
+2114,msr college road,2025,Jul-Sep,9473.51
+2115,msr college road,2025,Oct-Dec,9473.51
+2117,msr college road,2026,Apr-Jun,10603.42
+2116,msr college road,2026,Jan-Mar,10603.42
+2118,msr college road,2026,Jul-Sep,10603.42
+2119,msr college road,2026,Oct-Dec,10603.42
+2121,msr college road,2027,Apr-Jun,11868.08
+2120,msr college road,2027,Jan-Mar,11868.08
+2122,msr college road,2027,Jul-Sep,11868.08
+2123,msr college road,2027,Oct-Dec,11868.08
+2125,msr college road,2028,Apr-Jun,13283.58
+2124,msr college road,2028,Jan-Mar,13283.58
+2126,msr college road,2028,Jul-Sep,13283.58
+2127,msr college road,2028,Oct-Dec,13283.58
+2129,msr college road,2029,Apr-Jun,14867.91
+2128,msr college road,2029,Jan-Mar,14867.91
+2130,msr college road,2029,Jul-Sep,14867.91
+2131,msr college road,2029,Oct-Dec,14867.91
+2133,msr college road,2030,Apr-Jun,16641.19
+2132,msr college road,2030,Jan-Mar,16641.19
+2134,msr college road,2030,Jul-Sep,16641.19
+2135,msr college road,2030,Oct-Dec,16641.19
+2305,mysore road,2025,Apr-Jun,6663.37
+2304,mysore road,2025,Jan-Mar,6663.37
+2306,mysore road,2025,Jul-Sep,6663.37
+2307,mysore road,2025,Oct-Dec,6663.37
+2309,mysore road,2026,Apr-Jun,7103.84
+2308,mysore road,2026,Jan-Mar,7103.84
+2310,mysore road,2026,Jul-Sep,7103.84
+2311,mysore road,2026,Oct-Dec,7103.84
+2313,mysore road,2027,Apr-Jun,7573.43
+2312,mysore road,2027,Jan-Mar,7573.43
+2314,mysore road,2027,Jul-Sep,7573.43
+2315,mysore road,2027,Oct-Dec,7573.43
+2317,mysore road,2028,Apr-Jun,8074.06
+2316,mysore road,2028,Jan-Mar,8074.06
+2318,mysore road,2028,Jul-Sep,8074.06
+2319,mysore road,2028,Oct-Dec,8074.06
+2321,mysore road,2029,Apr-Jun,8607.78
+2320,mysore road,2029,Jan-Mar,8607.78
+2322,mysore road,2029,Jul-Sep,8607.78
+2323,mysore road,2029,Oct-Dec,8607.78
+2325,mysore road,2030,Apr-Jun,9176.78
+2324,mysore road,2030,Jan-Mar,9176.78
+2326,mysore road,2030,Jul-Sep,9176.78
+2327,mysore road,2030,Oct-Dec,9176.78
+2353,nagavara,2025,Apr-Jun,8936.12
+2352,nagavara,2025,Jan-Mar,8936.12
+2354,nagavara,2025,Jul-Sep,8936.12
+2355,nagavara,2025,Oct-Dec,8936.12
+2357,nagavara,2026,Apr-Jun,9528.57
+2356,nagavara,2026,Jan-Mar,9528.57
+2358,nagavara,2026,Jul-Sep,9528.57
+2359,nagavara,2026,Oct-Dec,9528.57
+2361,nagavara,2027,Apr-Jun,10160.3
+2360,nagavara,2027,Jan-Mar,10160.3
+2362,nagavara,2027,Jul-Sep,10160.3
+2363,nagavara,2027,Oct-Dec,10160.3
+2365,nagavara,2028,Apr-Jun,10833.91
+2364,nagavara,2028,Jan-Mar,10833.91
+2366,nagavara,2028,Jul-Sep,10833.91
+2367,nagavara,2028,Oct-Dec,10833.91
+2369,nagavara,2029,Apr-Jun,11552.18
+2368,nagavara,2029,Jan-Mar,11552.18
+2370,nagavara,2029,Jul-Sep,11552.18
+2371,nagavara,2029,Oct-Dec,11552.18
+2373,nagavara,2030,Apr-Jun,12318.07
+2372,nagavara,2030,Jan-Mar,12318.07
+2374,nagavara,2030,Jul-Sep,12318.07
+2375,nagavara,2030,Oct-Dec,12318.07
+2377,nice ring road,2025,Apr-Jun,7284.74
+2376,nice ring road,2025,Jan-Mar,7284.74
+2378,nice ring road,2025,Jul-Sep,7284.74
+2379,nice ring road,2025,Oct-Dec,7284.74
+2381,nice ring road,2026,Apr-Jun,8155.67
+2380,nice ring road,2026,Jan-Mar,8155.67
+2382,nice ring road,2026,Jul-Sep,8155.67
+2383,nice ring road,2026,Oct-Dec,8155.67
+2385,nice ring road,2027,Apr-Jun,9130.71
+2384,nice ring road,2027,Jan-Mar,9130.71
+2386,nice ring road,2027,Jul-Sep,9130.71
+2387,nice ring road,2027,Oct-Dec,9130.71
+2389,nice ring road,2028,Apr-Jun,10222.33
+2388,nice ring road,2028,Jan-Mar,10222.33
+2390,nice ring road,2028,Jul-Sep,10222.33
+2391,nice ring road,2028,Oct-Dec,10222.33
+2393,nice ring road,2029,Apr-Jun,11444.46
+2392,nice ring road,2029,Jan-Mar,11444.46
+2394,nice ring road,2029,Jul-Sep,11444.46
+2395,nice ring road,2029,Oct-Dec,11444.46
+2397,nice ring road,2030,Apr-Jun,12812.7
+2396,nice ring road,2030,Jan-Mar,12812.7
+2398,nice ring road,2030,Jul-Sep,12812.7
+2399,nice ring road,2030,Oct-Dec,12812.7
+2329,nri layout main road,2025,Apr-Jun,6951.66
+2328,nri layout main road,2025,Jan-Mar,6951.66
+2330,nri layout main road,2025,Jul-Sep,6951.66
+2331,nri layout main road,2025,Oct-Dec,6951.66
+2333,nri layout main road,2026,Apr-Jun,7726.97
+2332,nri layout main road,2026,Jan-Mar,7726.97
+2334,nri layout main road,2026,Jul-Sep,7726.97
+2335,nri layout main road,2026,Oct-Dec,7726.97
+2337,nri layout main road,2027,Apr-Jun,8588.74
+2336,nri layout main road,2027,Jan-Mar,8588.74
+2338,nri layout main road,2027,Jul-Sep,8588.74
+2339,nri layout main road,2027,Oct-Dec,8588.74
+2341,nri layout main road,2028,Apr-Jun,9546.62
+2340,nri layout main road,2028,Jan-Mar,9546.62
+2342,nri layout main road,2028,Jul-Sep,9546.62
+2343,nri layout main road,2028,Oct-Dec,9546.62
+2345,nri layout main road,2029,Apr-Jun,10611.34
+2344,nri layout main road,2029,Jan-Mar,10611.34
+2346,nri layout main road,2029,Jul-Sep,10611.34
+2347,nri layout main road,2029,Oct-Dec,10611.34
+2349,nri layout main road,2030,Apr-Jun,11794.8
+2348,nri layout main road,2030,Jan-Mar,11794.8
+2350,nri layout main road,2030,Jul-Sep,11794.8
+2351,nri layout main road,2030,Oct-Dec,11794.8
+2401,old madras road,2025,Apr-Jun,8166.65
+2400,old madras road,2025,Jan-Mar,8166.65
+2402,old madras road,2025,Jul-Sep,8166.65
+2403,old madras road,2025,Oct-Dec,8166.65
+2405,old madras road,2026,Apr-Jun,9055.61
+2404,old madras road,2026,Jan-Mar,9055.61
+2406,old madras road,2026,Jul-Sep,9055.61
+2407,old madras road,2026,Oct-Dec,9055.61
+2409,old madras road,2027,Apr-Jun,10041.34
+2408,old madras road,2027,Jan-Mar,10041.34
+2410,old madras road,2027,Jul-Sep,10041.34
+2411,old madras road,2027,Oct-Dec,10041.34
+2413,old madras road,2028,Apr-Jun,11134.37
+2412,old madras road,2028,Jan-Mar,11134.37
+2414,old madras road,2028,Jul-Sep,11134.37
+2415,old madras road,2028,Oct-Dec,11134.37
+2417,old madras road,2029,Apr-Jun,12346.38
+2416,old madras road,2029,Jan-Mar,12346.38
+2418,old madras road,2029,Jul-Sep,12346.38
+2419,old madras road,2029,Oct-Dec,12346.38
+2421,old madras road,2030,Apr-Jun,13690.32
+2420,old madras road,2030,Jan-Mar,13690.32
+2422,old madras road,2030,Jul-Sep,13690.32
+2423,old madras road,2030,Oct-Dec,13690.32
+2425,outer ring road,2025,Apr-Jun,8201.32
+2424,outer ring road,2025,Jan-Mar,8201.32
+2426,outer ring road,2025,Jul-Sep,8201.32
+2427,outer ring road,2025,Oct-Dec,8201.32
+2429,outer ring road,2026,Apr-Jun,8608.81
+2428,outer ring road,2026,Jan-Mar,8608.81
+2430,outer ring road,2026,Jul-Sep,8608.81
+2431,outer ring road,2026,Oct-Dec,8608.81
+2433,outer ring road,2027,Apr-Jun,9036.55
+2432,outer ring road,2027,Jan-Mar,9036.55
+2434,outer ring road,2027,Jul-Sep,9036.55
+2435,outer ring road,2027,Oct-Dec,9036.55
+2437,outer ring road,2028,Apr-Jun,9485.55
+2436,outer ring road,2028,Jan-Mar,9485.55
+2438,outer ring road,2028,Jul-Sep,9485.55
+2439,outer ring road,2028,Oct-Dec,9485.55
+2441,outer ring road,2029,Apr-Jun,9956.85
+2440,outer ring road,2029,Jan-Mar,9956.85
+2442,outer ring road,2029,Jul-Sep,9956.85
+2443,outer ring road,2029,Oct-Dec,9956.85
+2445,outer ring road,2030,Apr-Jun,10451.57
+2444,outer ring road,2030,Jan-Mar,10451.57
+2446,outer ring road,2030,Jul-Sep,10451.57
+2447,outer ring road,2030,Oct-Dec,10451.57
+2449,panathur,2025,Apr-Jun,12488.56
+2448,panathur,2025,Jan-Mar,12488.56
+2450,panathur,2025,Jul-Sep,12488.56
+2451,panathur,2025,Oct-Dec,12488.56
+2453,panathur,2026,Apr-Jun,14183.34
+2452,panathur,2026,Jan-Mar,14183.34
+2454,panathur,2026,Jul-Sep,14183.34
+2455,panathur,2026,Oct-Dec,14183.34
+2457,panathur,2027,Apr-Jun,16108.11
+2456,panathur,2027,Jan-Mar,16108.11
+2458,panathur,2027,Jul-Sep,16108.11
+2459,panathur,2027,Oct-Dec,16108.11
+2461,panathur,2028,Apr-Jun,18294.08
+2460,panathur,2028,Jan-Mar,18294.08
+2462,panathur,2028,Jul-Sep,18294.08
+2463,panathur,2028,Oct-Dec,18294.08
+2465,panathur,2029,Apr-Jun,20776.71
+2464,panathur,2029,Jan-Mar,20776.71
+2466,panathur,2029,Jul-Sep,20776.71
+2467,panathur,2029,Oct-Dec,20776.71
+2469,panathur,2030,Apr-Jun,23596.24
+2468,panathur,2030,Jan-Mar,23596.24
+2470,panathur,2030,Jul-Sep,23596.24
+2471,panathur,2030,Oct-Dec,23596.24
+2473,phase 1 electronics city,2025,Apr-Jun,7352.57
+2472,phase 1 electronics city,2025,Jan-Mar,7352.57
+2474,phase 1 electronics city,2025,Jul-Sep,7352.57
+2475,phase 1 electronics city,2025,Oct-Dec,7352.57
+2477,phase 1 electronics city,2026,Apr-Jun,7951.65
+2476,phase 1 electronics city,2026,Jan-Mar,7951.65
+2478,phase 1 electronics city,2026,Jul-Sep,7951.65
+2479,phase 1 electronics city,2026,Oct-Dec,7951.65
+2481,phase 1 electronics city,2027,Apr-Jun,8599.55
+2480,phase 1 electronics city,2027,Jan-Mar,8599.55
+2482,phase 1 electronics city,2027,Jul-Sep,8599.55
+2483,phase 1 electronics city,2027,Oct-Dec,8599.55
+2485,phase 1 electronics city,2028,Apr-Jun,9300.23
+2484,phase 1 electronics city,2028,Jan-Mar,9300.23
+2486,phase 1 electronics city,2028,Jul-Sep,9300.23
+2487,phase 1 electronics city,2028,Oct-Dec,9300.23
+2489,phase 1 electronics city,2029,Apr-Jun,10058.0
+2488,phase 1 electronics city,2029,Jan-Mar,10058.0
+2490,phase 1 electronics city,2029,Jul-Sep,10058.0
+2491,phase 1 electronics city,2029,Oct-Dec,10058.0
+2493,phase 1 electronics city,2030,Apr-Jun,10877.51
+2492,phase 1 electronics city,2030,Jan-Mar,10877.51
+2494,phase 1 electronics city,2030,Jul-Sep,10877.51
+2495,phase 1 electronics city,2030,Oct-Dec,10877.51
+2497,phase 2 electronic city,2025,Apr-Jun,6156.39
+2496,phase 2 electronic city,2025,Jan-Mar,6156.39
+2498,phase 2 electronic city,2025,Jul-Sep,6156.39
+2499,phase 2 electronic city,2025,Oct-Dec,6156.39
+2501,phase 2 electronic city,2026,Apr-Jun,6608.09
+2500,phase 2 electronic city,2026,Jan-Mar,6608.09
+2502,phase 2 electronic city,2026,Jul-Sep,6608.09
+2503,phase 2 electronic city,2026,Oct-Dec,6608.09
+2505,phase 2 electronic city,2027,Apr-Jun,7092.93
+2504,phase 2 electronic city,2027,Jan-Mar,7092.93
+2506,phase 2 electronic city,2027,Jul-Sep,7092.93
+2507,phase 2 electronic city,2027,Oct-Dec,7092.93
+2509,phase 2 electronic city,2028,Apr-Jun,7613.35
+2508,phase 2 electronic city,2028,Jan-Mar,7613.35
+2510,phase 2 electronic city,2028,Jul-Sep,7613.35
+2511,phase 2 electronic city,2028,Oct-Dec,7613.35
+2513,phase 2 electronic city,2029,Apr-Jun,8171.94
+2512,phase 2 electronic city,2029,Jan-Mar,8171.94
+2514,phase 2 electronic city,2029,Jul-Sep,8171.94
+2515,phase 2 electronic city,2029,Oct-Dec,8171.94
+2517,phase 2 electronic city,2030,Apr-Jun,8771.53
+2516,phase 2 electronic city,2030,Jan-Mar,8771.53
+2518,phase 2 electronic city,2030,Jul-Sep,8771.53
+2519,phase 2 electronic city,2030,Oct-Dec,8771.53
+2521,phase 7 jp nagar,2025,Apr-Jun,9279.2
+2520,phase 7 jp nagar,2025,Jan-Mar,9279.2
+2522,phase 7 jp nagar,2025,Jul-Sep,9279.2
+2523,phase 7 jp nagar,2025,Oct-Dec,9279.2
+2525,phase 7 jp nagar,2026,Apr-Jun,10016.29
+2524,phase 7 jp nagar,2026,Jan-Mar,10016.29
+2526,phase 7 jp nagar,2026,Jul-Sep,10016.29
+2527,phase 7 jp nagar,2026,Oct-Dec,10016.29
+2529,phase 7 jp nagar,2027,Apr-Jun,10811.92
+2528,phase 7 jp nagar,2027,Jan-Mar,10811.92
+2530,phase 7 jp nagar,2027,Jul-Sep,10811.92
+2531,phase 7 jp nagar,2027,Oct-Dec,10811.92
+2533,phase 7 jp nagar,2028,Apr-Jun,11670.76
+2532,phase 7 jp nagar,2028,Jan-Mar,11670.76
+2534,phase 7 jp nagar,2028,Jul-Sep,11670.76
+2535,phase 7 jp nagar,2028,Oct-Dec,11670.76
+2537,phase 7 jp nagar,2029,Apr-Jun,12597.82
+2536,phase 7 jp nagar,2029,Jan-Mar,12597.82
+2538,phase 7 jp nagar,2029,Jul-Sep,12597.82
+2539,phase 7 jp nagar,2029,Oct-Dec,12597.82
+2541,phase 7 jp nagar,2030,Apr-Jun,13598.51
+2540,phase 7 jp nagar,2030,Jan-Mar,13598.51
+2542,phase 7 jp nagar,2030,Jul-Sep,13598.51
+2543,phase 7 jp nagar,2030,Oct-Dec,13598.51
+2545,phase 8th jp nagar,2025,Apr-Jun,8126.33
+2544,phase 8th jp nagar,2025,Jan-Mar,8126.33
+2546,phase 8th jp nagar,2025,Jul-Sep,8126.33
+2547,phase 8th jp nagar,2025,Oct-Dec,8126.33
+2549,phase 8th jp nagar,2026,Apr-Jun,8707.52
+2548,phase 8th jp nagar,2026,Jan-Mar,8707.52
+2550,phase 8th jp nagar,2026,Jul-Sep,8707.52
+2551,phase 8th jp nagar,2026,Oct-Dec,8707.52
+2553,phase 8th jp nagar,2027,Apr-Jun,9330.27
+2552,phase 8th jp nagar,2027,Jan-Mar,9330.27
+2554,phase 8th jp nagar,2027,Jul-Sep,9330.27
+2555,phase 8th jp nagar,2027,Oct-Dec,9330.27
+2557,phase 8th jp nagar,2028,Apr-Jun,9997.57
+2556,phase 8th jp nagar,2028,Jan-Mar,9997.57
+2558,phase 8th jp nagar,2028,Jul-Sep,9997.57
+2559,phase 8th jp nagar,2028,Oct-Dec,9997.57
+2561,phase 8th jp nagar,2029,Apr-Jun,10712.59
+2560,phase 8th jp nagar,2029,Jan-Mar,10712.59
+2562,phase 8th jp nagar,2029,Jul-Sep,10712.59
+2563,phase 8th jp nagar,2029,Oct-Dec,10712.59
+2565,phase 8th jp nagar,2030,Apr-Jun,11478.75
+2564,phase 8th jp nagar,2030,Jan-Mar,11478.75
+2566,phase 8th jp nagar,2030,Jul-Sep,11478.75
+2567,phase 8th jp nagar,2030,Oct-Dec,11478.75
+2569,pulikeshi nagar,2025,Apr-Jun,12269.37
+2568,pulikeshi nagar,2025,Jan-Mar,12269.37
+2570,pulikeshi nagar,2025,Jul-Sep,12269.37
+2571,pulikeshi nagar,2025,Oct-Dec,12269.37
+2573,pulikeshi nagar,2026,Apr-Jun,13110.58
+2572,pulikeshi nagar,2026,Jan-Mar,13110.58
+2574,pulikeshi nagar,2026,Jul-Sep,13110.58
+2575,pulikeshi nagar,2026,Oct-Dec,13110.58
+2577,pulikeshi nagar,2027,Apr-Jun,14009.46
+2576,pulikeshi nagar,2027,Jan-Mar,14009.46
+2578,pulikeshi nagar,2027,Jul-Sep,14009.46
+2579,pulikeshi nagar,2027,Oct-Dec,14009.46
+2581,pulikeshi nagar,2028,Apr-Jun,14969.97
+2580,pulikeshi nagar,2028,Jan-Mar,14969.97
+2582,pulikeshi nagar,2028,Jul-Sep,14969.97
+2583,pulikeshi nagar,2028,Oct-Dec,14969.97
+2585,pulikeshi nagar,2029,Apr-Jun,15996.34
+2584,pulikeshi nagar,2029,Jan-Mar,15996.34
+2586,pulikeshi nagar,2029,Jul-Sep,15996.34
+2587,pulikeshi nagar,2029,Oct-Dec,15996.34
+2589,pulikeshi nagar,2030,Apr-Jun,17093.07
+2588,pulikeshi nagar,2030,Jan-Mar,17093.07
+2590,pulikeshi nagar,2030,Jul-Sep,17093.07
+2591,pulikeshi nagar,2030,Oct-Dec,17093.07
+2593,queens road,2025,Apr-Jun,15888.68
+2592,queens road,2025,Jan-Mar,15888.68
+2594,queens road,2025,Jul-Sep,15888.68
+2595,queens road,2025,Oct-Dec,15888.68
+2597,queens road,2026,Apr-Jun,16725.1
+2596,queens road,2026,Jan-Mar,16725.1
+2598,queens road,2026,Jul-Sep,16725.1
+2599,queens road,2026,Oct-Dec,16725.1
+2601,queens road,2027,Apr-Jun,17605.54
+2600,queens road,2027,Jan-Mar,17605.54
+2602,queens road,2027,Jul-Sep,17605.54
+2603,queens road,2027,Oct-Dec,17605.54
+2605,queens road,2028,Apr-Jun,18532.33
+2604,queens road,2028,Jan-Mar,18532.33
+2606,queens road,2028,Jul-Sep,18532.33
+2607,queens road,2028,Oct-Dec,18532.33
+2609,queens road,2029,Apr-Jun,19507.91
+2608,queens road,2029,Jan-Mar,19507.91
+2610,queens road,2029,Jul-Sep,19507.91
+2611,queens road,2029,Oct-Dec,19507.91
+2613,queens road,2030,Apr-Jun,20534.85
+2612,queens road,2030,Jan-Mar,20534.85
+2614,queens road,2030,Jul-Sep,20534.85
+2615,queens road,2030,Oct-Dec,20534.85
+2689,rachenahalli,2025,Apr-Jun,7854.08
+2713,rachenahalli,2025,Apr-Jun,8484.43
+2688,rachenahalli,2025,Jan-Mar,7854.08
+2712,rachenahalli,2025,Jan-Mar,8484.43
+2690,rachenahalli,2025,Jul-Sep,7854.08
+2714,rachenahalli,2025,Jul-Sep,8484.43
+2691,rachenahalli,2025,Oct-Dec,7854.08
+2715,rachenahalli,2025,Oct-Dec,8484.43
+2693,rachenahalli,2026,Apr-Jun,8697.72
+2717,rachenahalli,2026,Apr-Jun,10149.87
+2692,rachenahalli,2026,Jan-Mar,8697.72
+2716,rachenahalli,2026,Jan-Mar,10149.87
+2694,rachenahalli,2026,Jul-Sep,8697.72
+2718,rachenahalli,2026,Jul-Sep,10149.87
+2695,rachenahalli,2026,Oct-Dec,8697.72
+2719,rachenahalli,2026,Oct-Dec,10149.87
+2697,rachenahalli,2027,Apr-Jun,9631.98
+2721,rachenahalli,2027,Apr-Jun,12142.21
+2696,rachenahalli,2027,Jan-Mar,9631.98
+2720,rachenahalli,2027,Jan-Mar,12142.21
+2698,rachenahalli,2027,Jul-Sep,9631.98
+2722,rachenahalli,2027,Jul-Sep,12142.21
+2699,rachenahalli,2027,Oct-Dec,9631.98
+2723,rachenahalli,2027,Oct-Dec,12142.21
+2701,rachenahalli,2028,Apr-Jun,10666.6
+2725,rachenahalli,2028,Apr-Jun,14525.64
+2700,rachenahalli,2028,Jan-Mar,10666.6
+2724,rachenahalli,2028,Jan-Mar,14525.64
+2702,rachenahalli,2028,Jul-Sep,10666.6
+2726,rachenahalli,2028,Jul-Sep,14525.64
+2703,rachenahalli,2028,Oct-Dec,10666.6
+2727,rachenahalli,2028,Oct-Dec,14525.64
+2705,rachenahalli,2029,Apr-Jun,11812.34
+2729,rachenahalli,2029,Apr-Jun,17376.92
+2704,rachenahalli,2029,Jan-Mar,11812.34
+2728,rachenahalli,2029,Jan-Mar,17376.92
+2706,rachenahalli,2029,Jul-Sep,11812.34
+2730,rachenahalli,2029,Jul-Sep,17376.92
+2707,rachenahalli,2029,Oct-Dec,11812.34
+2731,rachenahalli,2029,Oct-Dec,17376.92
+2709,rachenahalli,2030,Apr-Jun,13081.16
+2733,rachenahalli,2030,Apr-Jun,20787.89
+2708,rachenahalli,2030,Jan-Mar,13081.16
+2732,rachenahalli,2030,Jan-Mar,20787.89
+2710,rachenahalli,2030,Jul-Sep,13081.16
+2734,rachenahalli,2030,Jul-Sep,20787.89
+2711,rachenahalli,2030,Oct-Dec,13081.16
+2735,rachenahalli,2030,Oct-Dec,20787.89
+2737,rajajinagar,2025,Apr-Jun,16671.58
+2736,rajajinagar,2025,Jan-Mar,16671.58
+2738,rajajinagar,2025,Jul-Sep,16671.58
+2739,rajajinagar,2025,Oct-Dec,16671.58
+2741,rajajinagar,2026,Apr-Jun,18709.5
+2740,rajajinagar,2026,Jan-Mar,18709.5
+2742,rajajinagar,2026,Jul-Sep,18709.5
+2743,rajajinagar,2026,Oct-Dec,18709.5
+2745,rajajinagar,2027,Apr-Jun,20996.52
+2744,rajajinagar,2027,Jan-Mar,20996.52
+2746,rajajinagar,2027,Jul-Sep,20996.52
+2747,rajajinagar,2027,Oct-Dec,20996.52
+2749,rajajinagar,2028,Apr-Jun,23563.11
+2748,rajajinagar,2028,Jan-Mar,23563.11
+2750,rajajinagar,2028,Jul-Sep,23563.11
+2751,rajajinagar,2028,Oct-Dec,23563.11
+2753,rajajinagar,2029,Apr-Jun,26443.43
+2752,rajajinagar,2029,Jan-Mar,26443.43
+2754,rajajinagar,2029,Jul-Sep,26443.43
+2755,rajajinagar,2029,Oct-Dec,26443.43
+2757,rajajinagar,2030,Apr-Jun,29675.84
+2756,rajajinagar,2030,Jan-Mar,29675.84
+2758,rajajinagar,2030,Jul-Sep,29675.84
+2759,rajajinagar,2030,Oct-Dec,29675.84
+2761,ramagondanahalli whitefield,2025,Apr-Jun,11423.01
+2760,ramagondanahalli whitefield,2025,Jan-Mar,11423.01
+2762,ramagondanahalli whitefield,2025,Jul-Sep,11423.01
+2763,ramagondanahalli whitefield,2025,Oct-Dec,11423.01
+2765,ramagondanahalli whitefield,2026,Apr-Jun,12755.28
+2764,ramagondanahalli whitefield,2026,Jan-Mar,12755.28
+2766,ramagondanahalli whitefield,2026,Jul-Sep,12755.28
+2767,ramagondanahalli whitefield,2026,Oct-Dec,12755.28
+2769,ramagondanahalli whitefield,2027,Apr-Jun,14242.94
+2768,ramagondanahalli whitefield,2027,Jan-Mar,14242.94
+2770,ramagondanahalli whitefield,2027,Jul-Sep,14242.94
+2771,ramagondanahalli whitefield,2027,Oct-Dec,14242.94
+2773,ramagondanahalli whitefield,2028,Apr-Jun,15904.1
+2772,ramagondanahalli whitefield,2028,Jan-Mar,15904.1
+2774,ramagondanahalli whitefield,2028,Jul-Sep,15904.1
+2775,ramagondanahalli whitefield,2028,Oct-Dec,15904.1
+2777,ramagondanahalli whitefield,2029,Apr-Jun,17759.01
+2776,ramagondanahalli whitefield,2029,Jan-Mar,17759.01
+2778,ramagondanahalli whitefield,2029,Jul-Sep,17759.01
+2779,ramagondanahalli whitefield,2029,Oct-Dec,17759.01
+2781,ramagondanahalli whitefield,2030,Apr-Jun,19830.26
+2780,ramagondanahalli whitefield,2030,Jan-Mar,19830.26
+2782,ramagondanahalli whitefield,2030,Jul-Sep,19830.26
+2783,ramagondanahalli whitefield,2030,Oct-Dec,19830.26
+2785,ramamurthy nagar,2025,Apr-Jun,6730.91
+2784,ramamurthy nagar,2025,Jan-Mar,6730.91
+2786,ramamurthy nagar,2025,Jul-Sep,6730.91
+2787,ramamurthy nagar,2025,Oct-Dec,6730.91
+2789,ramamurthy nagar,2026,Apr-Jun,7033.87
+2788,ramamurthy nagar,2026,Jan-Mar,7033.87
+2790,ramamurthy nagar,2026,Jul-Sep,7033.87
+2791,ramamurthy nagar,2026,Oct-Dec,7033.87
+2793,ramamurthy nagar,2027,Apr-Jun,7350.46
+2792,ramamurthy nagar,2027,Jan-Mar,7350.46
+2794,ramamurthy nagar,2027,Jul-Sep,7350.46
+2795,ramamurthy nagar,2027,Oct-Dec,7350.46
+2797,ramamurthy nagar,2028,Apr-Jun,7681.31
+2796,ramamurthy nagar,2028,Jan-Mar,7681.31
+2798,ramamurthy nagar,2028,Jul-Sep,7681.31
+2799,ramamurthy nagar,2028,Oct-Dec,7681.31
+2801,ramamurthy nagar,2029,Apr-Jun,8027.05
+2800,ramamurthy nagar,2029,Jan-Mar,8027.05
+2802,ramamurthy nagar,2029,Jul-Sep,8027.05
+2803,ramamurthy nagar,2029,Oct-Dec,8027.05
+2805,ramamurthy nagar,2030,Apr-Jun,8388.35
+2804,ramamurthy nagar,2030,Jan-Mar,8388.35
+2806,ramamurthy nagar,2030,Jul-Sep,8388.35
+2807,ramamurthy nagar,2030,Oct-Dec,8388.35
+2809,rashtriya vidyalaya road,2025,Apr-Jun,11050.07
+2808,rashtriya vidyalaya road,2025,Jan-Mar,11050.07
+2810,rashtriya vidyalaya road,2025,Jul-Sep,11050.07
+2811,rashtriya vidyalaya road,2025,Oct-Dec,11050.07
+2813,rashtriya vidyalaya road,2026,Apr-Jun,11504.1
+2812,rashtriya vidyalaya road,2026,Jan-Mar,11504.1
+2814,rashtriya vidyalaya road,2026,Jul-Sep,11504.1
+2815,rashtriya vidyalaya road,2026,Oct-Dec,11504.1
+2817,rashtriya vidyalaya road,2027,Apr-Jun,11976.77
+2816,rashtriya vidyalaya road,2027,Jan-Mar,11976.77
+2818,rashtriya vidyalaya road,2027,Jul-Sep,11976.77
+2819,rashtriya vidyalaya road,2027,Oct-Dec,11976.77
+2821,rashtriya vidyalaya road,2028,Apr-Jun,12468.87
+2820,rashtriya vidyalaya road,2028,Jan-Mar,12468.87
+2822,rashtriya vidyalaya road,2028,Jul-Sep,12468.87
+2823,rashtriya vidyalaya road,2028,Oct-Dec,12468.87
+2825,rashtriya vidyalaya road,2029,Apr-Jun,12981.19
+2824,rashtriya vidyalaya road,2029,Jan-Mar,12981.19
+2826,rashtriya vidyalaya road,2029,Jul-Sep,12981.19
+2827,rashtriya vidyalaya road,2029,Oct-Dec,12981.19
+2829,rashtriya vidyalaya road,2030,Apr-Jun,13514.56
+2828,rashtriya vidyalaya road,2030,Jan-Mar,13514.56
+2830,rashtriya vidyalaya road,2030,Jul-Sep,13514.56
+2831,rashtriya vidyalaya road,2030,Oct-Dec,13514.56
+2617,rk hegde nagar,2025,Apr-Jun,10403.38
+2616,rk hegde nagar,2025,Jan-Mar,10403.38
+2618,rk hegde nagar,2025,Jul-Sep,10403.38
+2619,rk hegde nagar,2025,Oct-Dec,10403.38
+2621,rk hegde nagar,2026,Apr-Jun,11274.76
+2620,rk hegde nagar,2026,Jan-Mar,11274.76
+2622,rk hegde nagar,2026,Jul-Sep,11274.76
+2623,rk hegde nagar,2026,Oct-Dec,11274.76
+2625,rk hegde nagar,2027,Apr-Jun,12219.12
+2624,rk hegde nagar,2027,Jan-Mar,12219.12
+2626,rk hegde nagar,2027,Jul-Sep,12219.12
+2627,rk hegde nagar,2027,Oct-Dec,12219.12
+2629,rk hegde nagar,2028,Apr-Jun,13242.59
+2628,rk hegde nagar,2028,Jan-Mar,13242.59
+2630,rk hegde nagar,2028,Jul-Sep,13242.59
+2631,rk hegde nagar,2028,Oct-Dec,13242.59
+2633,rk hegde nagar,2029,Apr-Jun,14351.78
+2632,rk hegde nagar,2029,Jan-Mar,14351.78
+2634,rk hegde nagar,2029,Jul-Sep,14351.78
+2635,rk hegde nagar,2029,Oct-Dec,14351.78
+2637,rk hegde nagar,2030,Apr-Jun,15553.88
+2636,rk hegde nagar,2030,Jan-Mar,15553.88
+2638,rk hegde nagar,2030,Jul-Sep,15553.88
+2639,rk hegde nagar,2030,Oct-Dec,15553.88
+2641,rr nagar,2025,Apr-Jun,7291.37
+2640,rr nagar,2025,Jan-Mar,7291.37
+2642,rr nagar,2025,Jul-Sep,7291.37
+2643,rr nagar,2025,Oct-Dec,7291.37
+2645,rr nagar,2026,Apr-Jun,7870.92
+2644,rr nagar,2026,Jan-Mar,7870.92
+2646,rr nagar,2026,Jul-Sep,7870.92
+2647,rr nagar,2026,Oct-Dec,7870.92
+2649,rr nagar,2027,Apr-Jun,8496.53
+2648,rr nagar,2027,Jan-Mar,8496.53
+2650,rr nagar,2027,Jul-Sep,8496.53
+2651,rr nagar,2027,Oct-Dec,8496.53
+2653,rr nagar,2028,Apr-Jun,9171.87
+2652,rr nagar,2028,Jan-Mar,9171.87
+2654,rr nagar,2028,Jul-Sep,9171.87
+2655,rr nagar,2028,Oct-Dec,9171.87
+2657,rr nagar,2029,Apr-Jun,9900.89
+2656,rr nagar,2029,Jan-Mar,9900.89
+2658,rr nagar,2029,Jul-Sep,9900.89
+2659,rr nagar,2029,Oct-Dec,9900.89
+2661,rr nagar,2030,Apr-Jun,10687.86
+2660,rr nagar,2030,Jan-Mar,10687.86
+2662,rr nagar,2030,Jul-Sep,10687.86
+2663,rr nagar,2030,Oct-Dec,10687.86
+2665,rt nagar,2025,Apr-Jun,6679.09
+2664,rt nagar,2025,Jan-Mar,6679.09
+2666,rt nagar,2025,Jul-Sep,6679.09
+2667,rt nagar,2025,Oct-Dec,6679.09
+2669,rt nagar,2026,Apr-Jun,6869.47
+2668,rt nagar,2026,Jan-Mar,6869.47
+2670,rt nagar,2026,Jul-Sep,6869.47
+2671,rt nagar,2026,Oct-Dec,6869.47
+2673,rt nagar,2027,Apr-Jun,7065.26
+2672,rt nagar,2027,Jan-Mar,7065.26
+2674,rt nagar,2027,Jul-Sep,7065.26
+2675,rt nagar,2027,Oct-Dec,7065.26
+2677,rt nagar,2028,Apr-Jun,7266.64
+2676,rt nagar,2028,Jan-Mar,7266.64
+2678,rt nagar,2028,Jul-Sep,7266.64
+2679,rt nagar,2028,Oct-Dec,7266.64
+2681,rt nagar,2029,Apr-Jun,7473.76
+2680,rt nagar,2029,Jan-Mar,7473.76
+2682,rt nagar,2029,Jul-Sep,7473.76
+2683,rt nagar,2029,Oct-Dec,7473.76
+2685,rt nagar,2030,Apr-Jun,7686.78
+2684,rt nagar,2030,Jan-Mar,7686.78
+2686,rt nagar,2030,Jul-Sep,7686.78
+2687,rt nagar,2030,Oct-Dec,7686.78
+2833,sahakar nagar,2025,Apr-Jun,9528.6
+2832,sahakar nagar,2025,Jan-Mar,9528.6
+2834,sahakar nagar,2025,Jul-Sep,9528.6
+2835,sahakar nagar,2025,Oct-Dec,9528.6
+2837,sahakar nagar,2026,Apr-Jun,9987.57
+2836,sahakar nagar,2026,Jan-Mar,9987.57
+2838,sahakar nagar,2026,Jul-Sep,9987.57
+2839,sahakar nagar,2026,Oct-Dec,9987.57
+2841,sahakar nagar,2027,Apr-Jun,10468.64
+2840,sahakar nagar,2027,Jan-Mar,10468.64
+2842,sahakar nagar,2027,Jul-Sep,10468.64
+2843,sahakar nagar,2027,Oct-Dec,10468.64
+2845,sahakar nagar,2028,Apr-Jun,10972.88
+2844,sahakar nagar,2028,Jan-Mar,10972.88
+2846,sahakar nagar,2028,Jul-Sep,10972.88
+2847,sahakar nagar,2028,Oct-Dec,10972.88
+2849,sahakar nagar,2029,Apr-Jun,11501.42
+2848,sahakar nagar,2029,Jan-Mar,11501.42
+2850,sahakar nagar,2029,Jul-Sep,11501.42
+2851,sahakar nagar,2029,Oct-Dec,11501.42
+2853,sahakar nagar,2030,Apr-Jun,12055.41
+2852,sahakar nagar,2030,Jan-Mar,12055.41
+2854,sahakar nagar,2030,Jul-Sep,12055.41
+2855,sahakar nagar,2030,Oct-Dec,12055.41
+2857,sanjay nagar main road,2025,Apr-Jun,10755.55
+2856,sanjay nagar main road,2025,Jan-Mar,10755.55
+2858,sanjay nagar main road,2025,Jul-Sep,10755.55
+2859,sanjay nagar main road,2025,Oct-Dec,10755.55
+2861,sanjay nagar main road,2026,Apr-Jun,12001.02
+2860,sanjay nagar main road,2026,Jan-Mar,12001.02
+2862,sanjay nagar main road,2026,Jul-Sep,12001.02
+2863,sanjay nagar main road,2026,Oct-Dec,12001.02
+2865,sanjay nagar main road,2027,Apr-Jun,13390.72
+2864,sanjay nagar main road,2027,Jan-Mar,13390.72
+2866,sanjay nagar main road,2027,Jul-Sep,13390.72
+2867,sanjay nagar main road,2027,Oct-Dec,13390.72
+2869,sanjay nagar main road,2028,Apr-Jun,14941.34
+2868,sanjay nagar main road,2028,Jan-Mar,14941.34
+2870,sanjay nagar main road,2028,Jul-Sep,14941.34
+2871,sanjay nagar main road,2028,Oct-Dec,14941.34
+2873,sanjay nagar main road,2029,Apr-Jun,16671.52
+2872,sanjay nagar main road,2029,Jan-Mar,16671.52
+2874,sanjay nagar main road,2029,Jul-Sep,16671.52
+2875,sanjay nagar main road,2029,Oct-Dec,16671.52
+2877,sanjay nagar main road,2030,Apr-Jun,18602.05
+2876,sanjay nagar main road,2030,Jan-Mar,18602.05
+2878,sanjay nagar main road,2030,Jul-Sep,18602.05
+2879,sanjay nagar main road,2030,Oct-Dec,18602.05
+2881,sanjayanagara,2025,Apr-Jun,9160.68
+2880,sanjayanagara,2025,Jan-Mar,9160.68
+2882,sanjayanagara,2025,Jul-Sep,9160.68
+2883,sanjayanagara,2025,Oct-Dec,9160.68
+2885,sanjayanagara,2026,Apr-Jun,9442.95
+2884,sanjayanagara,2026,Jan-Mar,9442.95
+2886,sanjayanagara,2026,Jul-Sep,9442.95
+2887,sanjayanagara,2026,Oct-Dec,9442.95
+2889,sanjayanagara,2027,Apr-Jun,9733.91
+2888,sanjayanagara,2027,Jan-Mar,9733.91
+2890,sanjayanagara,2027,Jul-Sep,9733.91
+2891,sanjayanagara,2027,Oct-Dec,9733.91
+2893,sanjayanagara,2028,Apr-Jun,10033.83
+2892,sanjayanagara,2028,Jan-Mar,10033.83
+2894,sanjayanagara,2028,Jul-Sep,10033.83
+2895,sanjayanagara,2028,Oct-Dec,10033.83
+2897,sanjayanagara,2029,Apr-Jun,10343.0
+2896,sanjayanagara,2029,Jan-Mar,10343.0
+2898,sanjayanagara,2029,Jul-Sep,10343.0
+2899,sanjayanagara,2029,Oct-Dec,10343.0
+2901,sanjayanagara,2030,Apr-Jun,10661.69
+2900,sanjayanagara,2030,Jan-Mar,10661.69
+2902,sanjayanagara,2030,Jul-Sep,10661.69
+2903,sanjayanagara,2030,Oct-Dec,10661.69
+2905,sarjapur road,2025,Apr-Jun,11293.83
+2904,sarjapur road,2025,Jan-Mar,11293.83
+2906,sarjapur road,2025,Jul-Sep,11293.83
+2907,sarjapur road,2025,Oct-Dec,11293.83
+2909,sarjapur road,2026,Apr-Jun,12478.89
+2908,sarjapur road,2026,Jan-Mar,12478.89
+2910,sarjapur road,2026,Jul-Sep,12478.89
+2911,sarjapur road,2026,Oct-Dec,12478.89
+2913,sarjapur road,2027,Apr-Jun,13788.3
+2912,sarjapur road,2027,Jan-Mar,13788.3
+2914,sarjapur road,2027,Jul-Sep,13788.3
+2915,sarjapur road,2027,Oct-Dec,13788.3
+2917,sarjapur road,2028,Apr-Jun,15235.1
+2916,sarjapur road,2028,Jan-Mar,15235.1
+2918,sarjapur road,2028,Jul-Sep,15235.1
+2919,sarjapur road,2028,Oct-Dec,15235.1
+2921,sarjapur road,2029,Apr-Jun,16833.72
+2920,sarjapur road,2029,Jan-Mar,16833.72
+2922,sarjapur road,2029,Jul-Sep,16833.72
+2923,sarjapur road,2029,Oct-Dec,16833.72
+2925,sarjapur road,2030,Apr-Jun,18600.08
+2924,sarjapur road,2030,Jan-Mar,18600.08
+2926,sarjapur road,2030,Jul-Sep,18600.08
+2927,sarjapur road,2030,Oct-Dec,18600.08
+2929,sarjapura,2025,Apr-Jun,9661.56
+2928,sarjapura,2025,Jan-Mar,9661.56
+2930,sarjapura,2025,Jul-Sep,9661.56
+2931,sarjapura,2025,Oct-Dec,9661.56
+2933,sarjapura,2026,Apr-Jun,10787.44
+2932,sarjapura,2026,Jan-Mar,10787.44
+2934,sarjapura,2026,Jul-Sep,10787.44
+2935,sarjapura,2026,Oct-Dec,10787.44
+2937,sarjapura,2027,Apr-Jun,12044.52
+2936,sarjapura,2027,Jan-Mar,12044.52
+2938,sarjapura,2027,Jul-Sep,12044.52
+2939,sarjapura,2027,Oct-Dec,12044.52
+2941,sarjapura,2028,Apr-Jun,13448.09
+2940,sarjapura,2028,Jan-Mar,13448.09
+2942,sarjapura,2028,Jul-Sep,13448.09
+2943,sarjapura,2028,Oct-Dec,13448.09
+2945,sarjapura,2029,Apr-Jun,15015.22
+2944,sarjapura,2029,Jan-Mar,15015.22
+2946,sarjapura,2029,Jul-Sep,15015.22
+2947,sarjapura,2029,Oct-Dec,15015.22
+2949,sarjapura,2030,Apr-Jun,16764.98
+2948,sarjapura,2030,Jan-Mar,16764.98
+2950,sarjapura,2030,Jul-Sep,16764.98
+2951,sarjapura,2030,Oct-Dec,16764.98
+2953,sarjapura attibele road,2025,Apr-Jun,9619.83
+2952,sarjapura attibele road,2025,Jan-Mar,9619.83
+2954,sarjapura attibele road,2025,Jul-Sep,9619.83
+2955,sarjapura attibele road,2025,Oct-Dec,9619.83
+2957,sarjapura attibele road,2026,Apr-Jun,10906.96
+2956,sarjapura attibele road,2026,Jan-Mar,10906.96
+2958,sarjapura attibele road,2026,Jul-Sep,10906.96
+2959,sarjapura attibele road,2026,Oct-Dec,10906.96
+2961,sarjapura attibele road,2027,Apr-Jun,12366.31
+2960,sarjapura attibele road,2027,Jan-Mar,12366.31
+2962,sarjapura attibele road,2027,Jul-Sep,12366.31
+2963,sarjapura attibele road,2027,Oct-Dec,12366.31
+2965,sarjapura attibele road,2028,Apr-Jun,14020.92
+2964,sarjapura attibele road,2028,Jan-Mar,14020.92
+2966,sarjapura attibele road,2028,Jul-Sep,14020.92
+2967,sarjapura attibele road,2028,Oct-Dec,14020.92
+2969,sarjapura attibele road,2029,Apr-Jun,15896.91
+2968,sarjapura attibele road,2029,Jan-Mar,15896.91
+2970,sarjapura attibele road,2029,Jul-Sep,15896.91
+2971,sarjapura attibele road,2029,Oct-Dec,15896.91
+2973,sarjapura attibele road,2030,Apr-Jun,18023.91
+2972,sarjapura attibele road,2030,Jan-Mar,18023.91
+2974,sarjapura attibele road,2030,Jul-Sep,18023.91
+2975,sarjapura attibele road,2030,Oct-Dec,18023.91
+2977,seegehalli krishnarajapura,2025,Apr-Jun,8952.55
+2976,seegehalli krishnarajapura,2025,Jan-Mar,8952.55
+2978,seegehalli krishnarajapura,2025,Jul-Sep,8952.55
+2979,seegehalli krishnarajapura,2025,Oct-Dec,8952.55
+2981,seegehalli krishnarajapura,2026,Apr-Jun,9926.49
+2980,seegehalli krishnarajapura,2026,Jan-Mar,9926.49
+2982,seegehalli krishnarajapura,2026,Jul-Sep,9926.49
+2983,seegehalli krishnarajapura,2026,Oct-Dec,9926.49
+2985,seegehalli krishnarajapura,2027,Apr-Jun,11006.37
+2984,seegehalli krishnarajapura,2027,Jan-Mar,11006.37
+2986,seegehalli krishnarajapura,2027,Jul-Sep,11006.37
+2987,seegehalli krishnarajapura,2027,Oct-Dec,11006.37
+2989,seegehalli krishnarajapura,2028,Apr-Jun,12203.74
+2988,seegehalli krishnarajapura,2028,Jan-Mar,12203.74
+2990,seegehalli krishnarajapura,2028,Jul-Sep,12203.74
+2991,seegehalli krishnarajapura,2028,Oct-Dec,12203.74
+2993,seegehalli krishnarajapura,2029,Apr-Jun,13531.37
+2992,seegehalli krishnarajapura,2029,Jan-Mar,13531.37
+2994,seegehalli krishnarajapura,2029,Jul-Sep,13531.37
+2995,seegehalli krishnarajapura,2029,Oct-Dec,13531.37
+2997,seegehalli krishnarajapura,2030,Apr-Jun,15003.44
+2996,seegehalli krishnarajapura,2030,Jan-Mar,15003.44
+2998,seegehalli krishnarajapura,2030,Jul-Sep,15003.44
+2999,seegehalli krishnarajapura,2030,Oct-Dec,15003.44
+3001,singasandra,2025,Apr-Jun,7510.75
+3000,singasandra,2025,Jan-Mar,7510.75
+3002,singasandra,2025,Jul-Sep,7510.75
+3003,singasandra,2025,Oct-Dec,7510.75
+3005,singasandra,2026,Apr-Jun,7939.69
+3004,singasandra,2026,Jan-Mar,7939.69
+3006,singasandra,2026,Jul-Sep,7939.69
+3007,singasandra,2026,Oct-Dec,7939.69
+3009,singasandra,2027,Apr-Jun,8393.13
+3008,singasandra,2027,Jan-Mar,8393.13
+3010,singasandra,2027,Jul-Sep,8393.13
+3011,singasandra,2027,Oct-Dec,8393.13
+3013,singasandra,2028,Apr-Jun,8872.47
+3012,singasandra,2028,Jan-Mar,8872.47
+3014,singasandra,2028,Jul-Sep,8872.47
+3015,singasandra,2028,Oct-Dec,8872.47
+3017,singasandra,2029,Apr-Jun,9379.18
+3016,singasandra,2029,Jan-Mar,9379.18
+3018,singasandra,2029,Jul-Sep,9379.18
+3019,singasandra,2029,Oct-Dec,9379.18
+3021,singasandra,2030,Apr-Jun,9914.83
+3020,singasandra,2030,Jan-Mar,9914.83
+3022,singasandra,2030,Jul-Sep,9914.83
+3023,singasandra,2030,Oct-Dec,9914.83
+3025,somasundarapalya main road,2025,Apr-Jun,11422.53
+3024,somasundarapalya main road,2025,Jan-Mar,11422.53
+3026,somasundarapalya main road,2025,Jul-Sep,11422.53
+3027,somasundarapalya main road,2025,Oct-Dec,11422.53
+3029,somasundarapalya main road,2026,Apr-Jun,12204.33
+3028,somasundarapalya main road,2026,Jan-Mar,12204.33
+3030,somasundarapalya main road,2026,Jul-Sep,12204.33
+3031,somasundarapalya main road,2026,Oct-Dec,12204.33
+3033,somasundarapalya main road,2027,Apr-Jun,13039.63
+3032,somasundarapalya main road,2027,Jan-Mar,13039.63
+3034,somasundarapalya main road,2027,Jul-Sep,13039.63
+3035,somasundarapalya main road,2027,Oct-Dec,13039.63
+3037,somasundarapalya main road,2028,Apr-Jun,13932.1
+3036,somasundarapalya main road,2028,Jan-Mar,13932.1
+3038,somasundarapalya main road,2028,Jul-Sep,13932.1
+3039,somasundarapalya main road,2028,Oct-Dec,13932.1
+3041,somasundarapalya main road,2029,Apr-Jun,14885.65
+3040,somasundarapalya main road,2029,Jan-Mar,14885.65
+3042,somasundarapalya main road,2029,Jul-Sep,14885.65
+3043,somasundarapalya main road,2029,Oct-Dec,14885.65
+3045,somasundarapalya main road,2030,Apr-Jun,15904.47
+3044,somasundarapalya main road,2030,Jan-Mar,15904.47
+3046,somasundarapalya main road,2030,Jul-Sep,15904.47
+3047,somasundarapalya main road,2030,Oct-Dec,15904.47
+3049,stage 2 rmv,2025,Apr-Jun,10912.93
+3048,stage 2 rmv,2025,Jan-Mar,10912.93
+3050,stage 2 rmv,2025,Jul-Sep,10912.93
+3051,stage 2 rmv,2025,Oct-Dec,10912.93
+3053,stage 2 rmv,2026,Apr-Jun,12113.81
+3052,stage 2 rmv,2026,Jan-Mar,12113.81
+3054,stage 2 rmv,2026,Jul-Sep,12113.81
+3055,stage 2 rmv,2026,Oct-Dec,12113.81
+3057,stage 2 rmv,2027,Apr-Jun,13446.83
+3056,stage 2 rmv,2027,Jan-Mar,13446.83
+3058,stage 2 rmv,2027,Jul-Sep,13446.83
+3059,stage 2 rmv,2027,Oct-Dec,13446.83
+3061,stage 2 rmv,2028,Apr-Jun,14926.55
+3060,stage 2 rmv,2028,Jan-Mar,14926.55
+3062,stage 2 rmv,2028,Jul-Sep,14926.55
+3063,stage 2 rmv,2028,Oct-Dec,14926.55
+3065,stage 2 rmv,2029,Apr-Jun,16569.09
+3064,stage 2 rmv,2029,Jan-Mar,16569.09
+3066,stage 2 rmv,2029,Jul-Sep,16569.09
+3067,stage 2 rmv,2029,Oct-Dec,16569.09
+3069,stage 2 rmv,2030,Apr-Jun,18392.38
+3068,stage 2 rmv,2030,Jan-Mar,18392.38
+3070,stage 2 rmv,2030,Jul-Sep,18392.38
+3071,stage 2 rmv,2030,Oct-Dec,18392.38
+3073,stage 3rd banashankari,2025,Apr-Jun,8659.68
+3072,stage 3rd banashankari,2025,Jan-Mar,8659.68
+3074,stage 3rd banashankari,2025,Jul-Sep,8659.68
+3075,stage 3rd banashankari,2025,Oct-Dec,8659.68
+3077,stage 3rd banashankari,2026,Apr-Jun,9055.48
+3076,stage 3rd banashankari,2026,Jan-Mar,9055.48
+3078,stage 3rd banashankari,2026,Jul-Sep,9055.48
+3079,stage 3rd banashankari,2026,Oct-Dec,9055.48
+3081,stage 3rd banashankari,2027,Apr-Jun,9469.37
+3080,stage 3rd banashankari,2027,Jan-Mar,9469.37
+3082,stage 3rd banashankari,2027,Jul-Sep,9469.37
+3083,stage 3rd banashankari,2027,Oct-Dec,9469.37
+3085,stage 3rd banashankari,2028,Apr-Jun,9902.18
+3084,stage 3rd banashankari,2028,Jan-Mar,9902.18
+3086,stage 3rd banashankari,2028,Jul-Sep,9902.18
+3087,stage 3rd banashankari,2028,Oct-Dec,9902.18
+3089,stage 3rd banashankari,2029,Apr-Jun,10354.77
+3088,stage 3rd banashankari,2029,Jan-Mar,10354.77
+3090,stage 3rd banashankari,2029,Jul-Sep,10354.77
+3091,stage 3rd banashankari,2029,Oct-Dec,10354.77
+3093,stage 3rd banashankari,2030,Apr-Jun,10828.05
+3092,stage 3rd banashankari,2030,Jan-Mar,10828.05
+3094,stage 3rd banashankari,2030,Jul-Sep,10828.05
+3095,stage 3rd banashankari,2030,Oct-Dec,10828.05
+3097,subramanyapura,2025,Apr-Jun,7289.69
+3096,subramanyapura,2025,Jan-Mar,7289.69
+3098,subramanyapura,2025,Jul-Sep,7289.69
+3099,subramanyapura,2025,Oct-Dec,7289.69
+3101,subramanyapura,2026,Apr-Jun,7763.93
+3100,subramanyapura,2026,Jan-Mar,7763.93
+3102,subramanyapura,2026,Jul-Sep,7763.93
+3103,subramanyapura,2026,Oct-Dec,7763.93
+3105,subramanyapura,2027,Apr-Jun,8269.03
+3104,subramanyapura,2027,Jan-Mar,8269.03
+3106,subramanyapura,2027,Jul-Sep,8269.03
+3107,subramanyapura,2027,Oct-Dec,8269.03
+3109,subramanyapura,2028,Apr-Jun,8806.98
+3108,subramanyapura,2028,Jan-Mar,8806.98
+3110,subramanyapura,2028,Jul-Sep,8806.98
+3111,subramanyapura,2028,Oct-Dec,8806.98
+3113,subramanyapura,2029,Apr-Jun,9379.93
+3112,subramanyapura,2029,Jan-Mar,9379.93
+3114,subramanyapura,2029,Jul-Sep,9379.93
+3115,subramanyapura,2029,Oct-Dec,9379.93
+3117,subramanyapura,2030,Apr-Jun,9990.16
+3116,subramanyapura,2030,Jan-Mar,9990.16
+3118,subramanyapura,2030,Jul-Sep,9990.16
+3119,subramanyapura,2030,Oct-Dec,9990.16
+3121,thalaghattapura main road,2025,Apr-Jun,8582.95
+3120,thalaghattapura main road,2025,Jan-Mar,8582.95
+3122,thalaghattapura main road,2025,Jul-Sep,8582.95
+3123,thalaghattapura main road,2025,Oct-Dec,8582.95
+3125,thalaghattapura main road,2026,Apr-Jun,9596.56
+3124,thalaghattapura main road,2026,Jan-Mar,9596.56
+3126,thalaghattapura main road,2026,Jul-Sep,9596.56
+3127,thalaghattapura main road,2026,Oct-Dec,9596.56
+3129,thalaghattapura main road,2027,Apr-Jun,10729.86
+3128,thalaghattapura main road,2027,Jan-Mar,10729.86
+3130,thalaghattapura main road,2027,Jul-Sep,10729.86
+3131,thalaghattapura main road,2027,Oct-Dec,10729.86
+3133,thalaghattapura main road,2028,Apr-Jun,11997.0
+3132,thalaghattapura main road,2028,Jan-Mar,11997.0
+3134,thalaghattapura main road,2028,Jul-Sep,11997.0
+3135,thalaghattapura main road,2028,Oct-Dec,11997.0
+3137,thalaghattapura main road,2029,Apr-Jun,13413.79
+3136,thalaghattapura main road,2029,Jan-Mar,13413.79
+3138,thalaghattapura main road,2029,Jul-Sep,13413.79
+3139,thalaghattapura main road,2029,Oct-Dec,13413.79
+3141,thalaghattapura main road,2030,Apr-Jun,14997.89
+3140,thalaghattapura main road,2030,Jan-Mar,14997.89
+3142,thalaghattapura main road,2030,Jul-Sep,14997.89
+3143,thalaghattapura main road,2030,Oct-Dec,14997.89
+3145,thanisandra,2025,Apr-Jun,9785.27
+3144,thanisandra,2025,Jan-Mar,9785.27
+3146,thanisandra,2025,Jul-Sep,9785.27
+3147,thanisandra,2025,Oct-Dec,9785.27
+3149,thanisandra,2026,Apr-Jun,11007.05
+3148,thanisandra,2026,Jan-Mar,11007.05
+3150,thanisandra,2026,Jul-Sep,11007.05
+3151,thanisandra,2026,Oct-Dec,11007.05
+3153,thanisandra,2027,Apr-Jun,12381.37
+3152,thanisandra,2027,Jan-Mar,12381.37
+3154,thanisandra,2027,Jul-Sep,12381.37
+3155,thanisandra,2027,Oct-Dec,12381.37
+3157,thanisandra,2028,Apr-Jun,13927.3
+3156,thanisandra,2028,Jan-Mar,13927.3
+3158,thanisandra,2028,Jul-Sep,13927.3
+3159,thanisandra,2028,Oct-Dec,13927.3
+3161,thanisandra,2029,Apr-Jun,15666.24
+3160,thanisandra,2029,Jan-Mar,15666.24
+3162,thanisandra,2029,Jul-Sep,15666.24
+3163,thanisandra,2029,Oct-Dec,15666.24
+3165,thanisandra,2030,Apr-Jun,17622.31
+3164,thanisandra,2030,Jan-Mar,17622.31
+3166,thanisandra,2030,Jul-Sep,17622.31
+3167,thanisandra,2030,Oct-Dec,17622.31
+3169,thanisandra main road,2025,Apr-Jun,10354.31
+3168,thanisandra main road,2025,Jan-Mar,10354.31
+3170,thanisandra main road,2025,Jul-Sep,10354.31
+3171,thanisandra main road,2025,Oct-Dec,10354.31
+3173,thanisandra main road,2026,Apr-Jun,11416.5
+3172,thanisandra main road,2026,Jan-Mar,11416.5
+3174,thanisandra main road,2026,Jul-Sep,11416.5
+3175,thanisandra main road,2026,Oct-Dec,11416.5
+3177,thanisandra main road,2027,Apr-Jun,12587.65
+3176,thanisandra main road,2027,Jan-Mar,12587.65
+3178,thanisandra main road,2027,Jul-Sep,12587.65
+3179,thanisandra main road,2027,Oct-Dec,12587.65
+3181,thanisandra main road,2028,Apr-Jun,13878.93
+3180,thanisandra main road,2028,Jan-Mar,13878.93
+3182,thanisandra main road,2028,Jul-Sep,13878.93
+3183,thanisandra main road,2028,Oct-Dec,13878.93
+3185,thanisandra main road,2029,Apr-Jun,15302.69
+3184,thanisandra main road,2029,Jan-Mar,15302.69
+3186,thanisandra main road,2029,Jul-Sep,15302.69
+3187,thanisandra main road,2029,Oct-Dec,15302.69
+3189,thanisandra main road,2030,Apr-Jun,16872.49
+3188,thanisandra main road,2030,Jan-Mar,16872.49
+3190,thanisandra main road,2030,Jul-Sep,16872.49
+3191,thanisandra main road,2030,Oct-Dec,16872.49
+3193,thimmaiah road,2025,Apr-Jun,14305.1
+3192,thimmaiah road,2025,Jan-Mar,14305.1
+3194,thimmaiah road,2025,Jul-Sep,14305.1
+3195,thimmaiah road,2025,Oct-Dec,14305.1
+3197,thimmaiah road,2026,Apr-Jun,14784.45
+3196,thimmaiah road,2026,Jan-Mar,14784.45
+3198,thimmaiah road,2026,Jul-Sep,14784.45
+3199,thimmaiah road,2026,Oct-Dec,14784.45
+3201,thimmaiah road,2027,Apr-Jun,15279.86
+3200,thimmaiah road,2027,Jan-Mar,15279.86
+3202,thimmaiah road,2027,Jul-Sep,15279.86
+3203,thimmaiah road,2027,Oct-Dec,15279.86
+3205,thimmaiah road,2028,Apr-Jun,15791.87
+3204,thimmaiah road,2028,Jan-Mar,15791.87
+3206,thimmaiah road,2028,Jul-Sep,15791.87
+3207,thimmaiah road,2028,Oct-Dec,15791.87
+3209,thimmaiah road,2029,Apr-Jun,16321.04
+3208,thimmaiah road,2029,Jan-Mar,16321.04
+3210,thimmaiah road,2029,Jul-Sep,16321.04
+3211,thimmaiah road,2029,Oct-Dec,16321.04
+3213,thimmaiah road,2030,Apr-Jun,16867.94
+3212,thimmaiah road,2030,Jan-Mar,16867.94
+3214,thimmaiah road,2030,Jul-Sep,16867.94
+3215,thimmaiah road,2030,Oct-Dec,16867.94
+3217,tumkur road,2025,Apr-Jun,10760.07
+3216,tumkur road,2025,Jan-Mar,10760.07
+3218,tumkur road,2025,Jul-Sep,10760.07
+3219,tumkur road,2025,Oct-Dec,10760.07
+3221,tumkur road,2026,Apr-Jun,12151.86
+3220,tumkur road,2026,Jan-Mar,12151.86
+3222,tumkur road,2026,Jul-Sep,12151.86
+3223,tumkur road,2026,Oct-Dec,12151.86
+3225,tumkur road,2027,Apr-Jun,13723.67
+3224,tumkur road,2027,Jan-Mar,13723.67
+3226,tumkur road,2027,Jul-Sep,13723.67
+3227,tumkur road,2027,Oct-Dec,13723.67
+3229,tumkur road,2028,Apr-Jun,15498.8
+3228,tumkur road,2028,Jan-Mar,15498.8
+3230,tumkur road,2028,Jul-Sep,15498.8
+3231,tumkur road,2028,Oct-Dec,15498.8
+3233,tumkur road,2029,Apr-Jun,17503.53
+3232,tumkur road,2029,Jan-Mar,17503.53
+3234,tumkur road,2029,Jul-Sep,17503.53
+3235,tumkur road,2029,Oct-Dec,17503.53
+3237,tumkur road,2030,Apr-Jun,19767.56
+3236,tumkur road,2030,Jan-Mar,19767.56
+3238,tumkur road,2030,Jul-Sep,19767.56
+3239,tumkur road,2030,Oct-Dec,19767.56
+3241,uttarahalli hobli,2025,Apr-Jun,7348.34
+3240,uttarahalli hobli,2025,Jan-Mar,7348.34
+3242,uttarahalli hobli,2025,Jul-Sep,7348.34
+3243,uttarahalli hobli,2025,Oct-Dec,7348.34
+3245,uttarahalli hobli,2026,Apr-Jun,7874.09
+3244,uttarahalli hobli,2026,Jan-Mar,7874.09
+3246,uttarahalli hobli,2026,Jul-Sep,7874.09
+3247,uttarahalli hobli,2026,Oct-Dec,7874.09
+3249,uttarahalli hobli,2027,Apr-Jun,8437.46
+3248,uttarahalli hobli,2027,Jan-Mar,8437.46
+3250,uttarahalli hobli,2027,Jul-Sep,8437.46
+3251,uttarahalli hobli,2027,Oct-Dec,8437.46
+3253,uttarahalli hobli,2028,Apr-Jun,9041.14
+3252,uttarahalli hobli,2028,Jan-Mar,9041.14
+3254,uttarahalli hobli,2028,Jul-Sep,9041.14
+3255,uttarahalli hobli,2028,Oct-Dec,9041.14
+3257,uttarahalli hobli,2029,Apr-Jun,9688.01
+3256,uttarahalli hobli,2029,Jan-Mar,9688.01
+3258,uttarahalli hobli,2029,Jul-Sep,9688.01
+3259,uttarahalli hobli,2029,Oct-Dec,9688.01
+3261,uttarahalli hobli,2030,Apr-Jun,10381.16
+3260,uttarahalli hobli,2030,Jan-Mar,10381.16
+3262,uttarahalli hobli,2030,Jul-Sep,10381.16
+3263,uttarahalli hobli,2030,Oct-Dec,10381.16
+3265,uttarahalli main road,2025,Apr-Jun,7354.94
+3264,uttarahalli main road,2025,Jan-Mar,7354.94
+3266,uttarahalli main road,2025,Jul-Sep,7354.94
+3267,uttarahalli main road,2025,Oct-Dec,7354.94
+3269,uttarahalli main road,2026,Apr-Jun,7926.4
+3268,uttarahalli main road,2026,Jan-Mar,7926.4
+3270,uttarahalli main road,2026,Jul-Sep,7926.4
+3271,uttarahalli main road,2026,Oct-Dec,7926.4
+3273,uttarahalli main road,2027,Apr-Jun,8542.25
+3272,uttarahalli main road,2027,Jan-Mar,8542.25
+3274,uttarahalli main road,2027,Jul-Sep,8542.25
+3275,uttarahalli main road,2027,Oct-Dec,8542.25
+3277,uttarahalli main road,2028,Apr-Jun,9205.95
+3276,uttarahalli main road,2028,Jan-Mar,9205.95
+3278,uttarahalli main road,2028,Jul-Sep,9205.95
+3279,uttarahalli main road,2028,Oct-Dec,9205.95
+3281,uttarahalli main road,2029,Apr-Jun,9921.22
+3280,uttarahalli main road,2029,Jan-Mar,9921.22
+3282,uttarahalli main road,2029,Jul-Sep,9921.22
+3283,uttarahalli main road,2029,Oct-Dec,9921.22
+3285,uttarahalli main road,2030,Apr-Jun,10692.06
+3284,uttarahalli main road,2030,Jan-Mar,10692.06
+3286,uttarahalli main road,2030,Jul-Sep,10692.06
+3287,uttarahalli main road,2030,Oct-Dec,10692.06
+3289,vajarahalli,2025,Apr-Jun,8472.57
+3288,vajarahalli,2025,Jan-Mar,8472.57
+3290,vajarahalli,2025,Jul-Sep,8472.57
+3291,vajarahalli,2025,Oct-Dec,8472.57
+3293,vajarahalli,2026,Apr-Jun,9588.37
+3292,vajarahalli,2026,Jan-Mar,9588.37
+3294,vajarahalli,2026,Jul-Sep,9588.37
+3295,vajarahalli,2026,Oct-Dec,9588.37
+3297,vajarahalli,2027,Apr-Jun,10851.12
+3296,vajarahalli,2027,Jan-Mar,10851.12
+3298,vajarahalli,2027,Jul-Sep,10851.12
+3299,vajarahalli,2027,Oct-Dec,10851.12
+3301,vajarahalli,2028,Apr-Jun,12280.17
+3300,vajarahalli,2028,Jan-Mar,12280.17
+3302,vajarahalli,2028,Jul-Sep,12280.17
+3303,vajarahalli,2028,Oct-Dec,12280.17
+3305,vajarahalli,2029,Apr-Jun,13897.41
+3304,vajarahalli,2029,Jan-Mar,13897.41
+3306,vajarahalli,2029,Jul-Sep,13897.41
+3307,vajarahalli,2029,Oct-Dec,13897.41
+3309,vajarahalli,2030,Apr-Jun,15727.65
+3308,vajarahalli,2030,Jan-Mar,15727.65
+3310,vajarahalli,2030,Jul-Sep,15727.65
+3311,vajarahalli,2030,Oct-Dec,15727.65
+3313,varthur,2025,Apr-Jun,11525.68
+3312,varthur,2025,Jan-Mar,11525.68
+3314,varthur,2025,Jul-Sep,11525.68
+3315,varthur,2025,Oct-Dec,11525.68
+3317,varthur,2026,Apr-Jun,13413.05
+3316,varthur,2026,Jan-Mar,13413.05
+3318,varthur,2026,Jul-Sep,13413.05
+3319,varthur,2026,Oct-Dec,13413.05
+3321,varthur,2027,Apr-Jun,15609.48
+3320,varthur,2027,Jan-Mar,15609.48
+3322,varthur,2027,Jul-Sep,15609.48
+3323,varthur,2027,Oct-Dec,15609.48
+3325,varthur,2028,Apr-Jun,18165.59
+3324,varthur,2028,Jan-Mar,18165.59
+3326,varthur,2028,Jul-Sep,18165.59
+3327,varthur,2028,Oct-Dec,18165.59
+3329,varthur,2029,Apr-Jun,21140.26
+3328,varthur,2029,Jan-Mar,21140.26
+3330,varthur,2029,Jul-Sep,21140.26
+3331,varthur,2029,Oct-Dec,21140.26
+3333,varthur,2030,Apr-Jun,24602.04
+3332,varthur,2030,Jan-Mar,24602.04
+3334,varthur,2030,Jul-Sep,24602.04
+3335,varthur,2030,Oct-Dec,24602.04
+3337,varthur road,2025,Apr-Jun,11607.29
+3361,varthur road,2025,Apr-Jun,11607.29
+3336,varthur road,2025,Jan-Mar,11607.29
+3360,varthur road,2025,Jan-Mar,11607.29
+3338,varthur road,2025,Jul-Sep,11607.29
+3362,varthur road,2025,Jul-Sep,11607.29
+3339,varthur road,2025,Oct-Dec,11607.29
+3363,varthur road,2025,Oct-Dec,11607.29
+3341,varthur road,2026,Apr-Jun,13404.45
+3365,varthur road,2026,Apr-Jun,13404.45
+3340,varthur road,2026,Jan-Mar,13404.45
+3364,varthur road,2026,Jan-Mar,13404.45
+3342,varthur road,2026,Jul-Sep,13404.45
+3366,varthur road,2026,Jul-Sep,13404.45
+3343,varthur road,2026,Oct-Dec,13404.45
+3367,varthur road,2026,Oct-Dec,13404.45
+3345,varthur road,2027,Apr-Jun,15479.87
+3369,varthur road,2027,Apr-Jun,15479.87
+3344,varthur road,2027,Jan-Mar,15479.87
+3368,varthur road,2027,Jan-Mar,15479.87
+3346,varthur road,2027,Jul-Sep,15479.87
+3370,varthur road,2027,Jul-Sep,15479.87
+3347,varthur road,2027,Oct-Dec,15479.87
+3371,varthur road,2027,Oct-Dec,15479.87
+3349,varthur road,2028,Apr-Jun,17876.64
+3373,varthur road,2028,Apr-Jun,17876.64
+3348,varthur road,2028,Jan-Mar,17876.64
+3372,varthur road,2028,Jan-Mar,17876.64
+3350,varthur road,2028,Jul-Sep,17876.64
+3374,varthur road,2028,Jul-Sep,17876.64
+3351,varthur road,2028,Oct-Dec,17876.64
+3375,varthur road,2028,Oct-Dec,17876.64
+3353,varthur road,2029,Apr-Jun,20644.49
+3377,varthur road,2029,Apr-Jun,20644.49
+3352,varthur road,2029,Jan-Mar,20644.49
+3376,varthur road,2029,Jan-Mar,20644.49
+3354,varthur road,2029,Jul-Sep,20644.49
+3378,varthur road,2029,Jul-Sep,20644.49
+3355,varthur road,2029,Oct-Dec,20644.49
+3379,varthur road,2029,Oct-Dec,20644.49
+3357,varthur road,2030,Apr-Jun,23840.9
+3381,varthur road,2030,Apr-Jun,23840.9
+3356,varthur road,2030,Jan-Mar,23840.9
+3380,varthur road,2030,Jan-Mar,23840.9
+3358,varthur road,2030,Jul-Sep,23840.9
+3382,varthur road,2030,Jul-Sep,23840.9
+3359,varthur road,2030,Oct-Dec,23840.9
+3383,varthur road,2030,Oct-Dec,23840.9
+3385,vidyaranyapura,2025,Apr-Jun,6711.13
+3384,vidyaranyapura,2025,Jan-Mar,6711.13
+3386,vidyaranyapura,2025,Jul-Sep,6711.13
+3387,vidyaranyapura,2025,Oct-Dec,6711.13
+3389,vidyaranyapura,2026,Apr-Jun,7248.44
+3388,vidyaranyapura,2026,Jan-Mar,7248.44
+3390,vidyaranyapura,2026,Jul-Sep,7248.44
+3391,vidyaranyapura,2026,Oct-Dec,7248.44
+3393,vidyaranyapura,2027,Apr-Jun,7828.78
+3392,vidyaranyapura,2027,Jan-Mar,7828.78
+3394,vidyaranyapura,2027,Jul-Sep,7828.78
+3395,vidyaranyapura,2027,Oct-Dec,7828.78
+3397,vidyaranyapura,2028,Apr-Jun,8455.59
+3396,vidyaranyapura,2028,Jan-Mar,8455.59
+3398,vidyaranyapura,2028,Jul-Sep,8455.59
+3399,vidyaranyapura,2028,Oct-Dec,8455.59
+3401,vidyaranyapura,2029,Apr-Jun,9132.57
+3400,vidyaranyapura,2029,Jan-Mar,9132.57
+3402,vidyaranyapura,2029,Jul-Sep,9132.57
+3403,vidyaranyapura,2029,Oct-Dec,9132.57
+3405,vidyaranyapura,2030,Apr-Jun,9863.76
+3404,vidyaranyapura,2030,Jan-Mar,9863.76
+3406,vidyaranyapura,2030,Jul-Sep,9863.76
+3407,vidyaranyapura,2030,Oct-Dec,9863.76
+3409,vijaynagar,2025,Apr-Jun,8985.68
+3408,vijaynagar,2025,Jan-Mar,8985.68
+3410,vijaynagar,2025,Jul-Sep,8985.68
+3411,vijaynagar,2025,Oct-Dec,8985.68
+3413,vijaynagar,2026,Apr-Jun,9574.68
+3412,vijaynagar,2026,Jan-Mar,9574.68
+3414,vijaynagar,2026,Jul-Sep,9574.68
+3415,vijaynagar,2026,Oct-Dec,9574.68
+3417,vijaynagar,2027,Apr-Jun,10202.28
+3416,vijaynagar,2027,Jan-Mar,10202.28
+3418,vijaynagar,2027,Jul-Sep,10202.28
+3419,vijaynagar,2027,Oct-Dec,10202.28
+3421,vijaynagar,2028,Apr-Jun,10871.02
+3420,vijaynagar,2028,Jan-Mar,10871.02
+3422,vijaynagar,2028,Jul-Sep,10871.02
+3423,vijaynagar,2028,Oct-Dec,10871.02
+3425,vijaynagar,2029,Apr-Jun,11583.59
+3424,vijaynagar,2029,Jan-Mar,11583.59
+3426,vijaynagar,2029,Jul-Sep,11583.59
+3427,vijaynagar,2029,Oct-Dec,11583.59
+3429,vijaynagar,2030,Apr-Jun,12342.87
+3428,vijaynagar,2030,Jan-Mar,12342.87
+3430,vijaynagar,2030,Jul-Sep,12342.87
+3431,vijaynagar,2030,Oct-Dec,12342.87
+3433,vijaynagar main road,2025,Apr-Jun,11293.06
+3432,vijaynagar main road,2025,Jan-Mar,11293.06
+3434,vijaynagar main road,2025,Jul-Sep,11293.06
+3435,vijaynagar main road,2025,Oct-Dec,11293.06
+3437,vijaynagar main road,2026,Apr-Jun,12249.58
+3436,vijaynagar main road,2026,Jan-Mar,12249.58
+3438,vijaynagar main road,2026,Jul-Sep,12249.58
+3439,vijaynagar main road,2026,Oct-Dec,12249.58
+3441,vijaynagar main road,2027,Apr-Jun,13287.11
+3440,vijaynagar main road,2027,Jan-Mar,13287.11
+3442,vijaynagar main road,2027,Jul-Sep,13287.11
+3443,vijaynagar main road,2027,Oct-Dec,13287.11
+3445,vijaynagar main road,2028,Apr-Jun,14412.53
+3444,vijaynagar main road,2028,Jan-Mar,14412.53
+3446,vijaynagar main road,2028,Jul-Sep,14412.53
+3447,vijaynagar main road,2028,Oct-Dec,14412.53
+3449,vijaynagar main road,2029,Apr-Jun,15633.27
+3448,vijaynagar main road,2029,Jan-Mar,15633.27
+3450,vijaynagar main road,2029,Jul-Sep,15633.27
+3451,vijaynagar main road,2029,Oct-Dec,15633.27
+3453,vijaynagar main road,2030,Apr-Jun,16957.4
+3452,vijaynagar main road,2030,Jan-Mar,16957.4
+3454,vijaynagar main road,2030,Jul-Sep,16957.4
+3455,vijaynagar main road,2030,Oct-Dec,16957.4
+3457,vittal mallya road,2025,Apr-Jun,18240.83
+3456,vittal mallya road,2025,Jan-Mar,18240.83
+3458,vittal mallya road,2025,Jul-Sep,18240.83
+3459,vittal mallya road,2025,Oct-Dec,18240.83
+3461,vittal mallya road,2026,Apr-Jun,20349.17
+3460,vittal mallya road,2026,Jan-Mar,20349.17
+3462,vittal mallya road,2026,Jul-Sep,20349.17
+3463,vittal mallya road,2026,Oct-Dec,20349.17
+3465,vittal mallya road,2027,Apr-Jun,22701.21
+3464,vittal mallya road,2027,Jan-Mar,22701.21
+3466,vittal mallya road,2027,Jul-Sep,22701.21
+3467,vittal mallya road,2027,Oct-Dec,22701.21
+3469,vittal mallya road,2028,Apr-Jun,25325.11
+3468,vittal mallya road,2028,Jan-Mar,25325.11
+3470,vittal mallya road,2028,Jul-Sep,25325.11
+3471,vittal mallya road,2028,Oct-Dec,25325.11
+3473,vittal mallya road,2029,Apr-Jun,28252.29
+3472,vittal mallya road,2029,Jan-Mar,28252.29
+3474,vittal mallya road,2029,Jul-Sep,28252.29
+3475,vittal mallya road,2029,Oct-Dec,28252.29
+3477,vittal mallya road,2030,Apr-Jun,31517.81
+3476,vittal mallya road,2030,Jan-Mar,31517.81
+3478,vittal mallya road,2030,Jul-Sep,31517.81
+3479,vittal mallya road,2030,Oct-Dec,31517.81
+3481,viviani road,2025,Apr-Jun,13145.03
+3480,viviani road,2025,Jan-Mar,13145.03
+3482,viviani road,2025,Jul-Sep,13145.03
+3483,viviani road,2025,Oct-Dec,13145.03
+3485,viviani road,2026,Apr-Jun,14165.31
+3484,viviani road,2026,Jan-Mar,14165.31
+3486,viviani road,2026,Jul-Sep,14165.31
+3487,viviani road,2026,Oct-Dec,14165.31
+3489,viviani road,2027,Apr-Jun,15264.79
+3488,viviani road,2027,Jan-Mar,15264.79
+3490,viviani road,2027,Jul-Sep,15264.79
+3491,viviani road,2027,Oct-Dec,15264.79
+3493,viviani road,2028,Apr-Jun,16449.61
+3492,viviani road,2028,Jan-Mar,16449.61
+3494,viviani road,2028,Jul-Sep,16449.61
+3495,viviani road,2028,Oct-Dec,16449.61
+3497,viviani road,2029,Apr-Jun,17726.39
+3496,viviani road,2029,Jan-Mar,17726.39
+3498,viviani road,2029,Jul-Sep,17726.39
+3499,viviani road,2029,Oct-Dec,17726.39
+3501,viviani road,2030,Apr-Jun,19102.27
+3500,viviani road,2030,Jan-Mar,19102.27
+3502,viviani road,2030,Jul-Sep,19102.27
+3503,viviani road,2030,Oct-Dec,19102.27
+3505,whitefield,2025,Apr-Jun,11621.56
+3504,whitefield,2025,Jan-Mar,11621.56
+3506,whitefield,2025,Jul-Sep,11621.56
+3507,whitefield,2025,Oct-Dec,11621.56
+3509,whitefield,2026,Apr-Jun,12071.97
+3508,whitefield,2026,Jan-Mar,12071.97
+3510,whitefield,2026,Jul-Sep,12071.97
+3511,whitefield,2026,Oct-Dec,12071.97
+3513,whitefield,2027,Apr-Jun,12539.84
+3512,whitefield,2027,Jan-Mar,12539.84
+3514,whitefield,2027,Jul-Sep,12539.84
+3515,whitefield,2027,Oct-Dec,12539.84
+3517,whitefield,2028,Apr-Jun,13025.84
+3516,whitefield,2028,Jan-Mar,13025.84
+3518,whitefield,2028,Jul-Sep,13025.84
+3519,whitefield,2028,Oct-Dec,13025.84
+3521,whitefield,2029,Apr-Jun,13530.68
+3520,whitefield,2029,Jan-Mar,13530.68
+3522,whitefield,2029,Jul-Sep,13530.68
+3523,whitefield,2029,Oct-Dec,13530.68
+3525,whitefield,2030,Apr-Jun,14055.09
+3524,whitefield,2030,Jan-Mar,14055.09
+3526,whitefield,2030,Jul-Sep,14055.09
+3527,whitefield,2030,Oct-Dec,14055.09
+3529,yelahanka,2025,Apr-Jun,7225.0
+3528,yelahanka,2025,Jan-Mar,7225.0
+3530,yelahanka,2025,Jul-Sep,7225.0
+3531,yelahanka,2025,Oct-Dec,7225.0
+3533,yelahanka,2026,Apr-Jun,7779.96
+3532,yelahanka,2026,Jan-Mar,7779.96
+3534,yelahanka,2026,Jul-Sep,7779.96
+3535,yelahanka,2026,Oct-Dec,7779.96
+3537,yelahanka,2027,Apr-Jun,8377.55
+3536,yelahanka,2027,Jan-Mar,8377.55
+3538,yelahanka,2027,Jul-Sep,8377.55
+3539,yelahanka,2027,Oct-Dec,8377.55
+3541,yelahanka,2028,Apr-Jun,9021.05
+3540,yelahanka,2028,Jan-Mar,9021.05
+3542,yelahanka,2028,Jul-Sep,9021.05
+3543,yelahanka,2028,Oct-Dec,9021.05
+3545,yelahanka,2029,Apr-Jun,9713.97
+3544,yelahanka,2029,Jan-Mar,9713.97
+3546,yelahanka,2029,Jul-Sep,9713.97
+3547,yelahanka,2029,Oct-Dec,9713.97
+3549,yelahanka,2030,Apr-Jun,10460.11
+3548,yelahanka,2030,Jan-Mar,10460.11
+3550,yelahanka,2030,Jul-Sep,10460.11
+3551,yelahanka,2030,Oct-Dec,10460.11
+3553,yelahanka airforce base,2025,Apr-Jun,7217.84
+3552,yelahanka airforce base,2025,Jan-Mar,7217.84
+3554,yelahanka airforce base,2025,Jul-Sep,7217.84
+3555,yelahanka airforce base,2025,Oct-Dec,7217.84
+3557,yelahanka airforce base,2026,Apr-Jun,7593.78
+3556,yelahanka airforce base,2026,Jan-Mar,7593.78
+3558,yelahanka airforce base,2026,Jul-Sep,7593.78
+3559,yelahanka airforce base,2026,Oct-Dec,7593.78
+3561,yelahanka airforce base,2027,Apr-Jun,7989.31
+3560,yelahanka airforce base,2027,Jan-Mar,7989.31
+3562,yelahanka airforce base,2027,Jul-Sep,7989.31
+3563,yelahanka airforce base,2027,Oct-Dec,7989.31
+3565,yelahanka airforce base,2028,Apr-Jun,8405.43
+3564,yelahanka airforce base,2028,Jan-Mar,8405.43
+3566,yelahanka airforce base,2028,Jul-Sep,8405.43
+3567,yelahanka airforce base,2028,Oct-Dec,8405.43
+3569,yelahanka airforce base,2029,Apr-Jun,8843.23
+3568,yelahanka airforce base,2029,Jan-Mar,8843.23
+3570,yelahanka airforce base,2029,Jul-Sep,8843.23
+3571,yelahanka airforce base,2029,Oct-Dec,8843.23
+3573,yelahanka airforce base,2030,Apr-Jun,9303.83
+3572,yelahanka airforce base,2030,Jan-Mar,9303.83
+3574,yelahanka airforce base,2030,Jul-Sep,9303.83
+3575,yelahanka airforce base,2030,Oct-Dec,9303.83
+3577,yelahanka new town,2025,Apr-Jun,7119.23
+3576,yelahanka new town,2025,Jan-Mar,7119.23
+3578,yelahanka new town,2025,Jul-Sep,7119.23
+3579,yelahanka new town,2025,Oct-Dec,7119.23
+3581,yelahanka new town,2026,Apr-Jun,7563.58
+3580,yelahanka new town,2026,Jan-Mar,7563.58
+3582,yelahanka new town,2026,Jul-Sep,7563.58
+3583,yelahanka new town,2026,Oct-Dec,7563.58
+3585,yelahanka new town,2027,Apr-Jun,8035.66
+3584,yelahanka new town,2027,Jan-Mar,8035.66
+3586,yelahanka new town,2027,Jul-Sep,8035.66
+3587,yelahanka new town,2027,Oct-Dec,8035.66
+3589,yelahanka new town,2028,Apr-Jun,8537.2
+3588,yelahanka new town,2028,Jan-Mar,8537.2
+3590,yelahanka new town,2028,Jul-Sep,8537.2
+3591,yelahanka new town,2028,Oct-Dec,8537.2
+3593,yelahanka new town,2029,Apr-Jun,9070.05
+3592,yelahanka new town,2029,Jan-Mar,9070.05
+3594,yelahanka new town,2029,Jul-Sep,9070.05
+3595,yelahanka new town,2029,Oct-Dec,9070.05
+3597,yelahanka new town,2030,Apr-Jun,9636.16
+3596,yelahanka new town,2030,Jan-Mar,9636.16
+3598,yelahanka new town,2030,Jul-Sep,9636.16
+3599,yelahanka new town,2030,Oct-Dec,9636.16
+3601,yeswanthpur,2025,Apr-Jun,10330.37
+3600,yeswanthpur,2025,Jan-Mar,10330.37
+3602,yeswanthpur,2025,Jul-Sep,10330.37
+3603,yeswanthpur,2025,Oct-Dec,10330.37
+3605,yeswanthpur,2026,Apr-Jun,11145.91
+3604,yeswanthpur,2026,Jan-Mar,11145.91
+3606,yeswanthpur,2026,Jul-Sep,11145.91
+3607,yeswanthpur,2026,Oct-Dec,11145.91
+3609,yeswanthpur,2027,Apr-Jun,12025.84
+3608,yeswanthpur,2027,Jan-Mar,12025.84
+3610,yeswanthpur,2027,Jul-Sep,12025.84
+3611,yeswanthpur,2027,Oct-Dec,12025.84
+3613,yeswanthpur,2028,Apr-Jun,12975.23
+3612,yeswanthpur,2028,Jan-Mar,12975.23
+3614,yeswanthpur,2028,Jul-Sep,12975.23
+3615,yeswanthpur,2028,Oct-Dec,12975.23
+3617,yeswanthpur,2029,Apr-Jun,13999.58
+3616,yeswanthpur,2029,Jan-Mar,13999.58
+3618,yeswanthpur,2029,Jul-Sep,13999.58
+3619,yeswanthpur,2029,Oct-Dec,13999.58
+3621,yeswanthpur,2030,Apr-Jun,15104.79
+3620,yeswanthpur,2030,Jan-Mar,15104.79
+3622,yeswanthpur,2030,Jul-Sep,15104.79
+3623,yeswanthpur,2030,Oct-Dec,15104.79
